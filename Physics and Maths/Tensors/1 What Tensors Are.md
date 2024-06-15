@@ -1,0 +1,7 @@
+Tags: [[Tensors]]
+___
+A vector is a member of a vector space. In the context of physics, the word "vector" is restricted to those that transform contravariantly - those that represent an idea similar to physical objects. If the basis vectors shrink, the coordinates must grow, because the physical object remained the same - that is contravariance. A vector in this sense must be written as a column. 
+
+A co-vector is a linear function on a vector, identical to a dot product with some vector (which shall be what we identify the linear function with), and lives in the dual space of the vector space it acts on. A co-vector is best visualised with equipotential maps over the vector space it acts on, and each component of the co-vector represents how many equipotentials the corresponding basis vector will pierce through. They transform covariantly, because when the basis vectors shrink, the new basis vectors will pierce through fewer equipotentials. Co-vectors are written as rows.
+
+Tensors are the most general linear objects/maps. They are made using tensor products on a collection of vectors and co-vectors, which are its building blocks. Thus, tensors can be rows of rows or rows of columns or columns of columns or columns of rows and any higher combination. Similar to vector fields, there can also be tensor fields. 
