@@ -1,4 +1,4 @@
-Tags: [[Special Relativity]] [[Tensors]] [[5 How Tensors Transform]]
+Tags: [[Relativity]] [[Tensors]] [[5 How Tensors Transform]]
 ___
 ## Lorentz Transformations
 What kind of transformations preserve the metric tensor? Such transformations are Lorentz transformations, and correspond to switching between reference frames in spacetime. These transformations denoted $\Lambda$ are defined by: 

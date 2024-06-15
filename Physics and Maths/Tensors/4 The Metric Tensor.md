@@ -19,3 +19,5 @@ The metric tensor converts a vector into a co-vector, which can also be seen as 
 $$X_\mu=X^\nu\eta_{\nu\mu}$$
 and use it in the inner product with $Y$. The inner product then looks exactly like a contraction:
 $$X_\mu Y^\mu$$
+In this sense the metric tensor is the index lowering operator. We can also define an index raising operator $\tilde\eta$, which must satisfy:
+$$\eta_{\mu\sigma}\tilde\eta^{\sigma\nu}=\delta_\mu^\nu$$

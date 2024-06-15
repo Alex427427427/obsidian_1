@@ -1,14 +1,14 @@
-Tags: [[3 Relativistic Motion]] [[Special Relativity]]
+Tags: [[3 Relativistic Motion]] [[Relativity]]
 ___
 ## 4-Momentum
 The property responsible for inertia, $m$, controls the curvature imparted onto worldlines by some force. Multiplying it to 4-velocity, gives the 4-momentum. 
-$$P=mU=\gamma m(c,v_x,v_y,v_z)$$
+$$P=mU=\gamma m(c,v_x,v_y,v_z)^T$$
 The same notes about 4-velocity carry over, except with an additional factor of $m$. All objects have a momentum through spacetime of length $mc$.
 ## Energy
 In all dynamics, momentum is the [[Generator]] of spatial translation, while energy is the generator of time evolution. We now have a notion of momentum over spacetime. 4-momentum is the generator of spacetime translation. By inspecting the 4-momentum, we see that $\gamma mc$ is the generator for $ct$ translation. Generator variables and the resulting translation variable have a reciprocal relationship. Therefore, the generator for $t$ translation is $\gamma mc^2$. This is the total energy of the object.  
 $$\boxed{E=\gamma mc^2}$$
 With this knowledge, we can rewrite the momentum:
-$$\boxed{P=\left(\frac{E}{c},p_x,p_y,p_z\right)}$$
+$$\boxed{P=\left(\frac{E}{c},p_x,p_y,p_z\right)^T}$$
 where $p_i=\gamma mv_i$.
 ### Rest Energy
 When an object is not moving, $\gamma=1$, therefore $E_0=mc^2$. This is Einstein's famous mass-energy relationship. 

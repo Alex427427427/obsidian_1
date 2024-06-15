@@ -1,4 +1,4 @@
-Tags: [[Unit Systems]] [[Electromagnetism]] [[Special Relativity]]
+Tags: [[Unit Systems]] [[Electromagnetism]] [[Relativity]]
 ___
 Start from [[2 Heaviside-Lorentz Units]], and set $c = 1$. Where quantum quantities are present, set $\hbar=1$.
 # Maxwell Equations
