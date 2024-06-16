@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md",
+                "file": "Physics and Maths/Classical Electromagnetism/Electric Polarisation Of Insulators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md",
+                "file": "Physics and Maths/Classical Electromagnetism/Electric Polarisation Of Insulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md",
+                "file": "Physics and Maths/Classical Electromagnetism/Electric Polarisation Of Insulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md"
+                "file": "Physics and Maths/Classical Electromagnetism/Electric Polarisation Of Insulators.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   "active": "0d030fc70f03ed98",
   "lastOpenFiles": [
     "Physics and Maths/Classical Electromagnetism/Capacitors.md",
+    "Physics and Maths/Classical Electromagnetism/Electric Polarisation Of Insulators.md",
+    "Physics and Maths/Classical Electromagnetism/Electric Displacement Field.md",
+    "Physics and Maths/Classical Electromagnetism/Electric Dipole Moment.md",
+    "Physics and Maths/Unit systems/1 Gaussian Units.md",
     "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md",
-    "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md",
     "Physics and Maths/Classical Electromagnetism/Magnetic Dipole Moment.md",
     "Images/Capacitor.png",
-    "Physics and Maths/Classical Electromagnetism/Electric Dipole Moment.md",
     "Physics and Maths/Classical Electromagnetism/Electromagnetic Waves.md",
     "Physics and Maths/Classical Electromagnetism/Inductors.md",
     "Physics and Maths/Classical Dynamics/1 Newton.md",
@@ -184,7 +186,6 @@
     "Physics and Maths/Quantum Mechanics Application/1 Time Independent Perturbation theory.md",
     "Physics and Maths/Quantum Mechanics Application",
     "Physics and Maths/Classical Dynamics",
-    "Physics and Maths/Relativistic Electromagnetism/6 The EM Lagrange Density.md",
     "Physics and Maths/Classical Electromagnetism",
     "Physics and Maths/Speculations of the Note Taker",
     "Physics and Maths/Relativistic Electromagnetism",
