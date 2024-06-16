@@ -8,7 +8,7 @@ where $c_i=\vec{e_i}\cdot\vec{\Psi}$, the projection of $\vec{\Psi}$ onto the $i
 ## Inner Products
 Since the components of $\ket\Psi$ are complex, we use the complex inner product. For 2 complex numbers $v$ and $w$, the inner product is $v^*w$. The result is a complex number having a magnitude equal to the product of the operand magnitudes, and a phase equal to the phase difference between the operand phases. Therefore, for 2 vectors $\vec \Psi_1=\sum_i a_i\vec e_i$ and $\vec\Psi_2=\sum_i b_i\vec e_i$, the dot product is:
 $${\vec\Psi_1}^\dagger\vec\Psi_2=\begin{pmatrix}a_1^*&a_2^*&\dots\end{pmatrix}\begin{pmatrix}b_1\\b_2\\\vdots\end{pmatrix}$$
-Where ${\vec\Psi}^\dagger$ is the hermitian conjugate of $\vec\Psi$ - its complex conjugate transpose. 
+Where ${\vec\Psi}^\dagger$ is the "hermitian adjoint" of $\vec\Psi$ - its complex conjugate transpose. 
 ## Dual of States
 $\vec\Psi^\dagger$, the hermitian conjugate of $\vec\Psi$, is the covector ([[1 What Tensors Are]]) of $\vec\Psi$ and lives in its dual space. It is that object which we use in inner products - to measure a space, and endow it with a notion of length and angle.  
 $$\vec{\Psi}^\dagger=\begin{pmatrix}c_1^*&c_2^*&\dots\end{pmatrix}$$

@@ -1,4 +1,4 @@
-Tags: [[Speculation]] [[1 The Quantum State]] [[4 Measurement event, the Projection and Identity Operator]] [[The Measurement Problem]] [[ER=EPR]] [[Bell's Theorem]] [[Relativity]]
+Tags: [[Speculation]] [[1 The Quantum State]] [[4 Measurement Event, the Projection and Identity Operator]] [[The Measurement Problem]] [[ER=EPR]] [[Bell's Theorem]] [[Relativity]]
 ___
 Quantum experiments only ever probe massive ensemble of particles and probe the average of their behaviour. Quantum formalism then assigns this group observation to each of the individual particles. This forces us to adopt local non-realism, which has severe problems when integrating with the locally real GR. 
 

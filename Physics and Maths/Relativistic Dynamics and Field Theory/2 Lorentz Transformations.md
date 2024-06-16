@@ -1,7 +1,7 @@
 Tags: [[Relativity]] [[Tensors]] [[5 How Tensors Transform]]
 ___
 ## Lorentz Transformations
-What kind of transformations preserve the metric tensor? Such transformations are Lorentz transformations, and correspond to switching between reference frames in spacetime. These transformations denoted $\Lambda$ are defined by: 
+What kind of transformations leave the metric tensor invariant? Such transformations are Lorentz transformations, and correspond to switching between reference frames in spacetime. These transformations denoted $\Lambda$ are defined by: 
 $$\Lambda^{-1} \eta \Lambda=\eta\ \ \ \ \ \ \ \ \ \ \ \ $$
 Let's unpack this and find out what $\Lambda^{-1}$ must be. 
 $${\left(\Lambda^{-1}\right)^\rho}_\mu\eta_{\rho\sigma}{\Lambda^\sigma}_\nu=\eta_{\mu\nu}={\Lambda_\mu}^\rho\eta_{\rho\sigma}{\Lambda^\sigma}_\nu={\left(\Lambda^T\right)^\rho}_\mu\eta_{\rho\sigma}{\Lambda^\sigma}_\nu$$
@@ -19,7 +19,7 @@ z^\prime=z$$where $\gamma=\frac{1}{\sqrt{1-\beta^2}}$, and $\beta = v/c$
 #### 4-Vector
 With the Lorentz transformation defined, we see how 4-vectors transform:
 $$X^{\prime\mu}={\Lambda^{\mu}}_{\nu}X^\nu$$
-For Lorentz boosts, this results in the tip of the $X$ vector tracing out a hyperbola. This preserves the volume of the **causal diamond** which is the intersection between the future light-cone of the origin and the past light-cone of $X$, meaning the totality of the events that can connect the origin to $X$ have a fixed volume.
+For Lorentz boosts, this results in the tip of the $X$ vector tracing out a hyperbola. This preserves the volume of the **causal diamond** which is the intersection between the future light-cone of the origin and the past light-cone of $X$, meaning the totality of the events that can connect the origin to $X$ have a fixed volume. This is of course just a consequence of the metric preservation. 
 #### co-vector
 Now let's find out how co-vectors transform. Consider inserting an identity between the inner product between a co-vector and a vector:
 $$X_\mu X^\mu=X_\nu\left(\Lambda^T \Lambda\right)X^\nu$$

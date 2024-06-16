@@ -13,7 +13,7 @@ E_y & B_z & 0 & -B_x \\
 E_z & -B_y & B_x & 0 
 \end{bmatrix}$$
 What does this rotation generator field rotate? The 4-velocity ([[3 Relativistic Motion]]) of charged objects. The equation of motion is simply the lie algebraic equation for infinitesimal rotation:
-$$\frac{dU_\mu}{dt}=\frac{q}{m}F_{\mu\nu}U^\nu$$
+$$\left(\frac{dU}{dt}\right)_\mu=\frac{q}{m}F_{\mu\nu}U^\nu$$
 While the term $\frac{qF}{m}$ is the rotation generator, the term $qFU$ is also clearly a force. So the tensor may also be understood as a **function** that maps velocities to forces. 
 #### Degrees of Freedom
 Notice that there are 6 degrees of freedom in the EM tensor, which matches that of a general rotation in 4D. Later we will see that the Electric and Magnetic fields are further constrained such that there are only 4 true degrees of freedom. 

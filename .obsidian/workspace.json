@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd7cd081e787c74",
+        "id": "aa3160d472e5c446",
         "type": "tabs",
         "children": [
           {
-            "id": "8876989a0637c5de",
+            "id": "0d030fc70f03ed98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics and Maths/Relativistic Dynamics and Field Theory/5 Relativistic Force.md",
+                "file": "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics and Maths/Relativistic Dynamics and Field Theory/5 Relativistic Force.md",
+                "file": "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics and Maths/Relativistic Dynamics and Field Theory/5 Relativistic Force.md",
+                "file": "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics and Maths/Relativistic Dynamics and Field Theory/5 Relativistic Force.md"
+                "file": "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md"
               }
             }
           }
@@ -146,43 +146,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8876989a0637c5de",
+  "active": "0d030fc70f03ed98",
   "lastOpenFiles": [
-    "Physics and Maths/Relativistic Dynamics and Field Theory/4 Relativistic Momentum, Energy.md",
-    "Physics and Maths/Quantum Mechanics Formulation/5 Encoding Measurement Results - Hermitian Operators.md",
-    "Physics and Maths/Quantum Mechanics Formulation/6 Evolution - Unitary Operators.md",
-    "Physics and Maths/Quantum Mechanics Formulation/2 Matrix Mechanics.md",
-    "Physics and Maths/Quantum Mechanics Formulation/3 Dirac's Braket Notation.md",
-    "Physics and Maths/Quantum Mechanics Formulation/4 Measurement event, the Projection and Identity Operator.md",
-    "Physics and Maths/Relativistic Dynamics and Field Theory/5 Relativistic Force.md",
-    "Physics and Maths/Speculations of the Note Taker/Non-Local Realism.md",
-    "Tags/ER=EPR.md",
-    "Physics and Maths/Speculations of the Note Taker",
-    "Tags/Bell's Theorem.md",
-    "Tags/The Born Rule.md",
-    "Tags/The Measurement Problem.md",
-    "Tags/Entanglement.md",
-    "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
-    "Physics and Maths/Relativistic Dynamics and Field Theory/6 Spacetime Derivatives.md",
-    "Physics and Maths/Relativistic Electromagnetism/2 The 4-Current.md",
+    "Physics and Maths/Classical Electromagnetism/Capacitors.md",
+    "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md",
+    "Physics and Maths/Classical Electromagnetism/Polarisation Of Insulators.md",
+    "Physics and Maths/Classical Electromagnetism/Magnetic Dipole Moment.md",
+    "Images/Capacitor.png",
+    "Physics and Maths/Classical Electromagnetism/Electric Dipole Moment.md",
+    "Physics and Maths/Classical Electromagnetism/Electromagnetic Waves.md",
+    "Physics and Maths/Classical Electromagnetism/Inductors.md",
+    "Physics and Maths/Classical Dynamics/1 Newton.md",
     "Physics and Maths/Relativistic Electromagnetism/1 The EM Tensor.md",
-    "Physics and Maths/Relativistic Electromagnetism/8 EM Radiation.md",
-    "Physics and Maths/Relativistic Electromagnetism/7 The Stress Energy Tensor.md",
+    "Physics and Maths/Relativistic Electromagnetism/2 The 4-Current.md",
+    "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
+    "Images/Polarisation in material.png",
+    "Pasted image 20240616220338.png",
+    "Images/Polarisation of an atom.png",
+    "Physics and Maths/Relativistic Dynamics and Field Theory/6 Spacetime Derivatives.md",
+    "Physics and Maths/Classical Electromagnetism/Magnetisation and the Magnetic Induction Field.md",
+    "Physics and Maths/Quantum Mechanics Formulation/Stern-Gerlach Experiment.md",
+    "Physics and Maths/Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
+    "Images/Square Loop in Magnetic Field.png",
+    "Images/Magnetic Moment Current Loop.png",
+    "Images/Electric Dipole in Electric Field.png",
+    "Physics and Maths/Quantum Mechanics Formulation/8 A Continuum of Outcomes Needs Hilbert Spaces.md",
+    "Physics and Maths/Quantum Mechanics Formulation/6 Evolutions - Unitary Operators.md",
+    "Physics and Maths/Quantum Mechanics Formulation/5 Measurement Outcomes - Hermitian Operators.md",
+    "Physics and Maths/Quantum Mechanics Formulation/4 Measurement Event, the Projection and Identity Operator.md",
+    "Physics and Maths/Quantum Mechanics Formulation/3 Dirac's Braket Notation.md",
+    "Physics and Maths/Quantum Mechanics Formulation/2 Matrix Mechanics.md",
+    "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
+    "Images/Different Dipole Configurations.png",
+    "Physics and Maths/Relativistic Dynamics and Field Theory/5 Relativistic Force.md",
+    "Pasted image 20240616150603.png",
+    "Images",
+    "Physics and Maths/Quantum Mechanics Application/1 Time Independent Perturbation theory.md",
+    "Physics and Maths/Quantum Mechanics Application",
+    "Physics and Maths/Classical Dynamics",
     "Physics and Maths/Relativistic Electromagnetism/6 The EM Lagrange Density.md",
-    "Physics and Maths/Relativistic Electromagnetism/5 The Unified Maxwell Equation.md",
-    "Physics and Maths/Relativistic Electromagnetism/4 The EM 4-Potential.md",
-    "Physics and Maths/Relativistic Electromagnetism/3 The Relativistic Maxwell Equations.md",
-    "Physics and Maths/Relativistic Dynamics and Field Theory/1 Measuring Spacetime.md",
-    "Physics and Maths/Relativistic Dynamics/7 Relativistic Lagrangian Mechanics.md",
-    "Physics and Maths/Tensors/6 Tensor Calculus.md",
+    "Physics and Maths/Classical Electromagnetism",
+    "Physics and Maths/Speculations of the Note Taker",
     "Physics and Maths/Relativistic Electromagnetism",
     "Physics and Maths/Tensors",
     "Physics and Maths/Relativistic Dynamics and Field Theory",
     "Physics and Maths/Relativistic Dynamics and Field Theory",
-    "Physics and Maths/General Techniques",
-    "Physics and Maths/Unit systems",
-    "Engineering/Computer Vision",
-    "Engineering",
-    "Physics and Maths/Quantum Mechanics Application"
+    "Physics and Maths/General Techniques"
   ]
 }
