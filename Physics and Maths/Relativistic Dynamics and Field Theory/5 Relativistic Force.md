@@ -1,4 +1,4 @@
-Tags: [[3 Relativistic Motion]] [[4 Relativistic Momentum, Energy]] [[Relativity]]
+Tags: [[3 Relativistic Motion]] [[4 Relativistic Momentum, Energy, Nature of Mass]] [[Relativity]]
 ___
 Newton's second law in relativity:
 $$\frac{dP^\mu}{d\tau}=F^\mu\ \ \ \ \ \ \ \ \ \implies\ \ \ \ \\ \ \ \ \ \ m\frac{dU^\mu}{d\tau}=F^\mu$$

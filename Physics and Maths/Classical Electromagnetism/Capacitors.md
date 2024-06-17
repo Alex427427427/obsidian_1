@@ -1,4 +1,4 @@
-Tags: [[Electromagnetism]] [[Maxwell Equation 1 - Gauss' Law for Electricity]] [[Electric Polarisation Of Insulators]]
+Tags: [[Electromagnetism]] [[Maxwell Equation 1 - Gauss' Law for Electricity]] [[Electric Polarisation Of Insulators]] 
 ___
 Two conductive plates each carrying an equal and opposite charge, separated by a distance $d$ that is far too small compared to the area of the plates $A$, results in a very neat electric field pattern that is most useful in probing the properties of the electric field and free space. The parallel plate configuration is a capacitor. 
 ![[Capacitor.png]]
@@ -15,8 +15,8 @@ where $Q$ is the total charge displaced from the negative plate to the positive 
 The above equation suggests a differential equation describing the electrical dynamics of the capacitor:
 $$Q=CV\implies\frac{dQ}{dt}=C\frac{dV}{dt}\implies \boxed{I=C\frac{dV}{dt}}$$
 Furthermore, when understanding electrical systems by their dynamical analogues in mechanical systems, we associate charge displacement $Q$ as displacement, current $I$ to be velocity, and voltage $V$ to be force. This means that the equation $V=\frac{1}{C}Q$ is the electrical analogue of $F=kx$ for ideal springs, with a spring constant of $k$. This means the energy stored in the capacitor is:
-$$\boxed{U=\frac{1}{2C}Q^2}$$
-Analogous to $U=\frac{1}{2}kx^2$ for springs. 
+$$U=\frac{1}{2C}Q^2=\boxed{\frac{1}{2}CV^2}$$
+Analogous to $U=\frac{1}{2}kx^2=\frac{1}{2}\frac{1}{k}F^2$ for springs. 
 ## Capacitance in Terms of Capacitor Parameters
 $C$ must be a function of the capacitor's properties, $A$ and $d$. To calculate $C$, we need the relationship between $Q$ and $V$, so let's first focus on those. 
 

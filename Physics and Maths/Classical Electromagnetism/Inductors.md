@@ -1,2 +1,2 @@
-Tags: [[Electromagnetism]]
+Tags: [[Electromagnetism]] [[Capacitors]]
 ___

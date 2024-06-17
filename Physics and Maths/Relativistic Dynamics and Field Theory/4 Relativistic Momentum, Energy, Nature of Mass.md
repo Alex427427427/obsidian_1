@@ -11,7 +11,7 @@ With this knowledge, we can rewrite the momentum:
 $$\boxed{P=\left(\frac{E}{c},p_x,p_y,p_z\right)^T}$$
 where $p_i=\gamma mv_i$.
 ### Rest Energy
-When an object is not moving, $\gamma=1$, therefore $E_0=mc^2$. This is Einstein's famous mass-energy relationship. 
+When an object is not moving, $\gamma=1$, therefore $E_0=mc^2$. This is Einstein's famous mass-energy relationship. Mass, a measure of $E_0$, is that stationary energy which travels upwards through time. 
 ## The General Energy-Momentum Relation
 
 Let $p=\sqrt{p_x^2+p_y^2+p_z^2}$. Using the Minkowski norm and facts derived above, we know that 
