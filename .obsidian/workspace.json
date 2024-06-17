@@ -85,7 +85,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -146,9 +156,17 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "0d030fc70f03ed98",
   "lastOpenFiles": [
     "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
+=======
+  "active": "ccea041f96954c54",
+  "lastOpenFiles": [
+    "Physics and Maths/Speculations of the Note Taker/Stationary Energy in the Electric Field as Mass.md",
+    "Physics and Maths/Speculations of the Note Taker/Non-Local Realism.md",
+    "Physics and Maths/Speculations of the Note Taker/Photon, Energy transfer via electric field.md",
+>>>>>>> Stashed changes
     "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md",
     "Physics and Maths/Classical Electromagnetism/Inductors.md",
     "Physics and Maths/Classical Electromagnetism/Magnetic Dipole Moment.md",
