@@ -1,4 +1,4 @@
-Tags: [[Speculation]] [[1 The Quantum State]] [[Stationary Energy in the Electric Field as Mass]] [[The Measurement Problem]]
+Tags: [[Speculation]] [[1 The Quantum State]] [[Stationary Energy in the Electric Field as Mass, and Electron Structure]] [[The Measurement Problem]]
 ___
 The electric field can undergo linear interference. The square magnitude is proportional to local energy density, hence mass distribution. The quantum wavefunction, similarly can interfere and the square magnitude is the probability density of finding a particle there. If we take this interpretation seriously, can we recover most of the quantum wavefunction behaviour? 
 
