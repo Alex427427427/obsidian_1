@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "2511d47d15cc2627",
+    "id": "d0f5296c8690858e",
     "type": "split",
     "children": [
       {
-        "id": "aa3160d472e5c446",
+        "id": "b8e85e8da79419ac",
         "type": "tabs",
         "children": [
           {
-            "id": "0d030fc70f03ed98",
+            "id": "4b9f4095c0c0db95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
+                "file": "Physics and Maths/Classical Electromagnetism/Capacitors.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "857c349635467b45",
+    "id": "472d3d18d966d8b3",
     "type": "split",
     "children": [
       {
-        "id": "25b3d0ac988976cb",
+        "id": "a6814d8047a7a861",
         "type": "tabs",
         "children": [
           {
-            "id": "016ac251fc6a29a9",
+            "id": "0a5024132335c55e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "65660a04ffa0d407",
+            "id": "15bcbb4702d52e26",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "772ee5972c565fe6",
+            "id": "300d59a0455896ba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,23 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "96d0bd46c8f8f1ad",
+    "id": "d61c384f2ea66665",
     "type": "split",
     "children": [
       {
-        "id": "53e88d7a480c7261",
+        "id": "a00cc400f37210f4",
         "type": "tabs",
         "children": [
           {
-            "id": "39ba87d1da1b86e2",
+            "id": "46bd305d02bc89a8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
-=======
->>>>>>> Stashed changes
+                "file": "Physics and Maths/Classical Electromagnetism/Capacitors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,22 +97,19 @@
             }
           },
           {
-            "id": "eb27bd2999bf59f0",
+            "id": "487d85b73dff5ce3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
-=======
->>>>>>> Stashed changes
+                "file": "Physics and Maths/Classical Electromagnetism/Capacitors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e202fa932553fa4d",
+            "id": "91542085d346501a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -126,17 +120,13 @@
             }
           },
           {
-            "id": "6a6ecba4ba4fdcd0",
+            "id": "b2e0b9570b845cdb",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
               "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md"
+                "file": "Physics and Maths/Classical Electromagnetism/Capacitors.md"
               }
-=======
-              "state": {}
->>>>>>> Stashed changes
             }
           }
         ]
@@ -156,60 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "0d030fc70f03ed98",
+  "active": "4b9f4095c0c0db95",
   "lastOpenFiles": [
-    "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
-=======
-  "active": "ccea041f96954c54",
-  "lastOpenFiles": [
-    "Physics and Maths/Speculations of the Note Taker/Stationary Energy in the Electric Field as Mass.md",
-    "Physics and Maths/Speculations of the Note Taker/Non-Local Realism.md",
-    "Physics and Maths/Speculations of the Note Taker/Photon, Energy transfer via electric field.md",
->>>>>>> Stashed changes
-    "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md",
-    "Physics and Maths/Classical Electromagnetism/Inductors.md",
+    "Physics and Maths/Classical Electromagnetism/Magnetisation.md",
     "Physics and Maths/Classical Electromagnetism/Magnetic Dipole Moment.md",
-    "Physics and Maths/Classical Electromagnetism/Electromagnetic Waves.md",
-    "Physics and Maths/Classical Electromagnetism/Electric Polarisation Of Insulators.md",
-    "Physics and Maths/Classical Electromagnetism/Electric Displacement Field.md",
-    "Physics and Maths/Classical Electromagnetism/Electric Dipole Moment.md",
     "Physics and Maths/Classical Electromagnetism/Capacitors.md",
-    "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
-    "Physics and Maths/Unit systems/1 Gaussian Units.md",
-    "Images/Capacitor.png",
-    "Physics and Maths/Classical Dynamics/1 Newton.md",
-    "Physics and Maths/Relativistic Electromagnetism/1 The EM Tensor.md",
-    "Physics and Maths/Relativistic Electromagnetism/2 The 4-Current.md",
-    "Images/Polarisation in material.png",
-    "Pasted image 20240616220338.png",
-    "Images/Polarisation of an atom.png",
-    "Physics and Maths/Relativistic Dynamics and Field Theory/6 Spacetime Derivatives.md",
-    "Physics and Maths/Classical Electromagnetism/Magnetisation and the Magnetic Induction Field.md",
-    "Physics and Maths/Quantum Mechanics Formulation/Stern-Gerlach Experiment.md",
-    "Physics and Maths/Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
-    "Images/Square Loop in Magnetic Field.png",
-    "Images/Magnetic Moment Current Loop.png",
-    "Images/Electric Dipole in Electric Field.png",
-    "Physics and Maths/Quantum Mechanics Formulation/8 A Continuum of Outcomes Needs Hilbert Spaces.md",
-    "Physics and Maths/Quantum Mechanics Formulation/6 Evolutions - Unitary Operators.md",
-    "Physics and Maths/Quantum Mechanics Formulation/5 Measurement Outcomes - Hermitian Operators.md",
-    "Physics and Maths/Quantum Mechanics Formulation/4 Measurement Event, the Projection and Identity Operator.md",
-    "Physics and Maths/Quantum Mechanics Formulation/3 Dirac's Braket Notation.md",
-    "Physics and Maths/Quantum Mechanics Formulation/2 Matrix Mechanics.md",
-    "Images/Different Dipole Configurations.png",
-    "Physics and Maths/Relativistic Dynamics and Field Theory/5 Relativistic Force.md",
-    "Pasted image 20240616150603.png",
-    "Images",
-    "Physics and Maths/Quantum Mechanics Application/1 Time Independent Perturbation theory.md",
-    "Physics and Maths/Quantum Mechanics Application",
-    "Physics and Maths/Classical Dynamics",
-    "Physics and Maths/Classical Electromagnetism",
-    "Physics and Maths/Speculations of the Note Taker",
-    "Physics and Maths/Relativistic Electromagnetism",
-    "Physics and Maths/Tensors",
-    "Physics and Maths/Relativistic Dynamics and Field Theory",
-    "Physics and Maths/Relativistic Dynamics and Field Theory",
-    "Physics and Maths/General Techniques"
+    "Physics and Maths/Classical Electromagnetism/Inductors.md",
+    "Physics and Maths/Classical Electromagnetism/Permittivity.md",
+    "Physics and Maths/Speculations of the Note Taker/Non-Local Realism.md",
+    "Physics and Maths/Speculations of the Note Taker/Stationary Energy in the Electric Field as Mass.md",
+    "Physics and Maths/Speculations of the Note Taker/Photon, Energy transfer via electric field.md",
+    "Physics and Maths/Speculations of the Note Taker/Electric Fields can Model Quantum Wavefunction.md"
   ]
 }

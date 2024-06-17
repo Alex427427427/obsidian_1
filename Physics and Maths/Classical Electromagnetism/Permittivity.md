@@ -1,5 +1,6 @@
 Tags: [[Capacitors]] [[Electromagnetism]] [[Electric Displacement Field]] [[Electric Polarisation Of Insulators]] [[Maxwell Equation 1 - Gauss' Law for Electricity]] 
 ___
+You should first understand [[Capacitors]], [[Electric Polarisation Of Insulators]], [[Electric Displacement Field]] before proceeding. 
 ## Definition
 Permittivity $\epsilon$ is a property of a material, a medium. It is defined by the equation
 $$\boxed{\vec D=\epsilon\vec E}$$
