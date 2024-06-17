@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
+                "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
+                "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
+                "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md"
+                "file": "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "0d030fc70f03ed98",
   "lastOpenFiles": [
+    "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
     "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md",
     "Physics and Maths/Classical Electromagnetism/Inductors.md",
     "Physics and Maths/Classical Electromagnetism/Magnetic Dipole Moment.md",
@@ -178,7 +179,6 @@
     "Physics and Maths/Quantum Mechanics Formulation/4 Measurement Event, the Projection and Identity Operator.md",
     "Physics and Maths/Quantum Mechanics Formulation/3 Dirac's Braket Notation.md",
     "Physics and Maths/Quantum Mechanics Formulation/2 Matrix Mechanics.md",
-    "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
     "Images/Different Dipole Configurations.png",
     "Physics and Maths/Relativistic Dynamics and Field Theory/5 Relativistic Force.md",
     "Pasted image 20240616150603.png",
