@@ -1,4 +1,4 @@
-Tags: [[1-3 Maxwell Equation 1 - Gauss' Law for Electricity]] [[1-7 Electromagnetic Potentials]] [[1-1 Charges and Currents]] [[1-2 Forces and Fields]]
+Tags: [[1-3 Maxwell Equation 1 - Gauss' Law for Electricity]] [[1-7 Electromagnetic Potentials]] [[1-1 Charges and Currents]] [[1-2 Electromagnetic Forces and Fields]] [[Electromagnetism]]
 ___
 Two conductive plates each carrying an equal and opposite charge, separated by a distance $d$ that is far too small compared to the area of the plates $A$, results in a very neat electric field pattern that is most useful in probing the properties of the electric field and free space. The parallel plate configuration is a capacitor. 
 ![[Capacitor.png]]

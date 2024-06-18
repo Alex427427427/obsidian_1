@@ -1,2 +1,2 @@
-Tags: 
+Tags: [[Electromagnetism]] [[Electromagnetic Phenomena]]
 ___

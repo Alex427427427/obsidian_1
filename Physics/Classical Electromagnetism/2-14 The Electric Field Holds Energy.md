@@ -1,4 +1,4 @@
-Tags: [[2-8 Improving Capacitance with Polarisable Medium]] [[2-12 Permittivity and Electric Susceptibility]]
+Tags: [[2-8 Improving Capacitance with Polarisable Medium]] [[2-12 Permittivity and Electric Susceptibility]] [[Electromagnetism]]
 ___
 The capacitor is so useful that it keeps giving new insights into the properties of the electric field. By examining the nice uniform field pattern of the capacitor, we can deduce that the electric field holds energy density, and exactly how much it holds. 
 ## Where is Energy Stored in the Capacitor?
