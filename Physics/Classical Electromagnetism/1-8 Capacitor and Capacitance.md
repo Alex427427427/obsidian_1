@@ -1,4 +1,4 @@
-Tags: [[Electromagnetism]] [[Maxwell Equation 1 - Gauss' Law for Electricity]] [[Electric Polarisation Of Insulators]] 
+Tags: [[1-3 Maxwell Equation 1 - Gauss' Law for Electricity]] [[1-7 Electromagnetic Potentials]] [[1-1 Charges and Currents]] [[1-2 Forces and Fields]]
 ___
 Two conductive plates each carrying an equal and opposite charge, separated by a distance $d$ that is far too small compared to the area of the plates $A$, results in a very neat electric field pattern that is most useful in probing the properties of the electric field and free space. The parallel plate configuration is a capacitor. 
 ![[Capacitor.png]]
@@ -20,18 +20,7 @@ Analogous to $U=\frac{1}{2}kx^2=\frac{1}{2}\frac{1}{k}F^2$ for springs.
 ## Capacitance in Terms of Capacitor Parameters
 $C$ must be a function of the capacitor's properties, $A$ and $d$. To calculate $C$, we need the relationship between $Q$ and $V$, so let's first focus on those. 
 
-Consider a cuboid Gaussian closed surface that envelops only the positive plate. All the electric flux is through the face in between the two plates, with the flux being $EA$, thanks to the uniformity of the electric field. [[Maxwell Equation 1 - Gauss' Law for Electricity]] $\oint_S \vec E\cdot d\vec A=\frac{Q}{\epsilon_0}$ tells us that this flux must be proportional to the charge enclosed. Thus
+Consider a cuboid Gaussian closed surface that envelops only the positive plate. All the electric flux is through the face in between the two plates, with the flux being $EA$, thanks to the uniformity of the electric field. [[1-3 Maxwell Equation 1 - Gauss' Law for Electricity]] $\oint_S \vec E\cdot d\vec A=\frac{Q}{\epsilon_0}$ tells us that this flux must be proportional to the charge enclosed. Thus
 $$EA=\frac{Q}{\epsilon_0}\implies Q=\epsilon_0EA$$
 Substituting into the capacitance equation yields the formula for capacitance in terms of the capacitor parameters:
 $$C=\frac{\epsilon_0EA}{Ed}\implies \boxed{C=\frac{\epsilon_0A}{d}}$$
-This suggests there are 2 ways to improve a capacitor by changing its shape: to make the plates larger, and to make them closer. However, a simple calculation will reveal that the two parameters need to be extreme for the capacitance to be of any useful value. Is there another way to improve the capacitance? 
-## Improving the Capacitance with Polarisable Dielectric
-Suppose we want to store even more charge for the same voltage applied. The only remaining property to tweak is $\epsilon_0$, the permittivity of free space. But this cannot be changed, because it is a property of space. Namely, it is **the amount of charge permissible behind/within a closed surface given a unit electric flux through the surface**. Locally, it is **the amount of equivalent charge density smeared out on the closed surface, permitted for every unit electric field at that location**. It is the quantity that associates a surface charge density and the electric field that will emanate from it. 
-
-We can in fact change this parameter. We simply have to swap out empty space with some other medium, within which the same external charge will result in a lower electric field within the medium. This effectively **raises the permittivity**. 
-
-The medium of interest is a polarisable material - a dielectric. They are what precisely accomplish the goal. They have a higher permittivity than free space. For every external charge applied to the plates, the resultant electric field inside the dielectric is weaker than in free space, due to the induced dipoles partially cancelling out the electric field from the external charge. Since the electric field is smaller for the same charge displacement, the voltage is also smaller. This means that more charge is required to bring the voltage up to match the applied voltage. Hence the capacitance is higher.
-
-The new capacitance is:
-$$\boxed{C=\frac{\epsilon A}{d}}$$
-and $\epsilon>\epsilon_0$. 

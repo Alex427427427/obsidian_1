@@ -1,4 +1,4 @@
-Tags: [[Electromagnetism]] [[Magnetic Dipole Moment]]
+Tags: [[Electromagnetism]] [[2-2 Magnetic Dipole]]
 ___
 ## The Electric Dipole
 The simplest **electric dipole** is a **net-zero charge** system that has **equal and opposite charges separated by a distance** sitting on what we call its two opposing poles. Other configurations that give rise to the same far field pattern will be discussed later. 
@@ -53,4 +53,4 @@ Notice that this matches the behaviour even when there is a uniform field - the 
 ## Alternative Dipole Configurations
 
 ![[Different Dipole Configurations.png]]
-Top left is the idealised infinitesimal dipole. Top right is the standard dipole arrangement, and the one typically found in matter. Bottom left is a polarised disc. Bottom right is a capacitor. Notice that for all four configurations, the field far away from the source looks the same. This is the dipole field pattern. 
+Top left is the idealised infinitesimal dipole. Top right is the standard dipole arrangement, and the one typically found in matter. Bottom left is a polarised disc, equivalent to a magnetic dipole. Bottom right is a capacitor. Notice that for all four configurations, the field far away from the source looks the same. This is the dipole field pattern. 

@@ -1,10 +1,10 @@
-Tags: [[Capacitors]] [[Electromagnetism]] [[Electric Displacement Field]] [[Electric Polarisation Of Insulators]] [[Maxwell Equation 1 - Gauss' Law for Electricity]] 
+Tags: [[2-8 Improving Capacitance with Polarisable Medium]] [[Electromagnetism]] [[2-10 Electric Displacement Field]] [[2-3 Electric Polarisation]] [[1-3 Maxwell Equation 1 - Gauss' Law for Electricity]] 
 ___
-You should first understand [[Capacitors]], [[Electric Polarisation Of Insulators]], [[Electric Displacement Field]] before proceeding. 
+You should first understand [[2-8 Improving Capacitance with Polarisable Medium]], [[2-3 Electric Polarisation]], [[2-10 Electric Displacement Field]] before proceeding. 
 ## Definition
 Permittivity $\epsilon$ is a property of a material, a medium. It is defined by the equation
 $$\boxed{\vec D=\epsilon\vec E}$$
-where $\vec D$ is the [[Electric Displacement Field]] and $\vec E$ is the electric field. 
+where $\vec D$ is the [[2-10 Electric Displacement Field]] and $\vec E$ is the electric field. 
 ##### Interpretation
 Permittivity is the amount of charge density at an infinitesimal surface element that creates a unit electric field at that location. 
 After performing a surface integral:

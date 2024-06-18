@@ -1,6 +1,6 @@
-Tags: [[Speculation]] [[The Electric Field Holds Energy]] [[Relativity]] [[4 Relativistic Momentum, Energy, Nature of Mass]]
+Tags: [[Speculation]] [[2-14 The Electric Field Holds Energy]] [[Relativity]] [[4 Relativistic Momentum, Energy, Nature of Mass]]
 ___
-From [[Capacitors]], we know that the electric field holds energy. Is this not static energy? Does this not result in mass? 
+From [[2-8 Improving Capacitance with Polarisable Medium]], we know that the electric field holds energy. Is this not static energy? Does this not result in mass? 
 
 As the source of the electric field accelerates, there is magnetic field. This is extra kinetic energy. Could we recover the mass energy relationship by only considering the field surrounding charge? Try this. 
 

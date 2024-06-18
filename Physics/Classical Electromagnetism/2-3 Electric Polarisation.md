@@ -1,4 +1,4 @@
-Tags: [[Electric Dipole Moment]]
+Tags: [[2-1 Electric Dipole]]
 ___
 This note is relevant to non-conductive materials embedded in an external electric field.
 ## Non Conductive Materials - Dielectrics

@@ -1,6 +1,6 @@
-Tags: [[Electromagnetism]] [[Electric Polarisation Of Insulators]] [[Capacitors]]
+Tags: [[Electromagnetism]] [[2-3 Electric Polarisation]] [[2-8 Improving Capacitance with Polarisable Medium]]
 ___
-Please understand [[Electric Polarisation Of Insulators]] and [[Capacitors]] before attempting to understand this page. 
+Please understand [[2-3 Electric Polarisation]] and [[2-8 Improving Capacitance with Polarisable Medium]] before attempting to understand this page. 
 ## The Displacement Field
 When a medium is polarised, the electric field can become very complicated on the microscopic scale, with the vast number of dipole field patterns superimposing on one another. Although this usually smears out to be a uniform electric field on the macroscopic scale, this still requires us to explicitly obtain the polarisation field to do any further analysis. 
 

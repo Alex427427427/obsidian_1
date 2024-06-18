@@ -11,12 +11,8 @@
             "id": "4b9f4095c0c0db95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,31 +140,41 @@
   },
   "active": "4b9f4095c0c0db95",
   "lastOpenFiles": [
-    "Physics and Maths/Classical Electromagnetism/Permittivity.md",
-    "Physics and Maths/Classical Electromagnetism/Permeability.md",
-    "Physics and Maths/Classical Electromagnetism/Magnetisation.md",
-    "Physics and Maths/Classical Electromagnetism/Magnetic Dipole Moment.md",
-    "Physics and Maths/Classical Electromagnetism/Maxwell Equation 1 - Gauss' Law for Electricity.md",
-    "Physics and Maths/Classical Electromagnetism/Maxwell Equation 2 - Gauss' Law for Magnetism.md",
-    "Physics and Maths/Classical Electromagnetism/Maxwell Equation 3 - Faraday's Law of Electric Induction.md",
-    "Physics and Maths/Classical Electromagnetism/Maxwell Equation 4 - Ampere's Law for Magnetic Field Creation.md",
-    "Physics and Maths/Classical Electromagnetism/The Electric Field Holds Energy.md",
-    "Physics and Maths/Classical Electromagnetism/The Magnetic Field Holds Energy.md",
-    "Physics and Maths/Classical Electromagnetism/Inductors.md",
-    "Physics and Maths/Classical Electromagnetism/Electromagnetic Waves.md",
-    "Physics and Maths/Classical Electromagnetism/Electric Polarisation Of Insulators.md",
-    "Physics and Maths/Classical Electromagnetism/Electric Displacement Field.md",
-    "Physics and Maths/Classical Electromagnetism/Electric Dipole Moment.md",
-    "Physics and Maths/Classical Electromagnetism/Capacitors.md",
-    "Physics and Maths/Quantum Mechanics Formulation/5 Measurement Outcomes - Hermitian Operators.md",
-    "Physics and Maths/Quantum Mechanics Formulation/6 Evolutions - Unitary Operators.md",
-    "Physics and Maths/Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
-    "Physics and Maths/Quantum Mechanics Formulation/3 Dirac's Braket Notation.md",
-    "Physics and Maths/Quantum Mechanics Formulation/2 Matrix Mechanics.md",
-    "Physics and Maths/Quantum Mechanics Formulation/1 The Quantum State.md",
-    "Physics and Maths/Relativistic Dynamics and Field Theory/4 Relativistic Momentum, Energy, Nature of Mass.md",
-    "Physics and Maths/Relativistic Dynamics and Field Theory/3 Relativistic Motion.md",
-    "Physics and Maths/Relativistic Dynamics and Field Theory/2 Lorentz Transformations.md",
-    "Physics and Maths/Relativistic Dynamics and Field Theory/1 Measuring Spacetime.md"
+    "Physics/Semiconductor Physics/Prerequisites to Semiconductor Physics.md",
+    "Physics/Photonics/Prerequisites to Photonics.md",
+    "Physics/Quantum Chromo Dynamics/Prerequisites to QCD.md",
+    "Physics/Semiconductor Physics",
+    "Physics/Photonics",
+    "Physics/Quantum Field Theory/Prerequisites to PFT.md",
+    "Physics/Quantum Chromo Dynamics",
+    "Physics/Quantum Electro Dynamics/Prerequisites to QED.md",
+    "Physics/Quantum Field Theory",
+    "Physics/Classical Electromagnetism/5 Grand Summary of Classical Electromagnetic Phenomena.md",
+    "Physics/Quantum Electro Dynamics",
+    "Physics/Classical Electromagnetism/4-3 Eddy Currents.md",
+    "Physics/Classical Electromagnetism/4-4 Radio Waves.md",
+    "Physics/Classical Electromagnetism/4-2 Arc.md",
+    "Physics/Classical Electromagnetism/4-1 Static.md",
+    "Physics/Classical Electromagnetism/3-7 Scattering of Electromagnetic Waves.md",
+    "Physics/Classical Electromagnetism/3-6 Reflection, Refraction, Absorption and Emission of Electromagnetic Waves.md",
+    "Physics/Classical Electromagnetism/3-5 Electromagnetic Waves at Media Boundary.md",
+    "Physics/Classical Electromagnetism/3-4 Polarisation of Electromagnetic Waves.md",
+    "Physics/Classical Electromagnetism/3-3 Energy Flow of Electromagnetic Waves.md",
+    "Physics/Classical Electromagnetism/3-2 Electromagnetic Waves.md",
+    "Physics/Classical Electromagnetism/3-1 Electromagnetic Wave Equation.md",
+    "Physics/Classical Electromagnetism/1-9 Inductor and Inductance.md",
+    "Physics/Classical Electromagnetism/2-14 The Electric Field Holds Energy.md",
+    "Physics/Classical Electromagnetism/2-12 Permittivity and Electric Susceptibility.md",
+    "Physics/Classical Electromagnetism/2-13 Permeability and Magnetic Susceptibility.md",
+    "Physics/Classical Electromagnetism/2-15 The Magnetic Field Holds Energy.md",
+    "Physics/Classical Electromagnetism/2-11 Magnetic Induction Field.md",
+    "Physics/Classical Electromagnetism/1-10 Conduction, Conductance and Resistance.md",
+    "Physics/Classical Electromagnetism/2-4 Paramagnetism.md",
+    "Physics/Classical Electromagnetism/2-5 Ferromagnetism.md",
+    "Physics/Classical Fluid Physics",
+    "Physics/Nuclear Physics",
+    "Physics/General Relativity",
+    "Physics/Astrophysics and Cosmology",
+    "Physics/Statistical Mechanics and Thermal Physics"
   ]
 }

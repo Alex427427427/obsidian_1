@@ -1,4 +1,4 @@
-Tags: [[Electromagnetism]] [[Electric Dipole Moment]]
+Tags: [[Electromagnetism]] [[2-1 Electric Dipole]]
 ___
 A magnet experiences a torque in a magnetic field, like how an electric dipole experiences a torque in an electric field. 
 ## Deriving The Magnetic Dipole Moment 
@@ -28,3 +28,7 @@ $$\boxed{U=-\vec\mu\cdot\vec B}$$
 An electric dipole would **oscillate back and forth** in a uniform electric field, periodically changing its alignment to the electric field. 
 
 A magnetic moment would instead **precess about the uniform magnetic field**, because an object with a magnetic moment is actually a rotating entity. 
+## Alternative Dipole Configurations
+
+![[Different Dipole Configurations.png]]
+Top left is the idealised infinitesimal dipole. Top right is the dipole model if we assume magnetic monopoles exist. Bottom left is a polarised disc, equivalent to the current loop. Bottom right is a capacitor, valid for electrical dipoles. Notice that for all four configurations, the field far away from the source looks the same. This is the dipole field pattern. 
