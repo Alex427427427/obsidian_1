@@ -1,4 +1,4 @@
-Tags: [[Tensors]] [[Electromagnetism]] [[Relativity]] 
+Tags: [[Tensors]] [[Electromagnetism]] [[Relativity]]  [[1-3 Electric Forces and Fields]] [[1-8 Magnetic Forces and Fields, Lorentz Force]]
 This series uses the [[1 Gaussian Units]] system
 ___
 The study of electromagnetism is about charges and their motion. Through experiments, humanity constructed the mathematical entities $\vec E$ (the Electric field) and $\vec B$ (the Magnetic field) to describe forces that change the motion of charged objects, called the Lorentz force law:

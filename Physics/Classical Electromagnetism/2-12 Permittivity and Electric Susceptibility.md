@@ -1,4 +1,4 @@
-Tags: [[2-8 Improving Capacitance with Polarisable Medium]] [[Electromagnetism]] [[2-10 Electric Displacement Field]] [[2-3 Electric Polarisation]] [[1-3 Maxwell Equation 1 - Gauss' Law for Electricity]] 
+Tags: [[2-8 Improving Capacitance with Polarisable Medium]] [[Electromagnetism]] [[2-10 Electric Displacement Field]] [[2-3 Electric Polarisation]] [[1-5 Maxwell Equation - Gauss' Law for Electricity]] 
 ___
 You should first understand [[2-8 Improving Capacitance with Polarisable Medium]], [[2-3 Electric Polarisation]], [[2-10 Electric Displacement Field]] before proceeding. 
 ## Definition
@@ -22,5 +22,5 @@ where $\epsilon_r$ is the relative permittivity of the medium. Note that in natu
 The capacitance of a capacitor is: 
 $$C=\frac{\epsilon A}{d}$$
 Notice the similarity to conductance and conductivity:
-$$G=\frac{\sigma A}{l}$$
+$$G=\frac{\sigma A}{d}$$
 Indeed, permittivity is to capacitance what conductivity is to conductance. They are the reduced form of those macroscopic properties, made intrinsic and agnostic to the geometric dimensions of the materials. 

@@ -1,4 +1,4 @@
-Tags: [[Electromagnetism]] [[1-3 Maxwell Equation 1 - Gauss' Law for Electricity]] [[1-8 Capacitor and Capacitance]] [[2-3 Electric Polarisation]] 
+Tags: [[Electromagnetism]] [[1-5 Maxwell Equation - Gauss' Law for Electricity]] [[1-7 Capacitor and Capacitance, Energy Storage]] [[2-3 Electric Polarisation]] 
 ___
 ## Capacitance Parameters
 In terms of the dimensions of the capacitor, the capacitance $C$ is:
