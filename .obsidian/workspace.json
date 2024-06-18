@@ -11,8 +11,12 @@
             "id": "4b9f4095c0c0db95",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Open Problems and Anomalies/The Edge of Knowledge.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/Open Problems and Anomalies/The Edge of Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/Open Problems and Anomalies/The Edge of Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics/Open Problems and Anomalies/The Edge of Knowledge.md"
+              }
             }
           }
         ]
@@ -140,6 +148,34 @@
   },
   "active": "4b9f4095c0c0db95",
   "lastOpenFiles": [
+    "Physics/Open Problems and Anomalies/The Edge of Knowledge.md",
+    "Physics/Open Problems and Anomalies",
+    "Engineering/Energy Technologies/Overview of Energy Technologies.md",
+    "Engineering/Structures and Materials/Prerequisites to Structures and Materials.md",
+    "Engineering/Energy Technologies",
+    "Engineering/Robotics/Prerequisites to Robotics.md",
+    "Engineering/Structures and Materials",
+    "Engineering/Artificial Intelligence/Prerequisites to AI.md",
+    "Engineering/Robotics",
+    "Engineering/Computer Vision/Prerequisites to Computer Vision.md",
+    "Engineering/Artificial Intelligence",
+    "Engineering/Theory of Computation/Prerequisites to Theory of Computation.md",
+    "Engineering/Computer Vision",
+    "Engineering/Software Ecosystems/Prerequisites to Software Ecosystems.md",
+    "Engineering/Electrician Knowledge/Introduction to Daily Electrical Knowledge.md",
+    "Engineering/Digital and Computer Engineering/Introduction to Computers.md",
+    "Engineering/Control Theory/Prerequisites to Control Theory.md",
+    "Engineering/Communication and Information Theory/Prerequisites to Communication.md",
+    "Engineering/Control Theory",
+    "Engineering/Analogue Electronics/Prerequisites to Analogue Electronics.md",
+    "Engineering/Electrician Knowledge",
+    "Physics/Unit systems/3 Natural Units.md",
+    "Physics/Unit systems/2 Heaviside-Lorentz Units.md",
+    "Physics/Unit systems/1 Gaussian Units.md",
+    "Engineering",
+    "Engineering/Software Ecosystems",
+    "Physics/Classical Electromagnetism/2-16 Assembly of Charge, Self Energy.md",
+    "Physics/Classical Electromagnetism/1-9 Inductor and Inductance.md",
     "Physics/Classical Electromagnetism/4-2 Arc.md",
     "Physics/Classical Electromagnetism/4-1 Static.md",
     "Physics/Classical Electromagnetism/4-3 Eddy Currents.md",
@@ -147,34 +183,6 @@
     "Physics/Classical Electromagnetism/4-5 Skin Effect.md",
     "Physics/Classical Electromagnetism/4-6 Blue Sky.md",
     "Physics/Classical Electromagnetism/3-7 Scattering of Electromagnetic Waves.md",
-    "Physics/Classical Electromagnetism/3-6 Reflection, Refraction, Absorption and Emission of Electromagnetic Waves.md",
-    "Physics/Classical Electromagnetism/3-5 Electromagnetic Waves at Media Boundary.md",
-    "Physics/Classical Electromagnetism/3-4 Polarisation of Electromagnetic Waves.md",
-    "Physics/Classical Electromagnetism/3-3 Energy Flow of Electromagnetic Waves.md",
-    "Physics/Classical Electromagnetism/3-2 Electromagnetic Waves.md",
-    "Physics/Classical Electromagnetism/3-1 Electromagnetic Wave Equation.md",
-    "Tags/Electromagnetic Phenomena.md",
-    "Tags/Electromagnetic Waves.md",
-    "Physics/Classical Electromagnetism/5 Grand Summary of Classical Electromagnetic Phenomena.md",
-    "Physics/Classical Electromagnetism/2-15 The Magnetic Field Holds Energy.md",
-    "Physics/Classical Electromagnetism/2-14 The Electric Field Holds Energy.md",
-    "Physics/Classical Electromagnetism/2-13 Permeability and Magnetic Susceptibility.md",
-    "Physics/Classical Electromagnetism/2-12 Permittivity and Electric Susceptibility.md",
-    "Physics/Classical Electromagnetism/2-11 Magnetic Induction Field.md",
-    "Physics/Classical Electromagnetism/2-10 Electric Displacement Field.md",
-    "Physics/Classical Electromagnetism/2-9 Improving Inductance With Magnetisable Medium.md",
-    "Physics/Classical Electromagnetism/2-8 Improving Capacitance with Polarisable Medium.md",
-    "Physics/Classical Electromagnetism/2-7 Magnetisation and Permeance.md",
-    "Physics/Classical Electromagnetism/2-6 Diamagnetism.md",
-    "Physics/Semiconductor Physics",
-    "Physics/Photonics",
-    "Physics/Quantum Chromo Dynamics",
-    "Physics/Quantum Field Theory",
-    "Physics/Quantum Electro Dynamics",
-    "Physics/Classical Fluid Physics",
-    "Physics/Nuclear Physics",
-    "Physics/General Relativity",
-    "Physics/Astrophysics and Cosmology",
-    "Physics/Statistical Mechanics and Thermal Physics"
+    "Physics/Classical Electromagnetism/3-6 Reflection, Refraction, Absorption and Emission of Electromagnetic Waves.md"
   ]
 }
