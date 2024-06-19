@@ -1,4 +1,4 @@
-Tags: [[Unit Systems]] [[Electromagnetism]]
+Tags: [[Unit Systems]] [[Electromagnetism]] [[18 Maxwell Potential Equations in The Lorentz Gauge]]
 ___
 Same as [[1 Gaussian Units]] except defining $\epsilon_0 = 1$ in the Gauss' Law instead of $k = 1$ in the force law. Such a definition is called **rationalised**.
 ## Applications
@@ -24,6 +24,11 @@ Faraday's Law:
 $$\nabla\times\vec{E}=-\frac{1}{c}\frac{\partial\vec{B}}{\partial t}$$
 Ampere's Law:
 $$\nabla\times\vec{B}=\frac{1}{c}\vec{J}+\frac{1}{c}\frac{\partial\vec{E}}{\partial t}$$
+##### Potential Form in Lorentz Gauge
+Charge source law: 
+$$\left(\frac{1}{c^2}\frac{\partial^2}{\partial t^2}-\nabla^2\right)\phi=\rho$$
+Current source law:
+$$\left(\frac{1}{c^2}\frac{\partial^2}{\partial t^2}-\nabla^2\right)\vec A=\frac{1}{c}\vec J=\rho\vec\beta$$
 # Rules to convert SI equations into HL equations
 
 1. Multiply all sources by $\sqrt{\epsilon_0}$
