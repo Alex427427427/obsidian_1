@@ -1,4 +1,4 @@
-Tags: [[Speculation]] [[9 The Electric Field Holds Energy]] [[Relativity]] [[4 Relativistic Momentum, Energy, Nature of Mass]]
+Tags: [[Speculation]] [[20 The Electric Field Holds Energy Density]] [[Relativity]] [[4 Relativistic Momentum, Energy, Nature of Mass]]
 ___
 From [[3 Improving Capacitance with Polarisable Medium]], we know that the electric field holds energy. Is this not static energy? Does this not result in mass? 
 

@@ -1,4 +1,4 @@
-Tags: [[Speculation]] [[9 The Electric Field Holds Energy]] [[Photoelectric Effect]] [[Electromagnetism]] [[Quantum Mechanics]]
+Tags: [[Speculation]] [[20 The Electric Field Holds Energy Density]] [[Photoelectric Effect]] [[Electromagnetism]] [[Quantum Mechanics]]
 ___
 ## Energy Transfer from Field to Charge
 Consider a point charge moving through the uniform electric field. It picks up energy, gaining speed. This energy must have come from the infinitesimal volumes of electric field that it passed through. The external source then quickly replenishes energy into those locations that the charge passed through. Electric fields, when passing through charged particles, deliver energy to them if able to. 
