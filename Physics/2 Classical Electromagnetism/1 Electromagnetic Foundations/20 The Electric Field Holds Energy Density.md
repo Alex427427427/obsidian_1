@@ -8,12 +8,12 @@ Consider a charged and uncharged capacitor. In each case, there is no moving ent
 ## Energy Stored in the Electric Field
 Capacitors store energy $U$:
 $$U=\frac{1}{2}CV^2=\frac{1}{2}\frac{\epsilon_0 A}{d}|\vec E|^2d^2=\frac{1}{2}\epsilon_0 Ad |\vec E|^2$$
-There is also a uniform volume of electric field in the space between the plates. We simply need to divide $U$ by the volume to obtain the energy density $e$, which must directly depend on the electric field, even locally, because it is **the only non-zero local variable** that changed when the capacitor had no energy, compared to when it did. 
-$$\boxed{e=\frac{1}{2}\epsilon_0|\vec E|^2}$$
+There is also a uniform volume of electric field in the space between the plates. We simply need to divide $U$ by the volume to obtain the energy density $u$, which must directly depend on the electric field, even locally, because it is **the only non-zero local variable** that changed when the capacitor had no energy, compared to when it did. 
+$$\boxed{u=\frac{1}{2}\epsilon_0|\vec E|^2}$$
 We see that the **energy density is proportional to the square magnitude of the electric field**. 
 
 In [[3 Natural Units]]: 
-$$e=\frac{1}{2}|\vec E|^2$$
+$$u=\frac{1}{2}|\vec E|^2$$
 ## Energy Transfer from Field to Charge
 Now consider a point charge moving through the uniform electric field. It picks up energy, gaining speed. This energy must have come from the infinitesimal volumes of electric field that it passed through. The external source then quickly replenishes energy into those locations that the charge passed through. Electric fields, when passing through charged particles, deliver energy to them if able to. 
 

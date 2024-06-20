@@ -1,7 +1,7 @@
 Tags: [[Electromagnetism]]
 ___
-The study of electromagnetism began as the study of charges and their motion, and how they influence one another's motion, but comes with an amazing resultant explosion of explanatory power. At the start, charges are and their motions are real, while all other electromagnetic entities are mathematical constructions. In time, we will find that those constructs end up having physical presence, but that is later. 
+The study of electromagnetism began as the study of charges and their motion, and how they influence one another's motion, but ends with an amazing resultant explosion of explanatory power. At the start, we claim that charges and their motions are real, while all other electromagnetic entities are mathematical constructions. In time, we will find that those constructs end up having physical presence. 
 
 In studying electromagnetism, we are asked to examine myriad phenomena occuring at a wide range of scales. It will explain universe-spanning radio waves down to the microscopic make up of matter. In doing so, it will explain all of classical physics, shedding light on the source of the forces and energies that appear there. From electricity to magnetism, optics, and the countless emergent macroscopic effects, we will witness the wildest unification of phenomena again and again. It motivates and underpins relativity, provides an actual *mechanism* for energy and momentum transfer, and forces us to learn about the nature of space and time. In order to complete the journey, one has to take on more and more powerful and elegant mathematical tools, which are mostly geometric truths. Eventually one must learn the quantum properties of this theory. Electrical engineering depends on it, material engineering depends on it, so does all of the information processing world. 
 
-Electromagnetism may be the heart of all physical science. 
+Electromagnetism may truly be the heart of all physical science. 

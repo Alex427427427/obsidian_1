@@ -1,6 +1,6 @@
 Tags: [[Quantum Mechanics]] [[1 The Quantum State]] [[2 Matrix Mechanics]]
 ___
-Paul Dirac introduced an elegant notation he called the "braket" notation, which we have in fact been using. 
+Paul Dirac introduced an elegant notation he called the "braket" notation, which we have in fact been using intermittently until now. 
 ## States - Kets
 States are called "kets", and written as $$\ket\Psi$$ (If you're familiar with tensors, states are contravariant ([[5 How Tensors Transform]]), motivating their component representation as column vectors. )
 ## Dual of States - Bras

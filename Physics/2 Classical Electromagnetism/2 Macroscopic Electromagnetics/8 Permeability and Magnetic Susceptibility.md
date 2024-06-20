@@ -13,7 +13,11 @@ $\vec B=\mu \vec H$. More magnetic field lines can be pierced through the medium
 
 We can always express $\mu$ in terms of $\mu_0$:
 $$\boxed{\mu=\mu_0\mu_r}$$
-where $\mu_r$ is the relative permeability of the medium. Note that in natural units, $\mu_0=1$, thus $\mu=\mu_r$. The relative permeability is what characterises magnetisability. Indeed, think of permeability as **magnetisability**.
+where $\mu_r$ is the relative permeability of the medium. Note that in natural units, $\mu_0=1$, thus $\mu=\mu_r$. The relative permeability is what characterises magnetisability. Indeed, think of permeability as **magnetisability**. 
+
+If the medium magnetisation is **anisotropic but still linear**, permeability is a general linear map - a **tensor** ([[1 What Tensors Are]]). 
+
+If the medium magnetisation is **non-linear**, permeability is the linearised map - still a tensor - that is the **Jacobian** of the magnetic field function with respect to magnetisation field. 
 ## As the Intrinsic Permeance
 The permeance of a material is: 
 $$\mathcal P=\frac{\mu A}{l}$$

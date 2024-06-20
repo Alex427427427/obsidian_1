@@ -9,7 +9,7 @@ The inner product is the projection amplitude, while the whole term is the proje
 
 Notice that **the outer product of a vector with itself is a projection operator** onto the direction of the vector. This originates from linear algebra and is not specific to dirac notation. 
 ## Collapse of the Quantum State
-A measurement event causes the most frustratingly opaque phenomenon on the quantum state - it probabilistically snaps onto an eigenstate of the measurement. In other words, the smeared out superposition of the quantum states collapses into one definitive state. The superposition itself is not perplexing, and superpositions may be eigenstates from the point of view of other measurements. The strange part is the snap. This is the quantum state collapse:
+A measurement event causes the most frustratingly opaque phenomenon on the quantum state - it probabilistically snaps onto an eigenstate of the measurement. In other words, the smeared out superposition of the quantum states - that formed the total quantum state vector - collapses into one definitive state. Personally, superpositions are easy to grapple with, but not the snap. This is the quantum state collapse:
 $$\ket\Psi\rightarrow\begin{cases}
 \ket{a_1}&with\ probability\ |\braket{a_1|\Psi}|^2\\
 \ket{a_2}&with\ probability\ |\braket{a_2|\Psi}|^2\\
@@ -17,7 +17,9 @@ $$\ket\Psi\rightarrow\begin{cases}
 \end{cases}$$
 where $\ket {a_i}$ is the $i$th eigenstate of the operator associated with the measurement operator $\hat A$. This is [[The Born Rule]]. 
 
+This is a mathematically simple operation - a sampling from a distribution (that contains hidden phase degree of freedom and can interfere with itself) - but is physically incomprehensible, has no mechanism, happens instantaneously and non-locally. 
+
 In current understanding, this collapse of the quantum state happens instantaneously, leading to severe non-locality down the line when we consider [[Entanglement]]. Furthermore, in current understanding, there appears to be no inner mechanism behind the collapse, and provably so, by [[Bell's Theorem]] experiments. In future notes, we will come to understand extremely well how a quantum system evolves, and yet have no idea of why or how the collapse happens. It is also difficult to define and pinpoint what constitutes a measurement event, that would cause the collapse. This is [[The Measurement Problem]]. For Alex, to remember your [[Speculation]], see [[Non-Local Realism]]. 
 ## Identity 
-With the projection defined, it is useful to define the identity operator $\hat I$. It is simply the sum of the projection operators along every dimension of the quantum state space. The identity operator makes the linear combination of basis states to form the quantum state, explicit. 
+With the projection defined, it is useful to define the identity operator $\hat I$. It is simply the sum of the projection operators along every linearly independent dimension of the quantum state space. The identity operator makes the linear combination of basis states to form the quantum state, explicit. 
 $$\hat I=\sum_i \ket {\hat e_i}\bra {\hat e_i}$$

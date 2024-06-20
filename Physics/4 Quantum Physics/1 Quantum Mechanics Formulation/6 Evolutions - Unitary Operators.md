@@ -11,4 +11,4 @@ Now consider the inner product of the state and its own dual. This represents th
 $$\braket{\Psi|\Psi}=\braket{\Psi^\prime|\Psi^\prime}=
 \bra\Psi\hat U(\theta)^\dagger\hat U(\theta)\ket\Psi$$
 $$\boxed{\therefore\hat U^\dagger\hat U=\hat I}$$
-Which is the same as saying $\hat U$ is **Unitary**, with a **squared determinant of 1**, and that it is **length preserving**, and its **column vectors are orthonormal**, as are its row vectors, and thus it is **like a rotation**. 
+Which is the same as saying $\hat U$ is **Unitary**, with a **squared determinant of 1**, and that it is **length preserving**, and its **column vectors are orthonormal**, as are its row vectors, and thus it is **like a rotation** (through configuration space). 
