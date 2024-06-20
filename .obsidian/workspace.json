@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "724e8fee24772f13",
+        "id": "efff185fc682f8d5",
         "type": "tabs",
         "children": [
           {
-            "id": "8f38f7788c517444",
+            "id": "3282bc4364118866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/4 Polarisation of Electromagnetic Waves.md",
+                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/3 Energy Flow of Electromagnetic Waves.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.5
+    "width": 429.5
   },
   "right": {
     "id": "d61c384f2ea66665",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/4 Polarisation of Electromagnetic Waves.md",
+                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/3 Energy Flow of Electromagnetic Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/4 Polarisation of Electromagnetic Waves.md",
+                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/3 Energy Flow of Electromagnetic Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/4 Polarisation of Electromagnetic Waves.md"
+                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/3 Energy Flow of Electromagnetic Waves.md"
               }
             }
           }
@@ -146,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f38f7788c517444",
+  "active": "3282bc4364118866",
   "lastOpenFiles": [
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/2 Electromagnetic Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/3 Energy Flow of Electromagnetic Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/4 Polarisation of Electromagnetic Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/3 Geometric Properties of.md",
+    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/9 Macroscopic Maxwell Equations.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/Radiation Sources of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/1 Electromagnetic Wave Equations.md",
+    "Physics/Open Problems and Anomalies/Speculations of the Note Taker/Energy is Flowing Between Charges.md",
+    "Physics/Open Problems and Anomalies/Speculations of the Note Taker/Electric Fields can Model Quantum Wavefunction.md",
+    "Physics/Open Problems and Anomalies/Speculations of the Note Taker/Stationary Energy in the Electric Field as Mass, and Electron Structure.md",
+    "Physics/Open Problems and Anomalies/Speculations of the Note Taker/Photon, Energy transfer via electric field.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/21 The Magnetic Field Holds Energy Density.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/19 Energy is the Fluid Emerging from Charges.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/EM Waves in Lossy Media.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/EM Waves at Media Boundary.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/Maxwell's Equations in Frequency Domain.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/Fully Describing Spherical Harmonic EM Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/Summary of EM Wave's Interaction with Media.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/Scattering of EM Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/Refraction of EM Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/Reflection of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/Fully Describing Spherical Harmonic EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/EM Waves in Lossy Media.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/EM Waves at Media Boundary.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/2 Electromagnetic Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics/1 Electromagnetic Wave Equations.md",
-    "Physics/Open Problems and Anomalies/Speculations of the Note Taker/Energy is Flowing Between Charges.md",
     "Physics/2 Classical Electromagnetism/6 Grand Summary of Classical Electromagnetic Concepts.md",
     "Physics/2 Classical Electromagnetism/0 Introduction to Electromagnetism.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/19 Energy is the Fluid Emerging from Charges.md",
-    "Physics/Open Problems and Anomalies/Speculations of the Note Taker/Photon, Energy transfer via electric field.md",
     "Physics/3 Relativistic Physics/2 Relativistic Electromagnetism/1 The EM Tensor.md",
     "Physics/3 Relativistic Physics/2 Relativistic Electromagnetism/6 The EM Lagrange Density.md",
     "Physics/3 Relativistic Physics/2 Relativistic Electromagnetism/5 The Unified Maxwell Equation.md",
-    "Physics/3 Relativistic Physics/2 Relativistic Electromagnetism/7 The Stress Energy Tensor.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/9 Macroscopic Maxwell Equations.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/3 Electric Forces and Fields.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/5 Maxwell Equation - Gauss' Law for Electric Field.md",
-    "Tags/Electromagnetism.md",
     "Physics/2 Classical Electromagnetism/4 Electromagnetic Phenomenology",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves and Classical Optics",
     "Images/paired moment.png",

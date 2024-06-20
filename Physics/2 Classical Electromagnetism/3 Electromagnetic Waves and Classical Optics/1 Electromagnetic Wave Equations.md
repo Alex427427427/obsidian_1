@@ -4,7 +4,7 @@ ___
 The potential form equations in lorentz gauge are automatically wave equations in the source free regions of space. 
 $$\boxed{\left(\mu_0\epsilon_0\frac{\partial^2}{\partial t^2}-\nabla^2\right)\phi=0}$$
 $$\boxed{\left(\mu_0\epsilon_0\frac{\partial^2}{\partial t^2}-\nabla^2\right)\vec A=0}$$
-## Usual Form
+## Usual Form - in Vacuum
 Take the curl of both curl equations:
 $$\nabla\times\nabla\times\vec E=-\frac{\partial}{\partial t}\nabla\times\vec B$$
 $$\nabla\times\nabla\times\vec B=\mu_0\epsilon_0\frac{\partial}{\partial t}\nabla\times\vec E$$
@@ -15,10 +15,10 @@ In the source free region, the electric field is divergenless. The magnetic fiel
 $$\boxed{\nabla^2\vec E=\mu_0\epsilon_0\frac{\partial \vec E}{\partial t}}$$
 $$\boxed{\nabla^2\vec B=\mu_0\epsilon_0\frac{\partial\vec B}{\partial t}}$$
 Which are wave equations. 
-## Macroscopic Form
+## Macroscopic Form - in Media
 The same procedure as above returns
-$$\boxed{\nabla^2\vec D=\mu_0\epsilon_0\frac{\partial \vec D}{\partial t}}$$
-$$\boxed{\nabla^2\vec H=\mu_0\epsilon_0\frac{\partial\vec H}{\partial t}}$$
+$$\boxed{\nabla^2\vec D=\mu\epsilon\frac{\partial \vec D}{\partial t}}$$
+$$\boxed{\nabla^2\vec H=\mu\epsilon\frac{\partial\vec H}{\partial t}}$$
 ## Speed of Electromagnetic Waves is the Speed of Light
 The form of the wave equation suggests that:
 $$\boxed{\mu_0\epsilon_0=\frac{1}{c^2}}$$

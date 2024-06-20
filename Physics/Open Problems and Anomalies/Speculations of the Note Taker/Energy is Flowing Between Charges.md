@@ -1,4 +1,4 @@
-Tags: [[Speculation]] [[3 Electric Forces and Fields]] [[19 Energy is the Fluid Emerging from Charges]] [[2 Electromagnetic Waves]]
+Tags: [[Speculation]] [[3 Electric Forces and Fields]] [[19 Energy is the Fluid Emerging from Charges]] [[2 Electromagnetic Waves]] [[3 Energy Flow of Electromagnetic Waves]] [[Photon, Energy transfer via electric field]]
 ___
 Electric field lines could be the flow lines of some incompressible fluid like substance. Is there really something flowing out and into charges at the speed of light?
 
@@ -6,6 +6,6 @@ Electric field lines could be the flow lines of some incompressible fluid like s
 
 The energy density must follow some non intuitive properties that turn out to be equivalent to quantum wavefunctions, such as **linear superposition related interference**. Coincidence? 
 
-If modelled as such, the repulsion and attraction are negative and positive pressure. **Field lines exert pressure because energy is actually flowing, and they replicate QED's virtual photon exchanges with the boomerang and baseball analogies**. **Try modelling photons as dirac deltas of the outflowing energy density**? This would reveal a more explicit quantisation. But we may not even need it because the fluid explains photoelectric effect. [[Photon, Energy transfer via electric field]]
+If modelled as such, the repulsion and attraction are negative and positive pressure. **Field lines exert pressure because energy is actually flowing, and they replicate QED's virtual photon exchanges with the boomerang and baseball analogies**. **Try modelling photons as dirac deltas of the outflowing energy density**? This would reveal a more explicit quantisation. But we may not even need it because the fluid explains photoelectric effect. [[Photon, Energy transfer via electric field]] 
 
 If photons are the quantisation of the energy fluid that is the electromagnetic field, then there would only be a scaling law if the thing receiving the photons have size. **Electrons must have size.** 

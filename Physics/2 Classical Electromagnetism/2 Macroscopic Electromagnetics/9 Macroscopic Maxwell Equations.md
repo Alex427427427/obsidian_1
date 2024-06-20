@@ -27,6 +27,7 @@ $$\nabla\times\vec D=-\mu_0\epsilon_0\frac{\partial\vec H}{\partial t}$$
 With the integral form:
 $$\oint_C\vec D\cdot d\vec l=-\mu_0\epsilon_0\frac{\partial}{\partial t}\int_S\vec H\cdot d\vec A$$
 **The identity discussed above are not part of the canon. Please contact a supervisor for possibility of new insight.** 
+**Update: This appears to be wrong at first glance, because it produces wave equations that have solutions that only propagate at the speed of light. Further argument about the non-physicality of phase velocity contained in the article [[Electromagnetic Waves]] should be examined before discarding it.**
 ## The Magnetic Gauss Law
 Just like the magnetic field, the induction field has no direct source. 
 $$\nabla\cdot\vec H=0$$
