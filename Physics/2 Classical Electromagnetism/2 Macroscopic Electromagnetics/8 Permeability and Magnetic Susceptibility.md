@@ -1,9 +1,9 @@
-Tags: [[Electromagnetism]] [[4 Improving Inductance With Magnetisable Medium]] [[2 Magnetisation, its Field, and Phenomena]] [[6 Magnetic Induction Field]]
+Tags: [[Electromagnetism]] [[4 Improving Inductance With Magnetisable Medium]] [[2 Magnetisation, its Field, and Phenomena]] [[6 Magnetic Induction Field (or Magnetising Field)]]
 ___
 ## Definition
 Permeability $\mu$ is a property of a material, a medium. It is defined by the equation
 $$\boxed{\vec B=\mu\vec H}$$
-where $\vec H$ is the [[6 Magnetic Induction Field]] and $\vec B$ is the magnetic field. 
+where $\vec H$ is the [[6 Magnetic Induction Field (or Magnetising Field)]] and $\vec B$ is the magnetic field. 
 ##### Interpretation
 Permeability is the amount of sheet current density surrounding a solenoid that creates a unit magnetic field in the space inside the solenoid. 
 ## In Free Space

@@ -1,5 +1,7 @@
 Tags: [[Electromagnetism]] [[Electromagnetic Waves]] [[2 Electromagnetic Waves]]
 ___
+Polarisation of electromagnetic waves is the field behaviour over time at a location-fixed transverse plane to propagation. 
+
 Electromagnetic waves can be polarised - given a direction of propagation and a fixture of overall initial phase, there remains **3** degrees of freedom of orientation for the electric field over time. 
 1. The degree of orientation along an orthogonal direction to propagation.
 2. The degree of orientation along a second orthogonal direction to propagation.

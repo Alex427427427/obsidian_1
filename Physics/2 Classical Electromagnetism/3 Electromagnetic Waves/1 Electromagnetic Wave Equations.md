@@ -15,10 +15,8 @@ In the source free region, the electric field is divergenless. The magnetic fiel
 $$\boxed{\nabla^2\vec E=\mu_0\epsilon_0\frac{\partial \vec E}{\partial t}}$$
 $$\boxed{\nabla^2\vec B=\mu_0\epsilon_0\frac{\partial\vec B}{\partial t}}$$
 Which are wave equations. 
-## Macroscopic Form - in Media
-The same procedure as above returns
-$$\boxed{\nabla^2\vec D=\mu\epsilon\frac{\partial \vec D}{\partial t}}$$
-$$\boxed{\nabla^2\vec H=\mu\epsilon\frac{\partial\vec H}{\partial t}}$$
+## Macroscopic Form - in Isotropic Media
+A medium in general is characterised by 3 properties from which all macroscopic electromagnetic properties can be derived. These are $\sigma$, $\epsilon$, and $\mu$. The full treatment of the wave in this medium is cumbersome, and will be dealt with properly later. 
 ## Speed of Electromagnetic Waves is the Speed of Light
 The form of the wave equation suggests that:
 $$\boxed{\mu_0\epsilon_0=\frac{1}{c^2}}$$

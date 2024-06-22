@@ -1,4 +1,4 @@
-Tags: [[Electromagnetism]] [[5 Electric Displacement Field]] [[6 Magnetic Induction Field]] [[5 Maxwell Equation - Gauss' Law for Electric Field]] [[13 Maxwell Equation - Ampere's Law for Magnetic Field Creation]] [[11 Maxwell Equation - Gauss' Law for Magnetic Field]] [[14 Maxwell Equation - Faraday's Law of Induction]]
+Tags: [[Electromagnetism]] [[5 Electric Displacement Field]] [[6 Magnetic Induction Field (or Magnetising Field)]] [[5 Maxwell Equation - Gauss' Law for Electric Field]] [[13 Maxwell Equation - Ampere's Law for Magnetic Field Creation]] [[11 Maxwell Equation - Gauss' Law for Magnetic Field]] [[14 Maxwell Equation - Faraday's Law of Induction]]
 ___
 ## The Charge Source Law
 The displacement field's interpretation directly leads to a modified version of the first Maxwell's Equation:
@@ -28,17 +28,30 @@ With the integral form:
 $$\oint_C\vec D\cdot d\vec l=-\mu_0\epsilon_0\frac{\partial}{\partial t}\int_S\vec H\cdot d\vec A$$
 **The identity discussed above are not part of the canon. Please contact a supervisor for possibility of new insight.** 
 **Update: This appears to be wrong at first glance, because it produces wave equations that have solutions that only propagate at the speed of light. Further argument about the non-physicality of phase velocity contained in the article [[Electromagnetic Waves]] should be examined before discarding it.**
+**Update 2: This is wrong. It leads to solutions whose phase must propagate at the speed of light when in reality they must propagate at the speed determined by the polarisability and magnetisability of the medium. The error arises from the assumption that the magnetisation and polarisation terms form a faraday's law; they do not; they only do in vacuum.**
+**The correct induction law is $$\nabla\times\vec E=-\frac{\partial\vec B}{\partial t}$$**
 ## The Magnetic Gauss Law
 Just like the magnetic field, the induction field has no direct source. 
 $$\nabla\cdot\vec H=0$$
-## Summary
+**This is wrong. The induction field has a direct source emerging from accountatory magnetic poles.**
+**The correct gauss law remains the original one.**
+$$\nabla\cdot\vec B=0$$
+## Summary (Corrected)
 ##### Integral Forms
 $$\boxed{\oint_S\vec D\cdot d\vec A=Q_{free}}$$
-$$\boxed{\oint_S\vec H\cdot d\vec A=0}$$
-$$\boxed{\oint_C\vec D\cdot d\vec l=-\mu_0\epsilon_0\frac{\partial}{\partial t}\int_S\vec H\cdot d\vec A}$$
+$$\boxed{\oint_S\vec B\cdot d\vec A=0}$$
+$$\boxed{\oint_C\vec E\cdot d\vec l=-\mu_0\epsilon_0\frac{\partial}{\partial t}\int_S\vec B\cdot d\vec A}$$
 $$\boxed{\oint_C\vec H\cdot d\vec l=I_{free}+\frac{\partial}{\partial t}\int_S\vec D\cdot d\vec A}$$
 ##### Differential / Local Forms
 $$\boxed{\nabla\cdot\vec D=\rho_{free}}$$
-$$\boxed{\nabla\cdot\vec H=0}$$
-$$\boxed{\nabla\times\vec D=-\mu_0\epsilon_0\frac{\partial\vec H}{\partial t}}$$
+$$\boxed{\nabla\cdot\vec B=0}$$
+$$\boxed{\nabla\times\vec E=-\frac{\partial\vec B}{\partial t}}$$
 $$\boxed{\nabla\times\vec H=\vec J_{free}+\frac{\partial\vec D}{\partial t}}$$
+##### Additional Phenomenological Laws
+Bound current:
+$$\boxed{\vec J_{bound}=\nabla\times\vec M+\frac{\partial\vec P}{\partial t}}$$
+Bound charge: 
+$$\boxed{\rho_{bound}=-\nabla\cdot\vec P}$$
+Magnetic charge density $m$:
+$$\boxed{{m_{bound}=-\nabla\cdot\vec M}}\ \ \ \ \ \ \ and\ \ \ \ \ \ \ \boxed{m_{source}=\nabla\cdot\vec H}$$
+And they must cancel to preserve the magnetic field's divergence-less-ness. 

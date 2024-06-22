@@ -26,3 +26,13 @@ The current induced in a magnetised material. This usually appears at the surfac
 2. A time rate of change of polarisation field is also the current density. $$\frac{\partial \vec P}{\partial t}=\vec J_{bound}$$
 Thus the total bound current in a material is:
 $$\boxed{\vec J_{bound}=\nabla\times\vec M+\frac{\partial\vec P}{\partial t}}$$
+## Monopoles
+With the magnetisation field defined, we can also define a ficticious source such that when separated onto the two surfaces at the ends of the magnetised material, gives rise to the magnetisation field much like the electric polarisation case. This is the bound magnetic charge density $m$. 
+$$\boxed{m_{bound}=-\nabla\cdot\vec M}$$
+The form of this equation is trivial by inspection of the magnetisation field pattern. The induction field can also be associated with the displacement field notion from electricity, by observing the similarity between the equations: 
+$$\vec D=\epsilon_0\vec E+\vec P\ \ \ \ \ \ \ and\ \ \ \ \ \ \ \vec H=\frac{1}{\mu_0}\vec B-\vec M$$
+The first term is the source field, the second a flux density, the third a response source field. The negative sign is an artefact of the difference in the pole model and loop model's internal field pattern of a dipole. 
+
+Thus $\vec H$ can be associated with a charge law: 
+$$\boxed{m_{source}=\nabla\cdot\vec H}$$
+In practice the two charges must cancel, to make sure the magnetic field is divergence-less. 

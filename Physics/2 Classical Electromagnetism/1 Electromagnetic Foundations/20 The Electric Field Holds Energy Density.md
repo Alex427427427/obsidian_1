@@ -4,7 +4,7 @@ If we wish to claim that the fluid flow that the field represents is energy, we 
 
 The capacitor is so useful that it keeps giving new insights into the properties of the electric field. By examining the nice uniform field pattern of the capacitor, we can deduce that the electric field holds energy density, and exactly how much it holds. 
 
-Note that energy density means that it acts on charge distribution - that's why there is an apparent scaling of energy transfer that seemingly comes out of nowhere when the charge grows. 
+Note that energy density means that it acts on charge density - that's why there is an apparent scaling of energy transfer that seemingly comes out of nowhere when a point charge grows. 
 ## Where is Energy Stored in the Capacitor?
 Consider a charged and uncharged capacitor. In each case, there is no moving entity. There is no kinetic energy. All the energy is potential. Where is this energy? In the electric field filling the space between the capacitor plates. 
 ## Energy Stored in the Electric Field
