@@ -28,6 +28,7 @@ The circular polarisations - where two equal magnitude linear polarisation state
 $$\boxed{\frac{1}{\sqrt2}\begin{pmatrix}1\\ i\end{pmatrix}:=\frac{1}{\sqrt2}\hat x\cos(kz-\omega t)-\frac{1}{\sqrt2}\hat y\sin(kz-\omega t)}$$
 **Left hand:** (at a fixed plane as the wave passes through, right hand spatial helicity)
 $$\boxed{\frac{1}{\sqrt2}\begin{pmatrix}1\\ -i\end{pmatrix}:=\frac{1}{\sqrt2}\hat x\cos(kz-\omega t)+\frac{1}{\sqrt2}\hat y\sin(kz-\omega t)}$$
+In quantum mechanics, it will become apparent that these circular polarisation states are the true basis for photon states. 
 ## Appearance
 ![[polarisation states.png]]
 Above diagram describes the appearance of polarisation states. In the diagram, $\psi$ is the angle made on the orthogonal plane to propagation, by the magnitudes $x,y$. $\delta$ is the phase offset between the two linear degrees of polarisation. We see how the phase shift alters eccentricity. The sign of the phase offset results in which direction the field is rotating over the ellipse. This is its helicity. Light gray marks the polarisation when phase offset is none. 
