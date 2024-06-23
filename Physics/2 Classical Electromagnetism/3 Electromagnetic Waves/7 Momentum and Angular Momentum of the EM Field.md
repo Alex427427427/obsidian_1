@@ -1,4 +1,4 @@
-Tags: [[Electromagnetism]] [[Electromagnetic Waves]] [[3 Energy Flow of the Electromagnetic Field]] [[4 Polarisation of Electromagnetic Waves]] [[9 Magnetic Forces and Fields, Lorentz Force]]
+Tags: [[Electromagnetism]] [[Electromagnetic Waves]] [[6 Energy Flow of the EM Field]] [[5 Polarisation of EM Waves]] [[9 Magnetic Forces and Fields, Lorentz Force]]
 ___
 Consider a plane wave washing over a charge in free space. Whenever the electric field pushes the charge in one direction, the magnetic field acts on that velocity to product a force in the same direction of the wave propagation. This happens regardless of the electric field orientation. Over time, the charge obtains momentum. Let's consider this. 
 ## Derivation of Linear Momentum Transfer Rate

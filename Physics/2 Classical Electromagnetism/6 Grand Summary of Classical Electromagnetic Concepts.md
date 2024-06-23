@@ -31,4 +31,4 @@ Permeance $\mathcal P$, Permeability $\mu$
 Vacuum Permeability $\mu_0$, Relative Permeability $\mu_r$, Magnetic Susceptibility $\chi_m$
 Magnetomotive Force $\mathcal F$
 Refractive Index $n$
-Intrinsic Impedance $\eta$
+Intrinsic (Wave) Impedance $\eta$, Vacuum Impedance $\eta_0$

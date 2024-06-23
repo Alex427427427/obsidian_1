@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "663dabacec899d94",
+        "id": "e48ff3ca96a8f79e",
         "type": "tabs",
         "children": [
           {
-            "id": "14f7e70079ed0a30",
+            "id": "a55617ecec34fc95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/9 Macroscopic Maxwell Equations.md",
+                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/9 Macroscopic Maxwell Equations.md",
+                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/9 Macroscopic Maxwell Equations.md",
+                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/9 Macroscopic Maxwell Equations.md"
+                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md"
               }
             }
           }
@@ -146,34 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14f7e70079ed0a30",
+  "active": "a55617ecec34fc95",
   "lastOpenFiles": [
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 Polarisation of Electromagnetic Waves.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/9 Macroscopic Maxwell Equations.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/6 Magnetic Induction Field (or Magnetising Field).md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/4 Improving Inductance With Magnetisable Medium.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/3 Improving Capacitance with Polarisable Medium.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/2 Magnetisation, its Field, and Phenomena.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/5 Electric Displacement Field.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/7 Permittivity and Electric Susceptibility.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/8 Permeability and Magnetic Susceptibility.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Polarisation of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/6 Energy Flow of the EM Field.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/7 Momentum and Angular Momentum of the EM Field.md",
+    "Physics/2 Classical Electromagnetism/6 Grand Summary of Classical Electromagnetic Concepts.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron/Photon is a unit Angular Momentum.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron/Photon is non local.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron/Spin and Action Speculation.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron/Electrons and Positrons are Photons with Opposite phase evolution.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Absolute Spacetime - Photon Clocks.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Non-Local Realism.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/3 Macroscopic EM Wave Equations.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/2 Electromagnetic Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/3 Energy Flow of the Electromagnetic Field.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Momentum and Angular Momentum of the Electromagnetic Field.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/6 Macroscopic EM Wave Equations.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/8 Macroscopic EM Wave Equations in Frequency Domain.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/EM Plane Wave Propagation in Media.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/EM Fields at Media Boundary.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/7 Maxwell's Equations in Frequency Domain.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Radiation Sources of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Fully Describing Spherical Harmonic EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Refraction of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Reflection of EM Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/1 Electromagnetic Wave Equations.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Reflection of EM Waves.md",
     "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/21 The Magnetic Field Holds Energy Density.md",
     "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/20 The Electric Field Holds Energy Density.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/22 Assembly of Sources, Self Energy.md",
+    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/11 EM Fields at Media Boundary.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Radiation Sources of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/10 Maxwell's Equations in Frequency Domain.md",
     "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/19 Energy is the Fluid Emerging from Charges.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Fully Describing Spherical Harmonic EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/8 Macroscopic EM Wave Equations in Frequency Domain.md",
+    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/10.md",
+    "Images/macroscopic mag field patterns.png",
     "Physics/7 To Build a Theory",
     "Alien Comic",
     "polarisation and spin.pdf",
@@ -191,8 +193,6 @@
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves",
     "Images/paired moment.png",
     "Images/altered paired moment.png",
-    "Images/magnetic domain magnetisation.png",
-    "Physics/5 Applied Fields/Solid State Physics",
-    "Physics/4 Quantum Physics/0 The Roots of Quantum Mechanics"
+    "Physics/5 Applied Fields/Solid State Physics"
   ]
 }

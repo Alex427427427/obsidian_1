@@ -26,6 +26,8 @@ The current induced in a magnetised material. This usually appears at the surfac
 2. A time rate of change of polarisation field is also the current density. $$\frac{\partial \vec P}{\partial t}=\vec J_{bound}$$
 Thus the total bound current in a material is:
 $$\boxed{\vec J_{bound}=\nabla\times\vec M+\frac{\partial\vec P}{\partial t}}$$
+Which is analogous to the ampere law for bound sources:
+$$\nabla\times\vec M=\vec J_{bound}-\frac{\partial\vec P}{\partial t}$$
 ## Monopoles
 With the magnetisation field defined, we can also define a ficticious source such that when separated onto the two surfaces at the ends of the magnetised material, gives rise to the magnetisation field much like the electric polarisation case. This is the bound magnetic charge density $m$. 
 $$\boxed{m_{bound}=-\nabla\cdot\vec M}$$
@@ -36,3 +38,8 @@ The first term is the source field, the second a flux density, the third a respo
 Thus $\vec H$ can be associated with a charge law: 
 $$\boxed{m_{source}=\nabla\cdot\vec H}$$
 In practice the two charges must cancel, to make sure the magnetic field is divergence-less. 
+$$\nabla\cdot\vec H+\nabla\cdot\vec M=0$$
+## Field Patterns
+In free space, $\vec M$ doesn't exist, and $\vec B$ and $\vec H$ look the same. In a magnet, both $\vec H$ and $\vec M$ become divergent from fake magnetic charges. These magnetic charges account the charge versions of the free and bound currents. 
+![[macroscopic mag field patterns.png]]
+Notice that the $\vec H$ and $\vec M$ fields super impose to form the closed loop $\vec B$ pattern. 

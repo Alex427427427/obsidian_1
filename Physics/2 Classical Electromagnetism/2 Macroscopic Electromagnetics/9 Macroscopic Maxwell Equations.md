@@ -48,10 +48,11 @@ $$\boxed{\nabla\cdot\vec B=0}$$
 $$\boxed{\nabla\times\vec E=-\frac{\partial\vec B}{\partial t}}$$
 $$\boxed{\nabla\times\vec H=\vec J_{free}+\frac{\partial\vec D}{\partial t}}$$
 ##### Additional Phenomenological Laws
-Bound current:
+Bound current: 
 $$\boxed{\vec J_{bound}=\nabla\times\vec M+\frac{\partial\vec P}{\partial t}}$$
 Bound charge: 
 $$\boxed{\rho_{bound}=-\nabla\cdot\vec P}$$
 Magnetic charge density $m$:
 $$\boxed{{m_{bound}=-\nabla\cdot\vec M}}\ \ \ \ \ \ \ and\ \ \ \ \ \ \ \boxed{m_{source}=\nabla\cdot\vec H}$$
 And they must cancel to preserve the magnetic field's divergence-less-ness. 
+$$\nabla\cdot\vec H+\nabla\cdot\vec M=0$$

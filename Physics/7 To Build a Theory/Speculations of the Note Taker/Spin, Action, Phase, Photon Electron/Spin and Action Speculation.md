@@ -1,4 +1,4 @@
-Tags: [[Speculation]] [[4 Polarisation of Electromagnetic Waves]] [[Stern-Gerlach Experiment]]
+Tags: [[Speculation]] [[5 Polarisation of EM Waves]] [[Stern-Gerlach Experiment]]
 ___
 There are clues for a fully transparent vision for the nature of spin, action and elementary particles, with hopes to shed light on deeper physical theories
 ## History

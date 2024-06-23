@@ -1,4 +1,4 @@
-Tags: [[Speculation]] [[3 Electric Forces and Fields]] [[19 Energy is the Fluid Emerging from Charges]] [[2 Electromagnetic Waves]] [[3 Energy Flow of the Electromagnetic Field]] [[Photon, Energy transfer via electric field]]
+Tags: [[Speculation]] [[3 Electric Forces and Fields]] [[19 Energy is the Fluid Emerging from Charges]] [[2 Electromagnetic Waves]] [[6 Energy Flow of the EM Field]] [[Photon, Energy transfer via electric field]]
 ___
 Electric field lines could be the flow lines of some incompressible fluid like substance. Is there really something flowing out and into charges at the speed of light?
 
