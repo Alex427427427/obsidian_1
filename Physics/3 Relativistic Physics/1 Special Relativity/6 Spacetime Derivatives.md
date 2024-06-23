@@ -12,6 +12,8 @@ $$\partial_\mu J^\mu=\frac{1}{c}\frac{\partial J^0}{\partial t}+\frac{\partial J
 ## Curl
 In spacetime, curl is replaced by a more generalisable representation, as an antisymmetric rotation [[Generator]] tensor field $F$. For a 4-vector field $A$, it is:
 $$F_{\mu\nu}=\partial_\mu A_\nu-\partial_\nu A_\mu$$
+If you must extract a curl in 3D, use:
+$$(\nabla\times\vec A)^i=\epsilon^{ijk}\partial_jA_k$$
 ## Laplacian
 The spacetime laplacian, when expanded, is:
 $$\partial_\mu\partial^\mu=\frac{1}{c^2}\frac{\partial^2}{\partial t^2}-\frac{\partial^2}{\partial x^2}-\frac{\partial^2}{\partial y^2}-\frac{\partial^2}{\partial z^2}=\frac{1}{c^2}\frac{\partial^2}{\partial t^2}-\nabla^2=\square^2$$

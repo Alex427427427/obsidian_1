@@ -1,6 +1,6 @@
 Tags: [[Electromagnetism]] [[Electromagnetic Waves]] [[19 Energy is the Fluid Emerging from Charges]] [[20 The Electric Field Holds Energy Density]] [[21 The Magnetic Field Holds Energy Density]]
 ___
-We are now ready to fully understand the dynamics of energy transfer in an electromagnetic field. 
+What used to be a mediator of force has now taken to a life of its own. We are now ready to fully understand the dynamics of energy transfer in an electromagnetic field. 
 ## Energy Density in General
 The electric field holds energy density $u$. [[20 The Electric Field Holds Energy Density]] It holds it with magnitude
 $$u=\frac{1}{2}\epsilon_0|\vec E|^2$$
@@ -8,16 +8,19 @@ The magnetic field holds energy density. [[21 The Magnetic Field Holds Energy De
 $$u=\frac{1}{2\mu_0}|\vec B|^2$$
 Therefore the total energy held by the fields at a location in space that contains both fields is: 
 $$\boxed{u=\frac{1}{2}\epsilon_0 |\vec E|^2+\frac{1}{2\mu_0}|\vec B|^2}$$
+In a different medium, the permittivity and permeability affects the energy density stored at locations. This is to account for the energy stored in the induced dipoles. 
+$$\boxed{u=\frac{1}{2}\epsilon |\vec E|^2+\frac{1}{2\mu}|\vec B|^2}$$
 ## Energy Density in a Wave
 Since the magnetic component can be directly related to the electric components in an electromagnetic wave, where $|\vec B|=|\vec E|/c$ thus $|\vec B|^2=\mu_0\epsilon_0|\vec E|^2$. Thus, the total energy density (the PROPAGATING COMPONENT OF...) is:
 $$\boxed{u=\epsilon_0|\vec E|^2}$$
 We can also define the **energy density current** $\vec S=u\vec v$. This is the energy surface density delivered per unit time. For EM waves $|\vec v|=c$. Since $|\vec E|^2$ can be thought of as $|\vec E||c\vec B|$, and we know that it's only the orthogonal components of the electric and magnetic field that give the propagating energy, the general case must also hold true given a cross product. 
 $$\boxed{\vec S=c^2\epsilon_0\vec E\times\vec B=\frac{1}{\mu_0}\vec E\times\vec B}$$
-This is known as the poynting vector. 
+This is known as the poynting vector. If we not only consider the energy carried by the field, but also the propagating wave of polarisation and magnetisation, we can swap all the constants for the constants of the medium, 
+$$\boxed{\vec S=\vec E\times\vec H}$$
 
 The **intensity** - surface power density - of an electromagnetic wave, is simply the magnitude of the energy density multiplied by the speed of light, which is the definition of energy density current, and indeed the magnitude of the poynting vector. In light, this is proportional to brightness. 
-$$\boxed{I=c\epsilon_0|\vec E|^2=\sqrt{\frac{\epsilon_0}{\mu_0}}|\vec E|^2}$$
-The constant $\sqrt{\frac{\epsilon_0}{\mu_0}}$ is the reciprocal of another concept, the **intrinsic impedance of free space** $\eta_0=\sqrt{\frac{\mu_0}{\epsilon_0}}$.
+$$\boxed{I=c\epsilon_0|\vec E|^2=\sqrt{\frac{\epsilon_0}{\mu_0}}|\vec E|^2\implies I=\sqrt{\frac{\epsilon}{\mu}}|\vec E|^2=\frac{|\vec E|^2}{\eta}}$$
+Where the constant $\sqrt{\frac{\epsilon}{\mu}}$ is the reciprocal of the **intrinsic impedance**.
 
 Notice the square proportionality between power and field. **Indeed, the relationship between the field amplitudes and energy density is the same between the quantum wavefunction amplitudes and probability density**. See [[Speculation]] [[Electric Fields can Model Quantum Wavefunction]]. 
 

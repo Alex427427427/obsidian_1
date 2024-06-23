@@ -6,6 +6,9 @@ if there is a field of view of area $A$ at a distance $r$ away.
 
 **There are $4\pi$ total solid angles to form the totality of all directions.** in other words:
 $$\boxed{4\pi=\int d\Omega}$$
+The actual expression for $d\Omega$ in terms of the spherical angular coordinates $\theta$ (polar angle) and $\phi$ (azimuthal angle) is: 
+$$\boxed{d\Omega=\sin\theta d\theta d\phi}$$
+Obtained by inspection of the angular arc surface sprayed over from a vector rotating by $d\theta$ and $d\phi$. 
 ## Spherical Volume Integral
 The definition of the solid angle makes the spherical volume integral amazingly simple. It is the integration of infinitesimally thin spherical sheets of area $r^2 d\Omega$ , across all $r$ in the region of interest. Therefore:
 $$\boxed{\int_VdV=\int_r\int_\Omega r^2d\Omega dr}$$

@@ -59,4 +59,9 @@ Lossy, is when the medium has some conductivity that is not total, such that the
 The case of lossy propagation is simply the general case derived above. An analytical solution is not necessary as these values can be calculated numerically in practice. 
 ## Waves in Conductive Media
 In conductive media, $\sigma\rightarrow\infty$ compared to $\omega\epsilon$. This the spatial complex exponent into:
-$$\gamma=$$
+$$\gamma=\sqrt{i\mu\omega\sigma}=\sqrt{i} \sqrt{\mu\omega\sigma}=\left(\frac{1}{\sqrt2}+\frac{1}{\sqrt2}i\right)\sqrt{\mu\omega\sigma}=\alpha+ik$$
+Thus:
+$$\boxed{\gamma=\sqrt{\frac{\mu\omega\sigma}{2}}+\sqrt{\frac{\mu\omega\sigma}{2}}i=\alpha+ik}$$
+And the wave impedance: 
+$$\boxed{\eta=\sqrt\frac{i\omega\mu}{\sigma+i\omega\epsilon}=\sqrt{\frac{i\omega\mu}{\sigma}}=\sqrt{\frac{\omega\mu}{\sigma}}e^{45\degree}}$$
+Meaning the magnetising field lags the electric field by 45 degrees. 

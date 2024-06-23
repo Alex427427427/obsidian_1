@@ -17,7 +17,7 @@ In polarisable media i.e. dielectric i.e. insulating, $\vec D=\epsilon \vec E$. 
 
 We can always express $\epsilon$ in terms of $\epsilon_0$:
 $$\boxed{\epsilon=\epsilon_0\epsilon_r}$$
-where $\epsilon_r$ is the relative permittivity of the medium. Note that in natural units, $\epsilon_0=1$, thus $\epsilon=\epsilon_r$. The relative permittivity is what characterises polarisability. Indeed, **polarisability** is another name for permittivity. 
+where $\epsilon_r$ is the **relative permittivity** of the medium. Note that in natural units, $\epsilon_0=1$, thus $\epsilon=\epsilon_r$. The relative permittivity is what characterises polarisability. Indeed, **polarisability** is another name for permittivity. So is **dielectric constant**.
 
 When the polarisation is **anisotropic** but still **linear**, the permittivity is a general linear map - a **tensor**. ([[1 What Tensors Are]]) 
 
