@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c40a34699893fc6d",
+        "id": "55688f8028c9ed9c",
         "type": "tabs",
         "children": [
           {
-            "id": "b7e676e01c724748",
+            "id": "d64d9a33e0ae6dfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md",
+                "file": "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md",
+                "file": "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md"
+                "file": "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md"
               }
             }
           }
@@ -146,8 +142,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7e676e01c724748",
+  "active": "0a5024132335c55e",
   "lastOpenFiles": [
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md",
+    "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
+    "Mathematics and Geometry/Lie Theory",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Refraction of EM Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Reflection of EM Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Radiation Sources of EM Waves.md",
@@ -156,7 +155,6 @@
     "Mathematics and Geometry/Differential Geometry/Introduction to Diff Geo.md",
     "Physics/2 Classical Electromagnetism/0 Introduction to Electromagnetism.md",
     "Physics/2 Classical Electromagnetism/7 Grand Summary of Classical Electromagnetic Concepts.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md",
     "Alien Comic/Interview.md",
     "Alien Comic/Sleeping Daughter Episode.md",
     "Tags/Alien Comic.md",
@@ -174,7 +172,6 @@
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/8 A Continuum of Outcomes Needs Hilbert Spaces.md",
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Stern-Gerlach Experiment.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/6 Evolutions - Unitary Operators.md",
     "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron",
     "Images/macroscopic mag field patterns.png",
     "Physics/7 To Build a Theory",
@@ -191,7 +188,6 @@
     "Images/polarisation states.png",
     "Physics/7 To Build a Theory/Speculations of the Note Taker/EM Fluid Reproduce QM",
     "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves",
     "Images/paired moment.png",
     "Images/altered paired moment.png"
   ]
