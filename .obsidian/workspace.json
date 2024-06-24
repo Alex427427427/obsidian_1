@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "55688f8028c9ed9c",
+        "id": "233e22289e9136db",
         "type": "tabs",
         "children": [
           {
-            "id": "d64d9a33e0ae6dfc",
+            "id": "6f596cf69c21a21e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/1 Classical Mechanics/1 General Dynamics/2 Review of Newton - Many Particles.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
+                "file": "Physics/1 Classical Mechanics/1 General Dynamics/2 Review of Newton - Many Particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
+                "file": "Physics/1 Classical Mechanics/1 General Dynamics/2 Review of Newton - Many Particles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md"
+                "file": "Physics/1 Classical Mechanics/1 General Dynamics/2 Review of Newton - Many Particles.md"
               }
             }
           }
@@ -142,36 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a5024132335c55e",
+  "active": "6f596cf69c21a21e",
   "lastOpenFiles": [
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md",
-    "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
-    "Mathematics and Geometry/Lie Theory",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Refraction of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Reflection of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Radiation Sources of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Fully Describing Spherical Harmonic EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/8 EM Field Boundary Conditions at Media Boundary.md",
-    "Mathematics and Geometry/Differential Geometry/Introduction to Diff Geo.md",
-    "Physics/2 Classical Electromagnetism/0 Introduction to Electromagnetism.md",
-    "Physics/2 Classical Electromagnetism/7 Grand Summary of Classical Electromagnetic Concepts.md",
-    "Alien Comic/Interview.md",
-    "Alien Comic/Sleeping Daughter Episode.md",
-    "Tags/Alien Comic.md",
-    "Mathematics and Geometry/Geometry/Spherical Geometry - Solid Angle.md",
-    "Mathematics and Geometry/Differential Geometry",
-    "Mathematics and Geometry/Tensors/6 Tensor Calculus.md",
-    "Mathematics and Geometry/Tensors/7 The Stress Tensor.md",
-    "Mathematics and Geometry/Tensors/5 How Tensors Transform.md",
-    "Mathematics and Geometry/Tensors/4 The Metric Tensor.md",
-    "Mathematics and Geometry/Tensors/3 Einstein's Summation Notation.md",
-    "Mathematics and Geometry/Tensors/2 Index Notation.md",
-    "Mathematics and Geometry/Tensors/1 What Tensors Are.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/3 Dirac's Braket Notation.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/1 The Quantum State.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
+    "Physics/1 Classical Mechanics/1 General Dynamics/1 Review of Newton - Single Particle Mechanics.md",
+    "Physics/1 Classical Mechanics/1 General Dynamics/2 Review of Newton - Many Particles.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/3 Macroscopic EM Wave Equations.md",
+    "Physics/1 Classical Mechanics/3 Fluid Physics/Prerequisite to Fluid Physics.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron/Electrons and Positrons are Photons with Opposite phase evolution.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron/Electrons and Positrons are Photons made to spin in place.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron/Vortices attract and repel according to spin.md",
+    "Physics/7 To Build a Theory/Speculations of the Note Taker/Non-Local Realism.md",
+    "Physics/Unit systems/3 Natural Units.md",
+    "Physics/Unit systems/2 Heaviside-Lorentz Units.md",
+    "Tags/Classical Mechanics.md",
+    "Tags/Newtonian Mechanics.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Quantum Dynamics.md",
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/8 A Continuum of Outcomes Needs Hilbert Spaces.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Stern-Gerlach Experiment.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
+    "Tags/Alien Comic.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/7 Capacitor and Capacitance, Potential Energy Storage.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/5 Maxwell Equation - Gauss' Law for Electric Field.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/1 Charges and Currents.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/2 The Continuity Equation - Conservation of Any Flowing Substance.md",
+    "Physics/1 Classical Mechanics/0 Introduction to Classical Mechanics.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/8 EM Field Boundary Conditions at Media Boundary.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/EM Waves on Transmission Lines.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Polarisation of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/6 Energy Flow of the EM Field.md",
+    "Mathematics and Geometry/Lie Theory",
+    "Mathematics and Geometry/Differential Geometry",
     "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron",
     "Images/macroscopic mag field patterns.png",
     "Physics/7 To Build a Theory",

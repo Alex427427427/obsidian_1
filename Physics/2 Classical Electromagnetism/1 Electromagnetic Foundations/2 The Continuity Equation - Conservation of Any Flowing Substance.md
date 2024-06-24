@@ -1,4 +1,4 @@
-Tags: [[Electromagnetism]] [[1 Charges and Currents]]
+Tags: [[Electromagnetism]] [[1 Charges and Currents]] 
 ___
 Like any other flowing substance, total charge is conserved. If charge appears to be disappearing at a location, it must have moved away from it as a current. 
 
