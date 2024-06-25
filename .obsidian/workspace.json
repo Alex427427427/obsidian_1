@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2899264f9240d4d6",
+        "id": "ff5830fb31968604",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6807e2bdf38f9f",
+            "id": "9849d5c665425e1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Jobs/Theoretical Physics Research.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Jobs/Theoretical Physics Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Jobs/Theoretical Physics Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atlas/Jobs/Theoretical Physics Research.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b6807e2bdf38f9f",
+  "active": "9849d5c665425e1a",
   "lastOpenFiles": [
+    "Atlas/Jobs/Theoretical Physics Research.md",
     "Atlas/Life Goals/Try to Contribute to Theoretical Physics.md",
     "Atlas/Life Goals/Obtain Financial Security.md",
     "Atlas/Life Goals/Maintain Body and Mind.md",
-    "Atlas/Jobs/Theoretical Physics Research.md",
     "Atlas/Jobs/Photonics Research.md",
     "Atlas/Jobs/Nuclear Physics Research.md",
     "Atlas/Jobs/Electromagnetics Research.md",
