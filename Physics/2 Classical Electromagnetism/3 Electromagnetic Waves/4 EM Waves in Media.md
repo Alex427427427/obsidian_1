@@ -66,6 +66,7 @@ And the wave impedance:
 $$\boxed{\eta=\sqrt\frac{i\omega\mu}{\sigma+i\omega\epsilon}=\sqrt{\frac{i\omega\mu}{\sigma}}=\sqrt{\frac{\omega\mu}{\sigma}}e^{45\degree}}$$
 Meaning the magnetising field lags the electric field by 45 degrees. 
 ##### Skin Effect
+[[Skin Effect]]
 At high frequencies the ideal conductor properties no longer hold, because charge distribution can never reach equilibrium. Potential can be different over it, and propagate along it, so can electric fields point along the conductor surface. A changing potential results in waves of charge being pushed back and forth while the energy change travels along the conductor at the speed of light. 
 
 AC current conduction over wires can be thought of as this propagation of charge density pressure waves, carried out by the sinusoidal electric field pointing **along** the wires. Such a process must follow the wave and energy propagation laws derived above. Namely, the electric field must distribute itself with exponential decay away from the conductor surface, where it will be most pronounced. This means current is also distributed that way. Additionally, EM waves radiate away from the wires, carrying small energy into space. 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff5830fb31968604",
+        "id": "382e0ee477dc07a2",
         "type": "tabs",
         "children": [
           {
-            "id": "9849d5c665425e1a",
+            "id": "a8f845f66d9e94cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/6 Open Problems and Anomalies/0 Grand List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/6 Open Problems and Anomalies/0 Grand List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics/6 Open Problems and Anomalies/0 Grand List.md"
+              }
             }
           }
         ]
@@ -138,53 +142,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9849d5c665425e1a",
+  "active": "0a5024132335c55e",
   "lastOpenFiles": [
-    "Atlas/Jobs/Theoretical Physics Research.md",
-    "Atlas/Life Goals/Try to Contribute to Theoretical Physics.md",
-    "Atlas/Life Goals/Obtain Financial Security.md",
-    "Atlas/Life Goals/Maintain Body and Mind.md",
-    "Atlas/Jobs/Photonics Research.md",
-    "Atlas/Jobs/Nuclear Physics Research.md",
-    "Atlas/Jobs/Electromagnetics Research.md",
-    "Atlas/Jobs/Rover Engineer.md",
-    "Tags/Jobs.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/8 EM Field Boundary Conditions at Media Boundary.md",
-    "Atlas/Jobs",
-    "Atlas/Life Goals/Wind up in Love.md",
-    "Atlas/Life Goals/Publish Graphic Novels.md",
-    "Tags/Life Goals.md",
-    "Atlas/Life Goals",
-    "Tags/Atlas.md",
-    "Atlas",
-    "Physics/1 Classical Mechanics/1 General Dynamics/2 Review of Newton - Many Particles.md",
-    "Physics/1 Classical Mechanics/1 General Dynamics/1 Review of Newton - Single Particle Mechanics.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/10 Maxwell's Equations in Frequency Domain.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/2 Magnetisation, its Field, and Phenomena.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/1 Electric Polarisation and the Polarisation Field.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/22 Energy of Charge Assembly.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/21 The Magnetic Field Holds Energy Density.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/20 The Electric Field Holds Energy Density.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/3 Electric Forces and Fields.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/1 Charges and Currents.md",
-    "Mathematics and Geometry/Tensors/7 The Stress Tensor.md",
-    "Mathematics and Geometry/Tensors/6 Tensor Calculus.md",
+    "Physics/6 Open Problems and Anomalies/The Measurement Problem and Quantum State Bifurcation.md",
+    "Physics/6 Open Problems and Anomalies/0 Grand List.md",
+    "Art/Story Writing Theory/What is a Story.md",
+    "Tags/Story Writing Theory.md",
+    "Art/Ocean Comic/Characters.md",
+    "Art/Story Writing Theory",
+    "Art/Alien Comic/Sleeping Daughter Episode.md",
+    "Art/Alien Comic/Interview.md",
+    "Tags/Art.md",
+    "Art",
+    "Tags/Ocean Comic.md",
+    "Atlas of Life/Social Obligations/1 We Live in a Society.md",
+    "Art/Ocean Comic",
+    "Tags/Social Obligations.md",
+    "Atlas of Life/Social Obligations",
+    "Tags/Career Directions.md",
+    "Atlas of Life/Career Directions/Theoretical Physics Research.md",
+    "Atlas of Life/Career Directions/Rover Engineer.md",
+    "Atlas of Life/Career Directions/Photonics Research.md",
+    "Atlas of Life/Career Directions/Nuclear Physics Research.md",
+    "Atlas of Life/Career Directions/Electromagnetics Research.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/4.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/3 How Systems See - Images.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/2 The Ray Model of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/1 EM Wave Phenomena Grand Summary.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/0 Introduction to Classical Optics.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Scattering of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Dispersion of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Focusing of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/Interference of EM Waves.md",
+    "Images/lightning rod protective zone.png",
+    "Images/triboelectric effect cat.png",
+    "Atlas of Life/Career Directions",
+    "Atlas of Life/Life Goals",
+    "Atlas of Life",
     "Images/bar magnet mag field.png",
     "Images/Capacitor.png",
     "Images/altered paired moment.png",
     "Mathematics and Geometry/Lie Theory",
     "Mathematics and Geometry/Differential Geometry",
-    "Physics/7 To Build a Theory/Speculations of the Note Taker/Spin, Action, Phase, Photon Electron",
+    "Physics/7 Speculations of the Note Taker/Spin, Action, Phase, Photon Electron",
     "Images/macroscopic mag field patterns.png",
-    "Physics/7 To Build a Theory",
-    "Alien Comic",
-    "polarisation and spin.pdf",
     "Pasted image 20240620204839.png",
     "Pasted image 20240620203134.png",
     "Pasted image 20240620202855.png",
-    "albert park 1 1.jpg",
-    "albert park 1.jpg",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics",
-    "Images/circular polarising plate.png"
+    "albert park 1 1.jpg"
   ]
 }

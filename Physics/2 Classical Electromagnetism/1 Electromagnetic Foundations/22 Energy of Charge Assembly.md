@@ -1,4 +1,4 @@
-Tags: [[20 The Electric Field Holds Energy Density]] [[19 Energy is the Fluid Emerging from Charges]]
+Tags: [[Electromagnetism]] [[20 The Electric Field Holds Energy Density]] [[19 Energy is the Fluid Emerging from Charges]]
 ___
 ## Work Done to Assemble 2 Discrete Charges
 Consider 2 charges $q_1$ and $q_2$. We wish to bring them together to form an arrangement where they have a distance of $r_{12}$ between them. The first charge just exists in space and need only to be pinned down. The second charge is brought close, and the energy required to do that is $V_1(r_{12})$ per unit charge of $q_2$. Thus:

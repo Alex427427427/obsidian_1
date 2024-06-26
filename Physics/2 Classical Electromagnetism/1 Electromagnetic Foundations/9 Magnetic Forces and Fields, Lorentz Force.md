@@ -1,4 +1,4 @@
-Tags: [[1 Charges and Currents]] [[3 Electric Forces and Fields]]
+Tags: [[Electromagnetism]] [[1 Charges and Currents]] [[3 Electric Forces and Fields]]
 ___
 ## Magnetic Force between Currents
 The previously mentioned force between parallel currents scales inversely with distance. In time, we will see that this force is the same phenomenon as magnetism. We shall discuss the force density along the wires of length $L$, $\frac{F}{L}$. 

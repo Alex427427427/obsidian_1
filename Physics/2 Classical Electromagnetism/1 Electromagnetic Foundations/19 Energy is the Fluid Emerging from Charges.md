@@ -1,4 +1,4 @@
-Tags: [[18 Maxwell Potential Equations in The Lorentz Gauge]] [[3 Electric Forces and Fields]] [[2 The Continuity Equation - Conservation of Any Flowing Substance]] [[1 Charges and Currents]]
+Tags: [[Electromagnetism]] [[18 Maxwell Potential Equations in The Lorentz Gauge]] [[3 Electric Forces and Fields]] [[2 The Continuity Equation - Conservation of Any Flowing Substance]] [[1 Charges and Currents]]
 ___
 We are finally ready to understand just what exactly is outflowing from charges and currents. The inhomogeneous Maxwell's equations in potential form, in the Lorentz gauge that conserves total energy, are: 
 **charge source law**:
