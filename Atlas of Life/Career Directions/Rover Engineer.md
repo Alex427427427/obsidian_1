@@ -7,5 +7,5 @@ Actually fulfill my dream of creating something that will go into space.
 
 Sounds cool. 
 ## Cons
-Not actually advancing any technology. Doesn't seem that useful to society. 
+Not actually advancing any technology. Doesn't seem that useful to society. Not that much advanced theory. 
 
