@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d0f5296c8690858e",
+    "id": "6ec7b6ad2fdb4de6",
     "type": "split",
     "children": [
       {
-        "id": "db2f7138ba168f08",
+        "id": "c8e6be51e9628bcc",
         "type": "tabs",
         "children": [
           {
-            "id": "fd88709671924b9d",
+            "id": "5121b3e0604ab5f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "472d3d18d966d8b3",
+    "id": "d26ed933d0586562",
     "type": "split",
     "children": [
       {
-        "id": "a6814d8047a7a861",
+        "id": "2506047321b14282",
         "type": "tabs",
         "children": [
           {
-            "id": "0a5024132335c55e",
+            "id": "830d73b709bf76a1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "15bcbb4702d52e26",
+            "id": "50a2980f1427ef47",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "300d59a0455896ba",
+            "id": "bfff5915b90988de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 300
   },
   "right": {
-    "id": "d61c384f2ea66665",
+    "id": "6dd347a01e17e3e9",
     "type": "split",
     "children": [
       {
-        "id": "a00cc400f37210f4",
+        "id": "d999283820a89bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "46bd305d02bc89a8",
+            "id": "86561f456f30e674",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "487d85b73dff5ce3",
+            "id": "5b03c3e18ece7910",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "91542085d346501a",
+            "id": "87f45762d45d7296",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "b2e0b9570b845cdb",
+            "id": "4180d65fdd7d2338",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,53 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd88709671924b9d",
+  "active": "5121b3e0604ab5f2",
   "lastOpenFiles": [
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Pinhole.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Mirrors.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Lenses.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Diffraction Grating.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/3 How Systems See - Images.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/2 The Ray Model of EM Waves.md",
+    "Atlas of Life/Career Directions/Electromagnetics Research.md",
     "Atlas of Life/Career Directions/RF Engineering.md",
-    "Atlas of Life/Career Directions/Nuclear Engineering.md",
-    "Atlas of Life/Career Directions/Photonics Research.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Polarisation of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/8 EM Field Boundary Conditions at Media Boundary.md",
-    "Tags/Life Hopes.md",
-    "Atlas of Life/Life Hopes/Experience a Long Term Relationship.md",
-    "Atlas of Life/Life Goals/Publish Graphic Novels.md",
-    "Atlas of Life/Life Hopes/Untitled.md",
-    "Atlas of Life/Life Hopes",
-    "Atlas of Life/Career Directions/Life",
-    "Atlas of Life/Life Goals/Try to Contribute to Theoretical Physics.md",
-    "Atlas of Life/Life Problems/I don't know how to approach my career.md",
-    "Atlas of Life/Career Directions/Theoretical Physics Research.md",
-    "Tags/Life Problems.md",
-    "rando shit.md",
-    "Atlas of Life/Life Problems",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/7 Momentum and Angular Momentum of the EM Field.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/3 Improving Capacitance with Polarisable Medium.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/2 Magnetisation, its Field, and Phenomena.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/1 Electric Polarisation and the Polarisation Field.md",
-    "Physics/6 Open Problems and Anomalies/The Measurement Problem and Quantum State Bifurcation.md",
-    "Art/Story Writing Theory",
-    "Art",
-    "Art/Ocean Comic",
-    "Atlas of Life/Social Obligations",
-    "Images/lightning rod protective zone.png",
-    "Images/triboelectric effect cat.png",
-    "Atlas of Life/Career Directions",
-    "Atlas of Life/Life Goals",
-    "Atlas of Life",
-    "Images/bar magnet mag field.png",
-    "Images/Capacitor.png",
-    "Images/altered paired moment.png",
-    "Images/macroscopic mag field patterns.png",
-    "Pasted image 20240620204839.png",
-    "Pasted image 20240620203134.png",
-    "Pasted image 20240620202855.png",
-    "albert park 1 1.jpg"
+    "Atlas of Life/Career Directions/Theoretical Physics Research.md"
   ]
 }
