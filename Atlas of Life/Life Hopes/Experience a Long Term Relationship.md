@@ -1,4 +1,4 @@
-Tags: [[Atlas of Life]] [[Life Goals]]
+Tags: [[Atlas of Life]] [[Life Hopes]]
 ___
 Experience a long term relationship in which I can feel at home. 
 
