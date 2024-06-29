@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e6be51e9628bcc",
+        "id": "6fcedaaab0c922ac",
         "type": "tabs",
         "children": [
           {
-            "id": "5121b3e0604ab5f2",
+            "id": "10b67a4a0b276842",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas of Life/Career Directions/RF Engineering.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas of Life/Career Directions/RF Engineering.md",
+                "file": "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas of Life/Career Directions/RF Engineering.md",
+                "file": "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas of Life/Career Directions/RF Engineering.md"
+                "file": "Engineering/Radio Frequency Engineering/RFIC Engineering.md"
               }
             }
           }
@@ -146,10 +142,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5121b3e0604ab5f2",
+  "active": "830d73b709bf76a1",
   "lastOpenFiles": [
-    "Atlas of Life/Career Directions/Electromagnetics Research.md",
+    "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
+    "Engineering/Radio Frequency Engineering/Crystal Radio.md",
+    "Engineering/Radio Frequency Engineering/Spectrum Analyser.md",
+    "Tags/Radio Frequency Engineering.md",
     "Atlas of Life/Career Directions/RF Engineering.md",
+    "Atlas of Life/Career Directions/Nuclear Engineering.md",
+    "Atlas of Life/Career Directions/Electromagnetics Research.md",
     "Atlas of Life/Career Directions/Theoretical Physics Research.md"
   ]
 }
