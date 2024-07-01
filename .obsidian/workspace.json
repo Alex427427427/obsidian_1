@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6fcedaaab0c922ac",
+        "id": "f3c844ceafa5d645",
         "type": "tabs",
         "children": [
           {
-            "id": "10b67a4a0b276842",
+            "id": "5f15f07d3a8ca86c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Atlas of Life/Career Directions/RF Engineering.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
+                "file": "Atlas of Life/Career Directions/RF Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
+                "file": "Atlas of Life/Career Directions/RF Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Radio Frequency Engineering/RFIC Engineering.md"
+                "file": "Atlas of Life/Career Directions/RF Engineering.md"
               }
             }
           }
@@ -142,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "830d73b709bf76a1",
+  "active": "5f15f07d3a8ca86c",
   "lastOpenFiles": [
     "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
     "Engineering/Radio Frequency Engineering/Crystal Radio.md",
