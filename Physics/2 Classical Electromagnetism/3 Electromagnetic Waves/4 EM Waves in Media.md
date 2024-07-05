@@ -1,4 +1,4 @@
-Tags: [[Electromagnetism]] [[Electromagnetic Waves]] [[3 Macroscopic EM Wave Equations]] [[2 Electromagnetic Waves]] [[10 Maxwell's Equations in Frequency Domain]]
+Tags: [[Electromagnetism]] [[Electromagnetic Waves]] [[3 Macroscopic EM Wave Equations]] [[2 Electromagnetic Waves]] [[10 Maxwell's Equations in Frequency Domain]] 
 ___
 A medium is characterised by 3 properties that contain all macroscopic information of its optical behaviour - its conductivity $\sigma$ (that dissipates energy), permittivity $\epsilon$ (that stores elastic energy), and permeability $\mu$ (that stores kinetic energy in inertia). This is the electrical analogue of the 3 primary mechanical properties friction, (reciprocal of) elasticity, and inertia. 
 
