@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6a26b257c6587b4b",
+        "id": "63c68d08a9c6a756",
         "type": "tabs",
         "children": [
           {
-            "id": "e78207c0aa66b7b3",
+            "id": "d760e947d711e718",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atlas of Life/Life Goals/Nice to Haves Bucket List.md"
+              }
             }
           }
         ]
@@ -138,12 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e78207c0aa66b7b3",
+  "active": "d760e947d711e718",
   "lastOpenFiles": [
+    "Atlas of Life/Life Problems/I don't know how to approach my career.md",
+    "Atlas of Life/Social Obligations/1 We Live in a Society.md",
+    "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
+    "Atlas of Life/Life Goals/Maintain Body and Mind.md",
+    "Atlas of Life/Life Hopes/Experience a Long Term Relationship.md",
+    "Atlas of Life/Life Goals/Try to Contribute to Theoretical Physics.md",
+    "Atlas of Life/Life Goals/Publish Graphic Novels.md",
+    "Atlas of Life/Life Goals/Obtain Financial Security.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Polarisation of EM Waves.md",
     "Engineering/Space Engineering/Radiation Hardening.md",
-    "Atlas of Life/Life Hopes/Experience a Long Term Relationship.md",
     "Tags/Space Engineering.md",
     "Atlas of Life/Career Directions/RF Engineering.md",
     "Engineering/Space Engineering",
