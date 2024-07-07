@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "63c68d08a9c6a756",
+        "id": "7d2af03663da88a6",
         "type": "tabs",
         "children": [
           {
-            "id": "d760e947d711e718",
+            "id": "e43ee21a8234fd13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Atlas of Life/Life Goals/Nice to Haves Bucket List.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d760e947d711e718",
+  "active": "e43ee21a8234fd13",
   "lastOpenFiles": [
+    "Atlas of Life/birthdays/Dimitri.md",
+    "Tags/birthdays.md",
+    "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
+    "Atlas of Life/birthdays",
     "Atlas of Life/Life Problems/I don't know how to approach my career.md",
     "Atlas of Life/Social Obligations/1 We Live in a Society.md",
-    "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
     "Atlas of Life/Life Goals/Maintain Body and Mind.md",
     "Atlas of Life/Life Hopes/Experience a Long Term Relationship.md",
     "Atlas of Life/Life Goals/Try to Contribute to Theoretical Physics.md",
