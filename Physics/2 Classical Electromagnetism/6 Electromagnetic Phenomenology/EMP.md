@@ -1,6 +1,6 @@
 Tags: [[Electromagnetism]] [[Electromagnetic Phenomenology]] [[Electrostatic Discharge]] 
 ___
-An electromagnetic pulse (EMP) is a sharp pulse of the electromagnetic field. The sharpness means that it contains a wide range of frequency components, decipherable via Fourier Transform. They can disrupt circuits. 
+An electromagnetic pulse (EMP) is a sharp pulse of the electromagnetic field. The sharpness means that it contains a wide range of frequency components, decipherable via Fourier Transform [[Fourier Transform and Frequency Domain]]. They can disrupt circuits. 
 
 The source of an EMP can be any sudden electromagnetic phenomena. 
 1. Lightning or any powerful electrostatic discharge
