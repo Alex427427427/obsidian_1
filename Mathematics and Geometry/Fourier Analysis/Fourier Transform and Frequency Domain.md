@@ -2,19 +2,19 @@ Category: [[Fourier Analysis]]
 ___
 Related: [[Frequency Domain]] [[Discrete Fourier Transform]]
 ___
-A mathematical operation that transforms functions of one space to functions of the reciprocal space. Most commonly applied to the time domain and its reciprocal frequency domain, but can be applied to any reciprocal pairs of spaces. They are formally known as conjugate spaces. 
+A mathematical operation that transforms functions in one space to functions in the reciprocal space. Most commonly applied to the time domain and its reciprocal frequency domain, but can be applied to any reciprocal pairs of spaces. They are formally known as conjugate spaces. 
 ## From Frequency Domain to Original Domain
 It is best to start by understanding that functions on some domain can be constructed via its components from the frequency domain. These components are harmonic oscillations. 
 
-Indeed, it is a fact that all functions on some space can be constructed from harmonic basis functions on that same space via linear combination. Thus the function has an associated plot of how much of the various frequencies make it up across the frequency spectrum. This plot in the frequency domain is its fourier transform. To construct the original function, simply sum up all the harmonic functions with frequencies that appear in the frequency domain, with the appropriate amplitude and phase. 
+Indeed, it is a fact that all functions on some space can be constructed from harmonic basis functions on that same space via linear combination. Thus the function has an associated plot of how much of the various frequencies make it up across the frequency spectrum. This distribution in the frequency domain is its Fourier Transform. To construct the original function, simply sum up all the harmonic functions with frequencies that appear in the frequency domain, with the appropriate amplitude and phase. 
 
-Since the frequency domain is continuous, the above sum shall be an integral over frequencies. Thus we have the **synthesis function** that constructs the original function $f(t)$ from the frequency domain profile $\hat f(\xi)$:
+Since the frequency domain is a continuous distribution, the above sum shall be an integral over frequencies. Thus we have the **synthesis function** that constructs the original function $f(t)$ from the frequency domain profile $\hat f(\xi)$:
 $$f(t)=\int_{-\infty}^{+\infty}\hat f(\xi)e^{i2\pi\xi t}d\xi$$
-But how do we go the other way? In other words, construct the frequency domain function $\hat f(\xi)$ given the original function $f(t)$? 
+But how do we go the other way? In other words, construct the frequency domain distribution $\hat f(\xi)$ given the original function $f(t)$? 
 ## From Original Domain to Frequency Domain
-Every value of $\hat f$ at a $\xi$ is a complex number representing the amplitude and phase of the harmonic function with frequency $\xi$. We detect the presence of each $\xi$ with resonance. We multiply the original function with that particular harmonic oscillation, essentially wrapping the original function around the unit circle on the complex plane at a certain period and seeing where the totality of the function's center of mass is. This is done by the **analysis function**:
+Every value of $\hat f$ at a $\xi$ is a complex number representing the amplitude and phase of the harmonic oscillation with frequency $\xi$. We detect the presence of each $\xi$ with resonance. We multiply the original function with that particular harmonic oscillation, essentially wrapping the original function around the unit circle on the complex plane at a certain period and seeing where the totality of the function's center of mass is. This is done by the **analysis function**:
 $$\hat f(\xi)=\int_{-\infty}^{+\infty}f(t)e^{-i2\pi\xi t}dt$$
-The easiest way to understand this function is to see that the negative harmonic function $e^{-i2\pi\xi t}$ takes away that component of the oscillation away from the original function, while all other frequency components remain oscillatory with some shifted frequency. The oscillatory components all integrate to 0 over the entire domain. Only the component with frequency $\xi$ will remain present and be integrated to infinity. This results in a dirac delta distribution on the frequency domain. In all other cases, there will be a general distribution on the frequency domain. 
+Another easy way to understand this function is to see that the negative harmonic function $e^{-i2\pi\xi t}$ takes away that component of the oscillation away from the original function, while all other frequency components remain oscillatory with some shifted frequency. The oscillatory components all integrate to 0 over the entire domain. Only the component with frequency $\xi$ will remain present as a single amplitude and be integrated to infinity. This results in a dirac delta distribution on the frequency domain. In general, this results in a distribution on the frequency domain. 
 ## The Transform
 The synthesis and analysis functions introduced above are in fact the Inverse Fourier Transform and the Fourier Transform respectively. 
 ##### In terms of Frequency $\xi$
@@ -45,11 +45,13 @@ To find linear coefficients, we need a dot product - a projection of some total 
 $$\left<{f, g}\right>:=\int_{-T/2}^{T/2} f(t)g^*(t)\ dt$$
 If we apply this dot product to basis functions of the form $e^{i\omega t}$, we need to do some scaling, either to the dot product formula or to the basis functions, in order for them to be unit "length". 
 
+The Fourier Transformed space is in fact the **dual vector space** to the hilbert space of functions. 
+
 Now we face a choice that leads us to produce two types of analysis. 
 ##### Discrete Dimensions - Fourier Series
 If we want to decompose the space into discrete dimensions, we need the restriction that the function space is restricted to periodic functions on some interval. In this case, the functions can still go on forever, but we can analyse all its properties by focusing on one cycle. In this case, the set of basis functions become a set of $e^{i\omega t}$ where $\omega$ advances discretely. 
 
-In such a choice, the dot product as defined above always returns $2\pi$ when applied to the basis functions and themselves, and $0$ when applied between basis functions. We see that orthogonality is obtained. Unit length can be obtained by either defining the basis to be $e^{i\omega t}/2\pi$, or the dot product to be $\frac{1}{2\pi}\int_{-T/2}^{T/2} f(t)g^*(t)\ dt$. The production of the total function is done with a sum, not an integral. This is the discrete **Fourier Analysis**. 
+In such a choice, the dot product as defined above always returns $2\pi$ when applied to the basis functions and themselves, and $0$ when applied between basis functions. We see that orthogonality is obtained. Unit length can be obtained by either defining the basis to be $e^{i\omega t}/2\pi$, or the dot product to be $\frac{1}{2\pi}\int_{-T/2}^{T/2} f(t)g^*(t)\ dt$. The production of the total function is done with a sum, not an integral. This is the discrete **Fourier Series**. 
 
 The Fourier Transform is a projection onto a basis vector: 
 $$\boxed{\hat f(\omega)=\left<f(t),e^{i\omega t}\right>=\frac{1}{2\pi}\int_{-T/2}^{T/2} f(t)e^{-i\omega t}\ dt}$$
@@ -101,5 +103,12 @@ Inspect the form. When the time domain signal is squashed by a factor of $a$, we
 $$\boxed{\int_{-\infty}^\infty|f(t)|^2dt=\int_{-\infty}^\infty|\hat f(\xi)|^2d\xi}$$
 This is proven simply by expanding the fourier transform definitions. What is more important is that this theorem is a statement about energy conservation. In electrical engineering, $f$ is often a voltage, the square of which is proportional to power. Integrating all over all time gives the total energy contained in the signal. In the frequency domain, the value squared at each frequency tells the energy contained in that frequency. Integrating over all frequencies should return the total energy. 
 ##### Differentiation Theorem
-$$\boxed{\mathcal F[f^\prime(t)](\xi)=i2\pi\xi\hat f(\xi)}$$
+$$\boxed{\mathcal F\left[\frac{df(t)}{dt}\right](\xi)=i2\pi\xi\hat f(\xi)}$$
 This is trivial considering the behaviour of harmonic functions in calculus. A similar integral theorem can be made, where the extra factor on the RHS is divided instead of multiplied. 
+
+In the other direction, we inspect the form of the synthesis equation but apply the analysis equation's logic, and can think of the frequency domain function as consisting of negative phase advancement harmonic functions *on the frequency domain*, where t is the "frequency". Thus:
+$$\boxed{\mathcal F^{-1}\left[\frac{d\hat f (\xi)}{d\xi}\right](t)=-i2\pi t f(t)}$$
+##### Final and Initial Value
+Special case of the Laplace Transform theorems.
+$$\boxed{\lim_{\xi\rightarrow0}i2\pi\xi\hat f(\xi)=f(\infty)}$$
+$$\boxed{\lim_{\xi\rightarrow\infty}i2\pi\xi\hat f(\xi)=f(0)}$$

@@ -3,15 +3,6 @@ ___
 Lucas is interviewed for a job at the government. 
 
 Patricia: "What is the role of government?"
-A: "To maximise the freedom of everyone; basically, their ability to acquire wealth and do whatever they want. The government must cater."
-Patricia: "What is the role of government?"
-B: "To carry out the will of the majority. It's impossible to cater to everyone, so the government should do whatever the majority wants."
-Patricia: "What is the role of government?"
-C: "To protect culture and tradition. It will disintegrate on its own, and without it we are nothing."
-Patricia: "What is the role of government?"
-D: "To do whatever it takes."
-
-"What is the role of government?"
 Lucas: "Depends on the times."
 "Oh? How so?"
 Lucas: "In prosperous times, promote the freedom of actualisation for individuals. In trying times... Take matters into your own hands and do whatever it takes to ensure the survival of the species."
