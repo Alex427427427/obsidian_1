@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6bdc8365ebd8e460",
+        "id": "8b4ff56f5dee03e3",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7a48b120188e66",
+            "id": "5fcde50864441c35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Alien Comic/Bonding in Car before Operation.md",
+                "file": "Engineering/Radio Frequency Engineering/RF Mixer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Alien Comic/Bonding in Car before Operation.md",
+                "file": "Engineering/Radio Frequency Engineering/RF Mixer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Alien Comic/Bonding in Car before Operation.md",
+                "file": "Engineering/Radio Frequency Engineering/RF Mixer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Alien Comic/Bonding in Car before Operation.md"
+                "file": "Engineering/Radio Frequency Engineering/RF Mixer.md"
               }
             }
           }
@@ -146,35 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf7a48b120188e66",
+  "active": "5fcde50864441c35",
   "lastOpenFiles": [
+    "Engineering/Radio Frequency Engineering/Superheterodyne Receiver.md",
+    "Engineering/Radio Frequency Engineering/Spectrum Analyser.md",
+    "Engineering/Radio Frequency Engineering/RF Mixer.md",
+    "Engineering/Radio Frequency Engineering/Decibel Milliwatt (dBm).md",
+    "Mathematics and Geometry/Fourier Analysis/Fourier Transform and Frequency Domain.md",
+    "Mathematics and Geometry/Fourier Analysis/Laplace Transform and Complex Frequency Domain.md",
+    "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
+    "Engineering/Radio Frequency Engineering/Decibel Carrier (dBc).md",
+    "Engineering/Radio Frequency Engineering/Amplitude Modulation and Demodulation.md",
+    "Engineering/Radio Frequency Engineering/Crystal Radio.md",
+    "Supplementary Images/diode ring.png",
+    "Art/Alien Comic/Bonding in Car before Operation.md",
     "Art/Alien Comic/Sleeping Daughter Episode.md",
     "Art/Alien Comic/Interview.md",
     "Art/Alien Comic/Coersion to Give up.md",
-    "Art/Alien Comic/Bonding in Car before Operation.md",
     "Mathematics and Geometry/Complex Analysis/Introduction to Complex Analysis.md",
-    "Mathematics and Geometry/Fourier Analysis/Laplace Transform and Complex Frequency Domain.md",
     "Mathematics and Geometry/Complex Analysis",
-    "Mathematics and Geometry/Fourier Analysis/Fourier Transform and Frequency Domain.md",
     "Mathematics and Geometry/Fourier Analysis/Discrete Fourier Transform.md",
     "Mathematics and Geometry/Fourier Analysis/Z-Transform or Discrete Laplace Transform.md",
     "Tags/Untitled.md",
     "Mathematics and Geometry/Fourier Analysis/Bode Plot.md",
     "Tags/Fourier Analysis.md",
-    "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
-    "Engineering/Radio Frequency Engineering/Spectrum Analyser.md",
-    "Engineering/Radio Frequency Engineering/Amplitude Modulation and Demodulation.md",
-    "Engineering/Radio Frequency Engineering/Crystal Radio.md",
-    "Engineering/Radio Frequency Engineering/Decibel Carrier (dBc).md",
-    "Engineering/Radio Frequency Engineering/Decibel Milliwatt (dBm).md",
-    "Engineering/Radio Frequency Engineering/RF Mixer.md",
     "Physics/4 Quantum Physics/2 Quantum Mechanics Application/1 Time Independent Perturbation theory.md",
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Stern-Gerlach Experiment.md",
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Quantum Dynamics.md",
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/8 A Continuum of Outcomes Needs Hilbert Spaces.md",
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/6 Evolutions - Unitary Operators.md",
-    "Mathematics and Geometry/Tensors/1 What Tensors Are.md",
     "Mathematics and Geometry/Fourier Analysis",
     "Mathematics and Geometry/Probability",
     "Supplementary Images/AM demod.png",

@@ -28,6 +28,7 @@ Upon receiving, the signal may simply be multiplied again by the carrier oscilla
 $$f(t)\cos^2(\omega t)$$
 The meaning of this will be more apparent in the frequency domain, but even in the time domain, we can use algebra to get intuition. Trig identities tell us the above expression is equivalent to:
 $$f(t)\left(\frac{1+\cos(2\omega t)}{2}\right)$$
+Thus there is a component of the signal that is just the original baseband signal, while there is an additional copy centered about $2\omega$ frequency. 
 ##### Frequency Domain During Demodulation
 Consider the same convolution picture from above. If the double-copied signal at the carrier frequency convolves with another pair of delta spikes at the carrier frequency, we get a signal at the baseband again. There will be 2 additional signals at twice the carrier frequency, which can be easily filtered out. 
 ![[AM demod.png]]
