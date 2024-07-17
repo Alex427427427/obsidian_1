@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b4ff56f5dee03e3",
+        "id": "a967d781739d1fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "5fcde50864441c35",
+            "id": "f3ca5d40269f9b27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engineering/Radio Frequency Engineering/RF Mixer.md",
+                "file": "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287.5
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Radio Frequency Engineering/RF Mixer.md",
+                "file": "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Radio Frequency Engineering/RF Mixer.md",
+                "file": "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Radio Frequency Engineering/RF Mixer.md"
+                "file": "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md"
               }
             }
           }
@@ -146,36 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fcde50864441c35",
+  "active": "830d73b709bf76a1",
   "lastOpenFiles": [
-    "Engineering/Radio Frequency Engineering/Superheterodyne Receiver.md",
-    "Engineering/Radio Frequency Engineering/Spectrum Analyser.md",
-    "Engineering/Radio Frequency Engineering/RF Mixer.md",
-    "Engineering/Radio Frequency Engineering/Decibel Milliwatt (dBm).md",
-    "Mathematics and Geometry/Fourier Analysis/Fourier Transform and Frequency Domain.md",
-    "Mathematics and Geometry/Fourier Analysis/Laplace Transform and Complex Frequency Domain.md",
-    "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
-    "Engineering/Radio Frequency Engineering/Decibel Carrier (dBc).md",
-    "Engineering/Radio Frequency Engineering/Amplitude Modulation and Demodulation.md",
-    "Engineering/Radio Frequency Engineering/Crystal Radio.md",
-    "Supplementary Images/diode ring.png",
-    "Art/Alien Comic/Bonding in Car before Operation.md",
-    "Art/Alien Comic/Sleeping Daughter Episode.md",
-    "Art/Alien Comic/Interview.md",
-    "Art/Alien Comic/Coersion to Give up.md",
-    "Mathematics and Geometry/Complex Analysis/Introduction to Complex Analysis.md",
-    "Mathematics and Geometry/Complex Analysis",
-    "Mathematics and Geometry/Fourier Analysis/Discrete Fourier Transform.md",
-    "Mathematics and Geometry/Fourier Analysis/Z-Transform or Discrete Laplace Transform.md",
-    "Tags/Untitled.md",
     "Mathematics and Geometry/Fourier Analysis/Bode Plot.md",
-    "Tags/Fourier Analysis.md",
-    "Physics/4 Quantum Physics/2 Quantum Mechanics Application/1 Time Independent Perturbation theory.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Stern-Gerlach Experiment.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Quantum Dynamics.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/8 A Continuum of Outcomes Needs Hilbert Spaces.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/6 Evolutions - Unitary Operators.md",
+    "Mathematics and Geometry/Fourier Analysis/Aliasing and Nyquist Sampling Theorem.md",
+    "Mathematics and Geometry/Fourier Analysis/Discrete Fourier Transform.md",
+    "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md",
+    "Mathematics and Geometry/Fourier Analysis/Fourier Uncertainty Principle.md",
+    "Mathematics and Geometry/Fourier Analysis/Gaussian is FT of Itself.md",
+    "Mathematics and Geometry/Fourier Analysis/Z-Transform or Discrete Laplace Transform.md",
+    "Mathematics and Geometry/Fourier Analysis/Sinc is FT of Rect.md",
+    "Mathematics and Geometry/Fourier Analysis/Laplace Transform and Complex Frequency Domain.md",
+    "Supplementary Images/aliasing.png",
+    "Engineering/Information Theory/Shannon's Information Theory.md",
+    "Atlas of Life/Friends/Friends I Should Put Effort In.md",
+    "Tags/Friends.md",
+    "Atlas of Life/Social Obligations/1 We Live in a Society.md",
+    "Atlas of Life/Friends",
+    "Atlas of Life/Life Hopes/Experience a Long Term Relationship.md",
+    "Engineering/Radio Frequency Engineering/Amplitude Modulation and Demodulation.md",
+    "Engineering/Radio Frequency Engineering/Decibel Milliwatt (dBm).md",
+    "Engineering/Radio Frequency Engineering/Decibel Carrier (dBc).md",
+    "Engineering/Radio Frequency Engineering/Crystal Radio.md",
+    "Engineering/Radio Frequency Engineering/RF Mixer.md",
+    "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
+    "Engineering/Radio Frequency Engineering/Spectrum Analyser.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/7 Momentum and Angular Momentum of the EM Field.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/8 EM Field Boundary Conditions at Media Boundary.md",
+    "Tags/Information Theory.md",
+    "Engineering/Information Theory",
+    "Mathematics and Geometry/Fourier Analysis/Fourier Transform and Frequency Domain.md",
+    "Supplementary Images/discrete FT.png",
+    "Supplementary Images/diode ring.png",
+    "Mathematics and Geometry/Complex Analysis",
     "Mathematics and Geometry/Fourier Analysis",
     "Mathematics and Geometry/Probability",
     "Supplementary Images/AM demod.png",

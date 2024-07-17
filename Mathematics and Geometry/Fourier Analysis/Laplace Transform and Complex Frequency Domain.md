@@ -98,3 +98,5 @@ Zeroes are any terms of $s$ that appear on the numerator side of the transfer fu
 If the system is fed a unit impulse $\delta(t)$, the transfer function is multiplied by $1$. Then the system's actual response will be identical to the Inverse Laplace Transform of the transfer function itself. This fact allows estimation of a system's transfer function in practice. 
 ##### Step Response
 If the system is fed a step control, the transfer function is multiplied by $1/s$. There is an additional pole at the origin in the complex frequency domain. Do partial fraction and find out what the system's response will look like. 
+##### Causal Systems
+Often we restrict our focus to systems that are causal. The formal definition is a system whose impulse response is 0 before the time at which the impulse is applied. 

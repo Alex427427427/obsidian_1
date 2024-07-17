@@ -7,7 +7,3 @@ A logarithmic plot of the $+i\omega$ axis of the Laplace Transform. Equivalent t
 This plot would have a complex value at every frequency, so we represent that with 2 plots. One will be the magnitude, the other the phase. 
 
 The horizontal axis usually advances in decades - a constant translation corresponds to a multiplication of the frequency by some constant. The vertical axis for the magnitude uses the decibel scale, where every advancement by a constant translation of 10 corresponds to a multiplication by 10. The vertical axis of the phase is linear, and uses degrees. 
-## Heuristics
-##### Poles
-
-##### Zeroes
