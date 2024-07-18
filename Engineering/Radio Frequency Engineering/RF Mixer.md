@@ -9,8 +9,8 @@ See [[Amplitude Modulation and Demodulation]].
 An ideal mixer is a 3 port system that multiplies 2 input signals in real time and outputs the product. Usually, one of the input is the baseband signal $f(t)$, the other a local oscillator at the carrier frequency $\omega$. 
 $$f(t)\cos(\omega t)$$
 As derived in the AM document, this results in the baseband signal beign shifted up to center about the carrier frequency. 
-
-What is not mentioned in that document is a special case - when the baseband is itself a pure oscillation. Then by inspecting the convolution in frequency domain (or by doing some opaque trig algebra), we see that the resultant signal will have 2 frequencies, one at the sum of the 2 frequencies, the other at the difference. 
+##### Mixing Pure Oscillations
+What is not mentioned in that document is a special case - when the baseband is itself a pure oscillation. Then by inspecting the convolution in frequency domain (or by doing some opaque trig algebra), we see that the resultant signal will have 2 frequencies, **one at the sum of the 2 frequencies, the other at the difference**. 
 ## Implementation
 ##### General Principle: Non-linearity
 We say that we want to multiply 2 signals, thereby convolving them in the frequency domain, and shifting one up to center about the other. It may seem that we need a very specific process or type of system to achieve this. Yet amazingly, *any* non-linear system will do. 

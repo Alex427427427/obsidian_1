@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a967d781739d1fe3",
+        "id": "8e4f623d7825abd0",
         "type": "tabs",
         "children": [
           {
-            "id": "f3ca5d40269f9b27",
+            "id": "48d0494724c52d5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md",
+                "file": "Engineering/Analogue Electronics/Oscillators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md",
+                "file": "Engineering/Analogue Electronics/Oscillators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md",
+                "file": "Engineering/Analogue Electronics/Oscillators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md"
+                "file": "Engineering/Analogue Electronics/Oscillators.md"
               }
             }
           }
@@ -146,45 +146,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "830d73b709bf76a1",
+  "active": "48d0494724c52d5e",
   "lastOpenFiles": [
-    "Mathematics and Geometry/Fourier Analysis/Bode Plot.md",
-    "Mathematics and Geometry/Fourier Analysis/Aliasing and Nyquist Sampling Theorem.md",
-    "Mathematics and Geometry/Fourier Analysis/Discrete Fourier Transform.md",
-    "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform.md",
-    "Mathematics and Geometry/Fourier Analysis/Fourier Uncertainty Principle.md",
-    "Mathematics and Geometry/Fourier Analysis/Gaussian is FT of Itself.md",
-    "Mathematics and Geometry/Fourier Analysis/Z-Transform or Discrete Laplace Transform.md",
-    "Mathematics and Geometry/Fourier Analysis/Sinc is FT of Rect.md",
-    "Mathematics and Geometry/Fourier Analysis/Laplace Transform and Complex Frequency Domain.md",
-    "Supplementary Images/aliasing.png",
-    "Engineering/Information Theory/Shannon's Information Theory.md",
-    "Atlas of Life/Friends/Friends I Should Put Effort In.md",
-    "Tags/Friends.md",
-    "Atlas of Life/Social Obligations/1 We Live in a Society.md",
-    "Atlas of Life/Friends",
-    "Atlas of Life/Life Hopes/Experience a Long Term Relationship.md",
+    "Physics/5 Applied Fields/Photonics/Prerequisites to Photonics.md",
+    "Physics/5 Applied Fields/Solid State Physics/Prerequisite to Solid State Physics.md",
+    "Physics/5 Applied Fields/Semiconductor Physics/Prerequisites to Semiconductor Physics.md",
+    "Physics/5 Applied Fields/Nuclear Physics/Prerequisites of Nuclear Physics.md",
+    "Physics/5 Applied Fields/Astrophysics and Cosmology/Prerequisites of Cosmology.md",
+    "Physics/5 Applied Fields/Solid State Physics",
+    "Physics/5 Applied Fields/Photonics",
+    "Physics/5 Applied Fields/Semiconductor Physics",
+    "Physics/5 Applied Fields/Nuclear Physics",
+    "Physics/5 Applied Fields/Astrophysics and Cosmology",
+    "Physics/5 Applied Fields",
+    "Physics/4 Quantum Physics/3 Quantum Field Theory/2 Quantum Chromo Dynamics/Prerequisites to QCD.md",
+    "Physics/4 Quantum Physics/3 Quantum Field Theory/1 Quantum Electro Dynamics/Prerequisites to QED.md",
+    "Physics/4 Quantum Physics/3 Quantum Field Theory/2 Quantum Chromo Dynamics",
+    "Physics/4 Quantum Physics/3 Quantum Field Theory/1 Quantum Electro Dynamics",
+    "Physics/4 Quantum Physics/3 Quantum Field Theory",
+    "Supplementary Images/oscillator control diagram.png",
+    "Engineering/Analogue Electronics/Amplifiers.md",
     "Engineering/Radio Frequency Engineering/Amplitude Modulation and Demodulation.md",
-    "Engineering/Radio Frequency Engineering/Decibel Milliwatt (dBm).md",
-    "Engineering/Radio Frequency Engineering/Decibel Carrier (dBc).md",
     "Engineering/Radio Frequency Engineering/Crystal Radio.md",
+    "Engineering/Radio Frequency Engineering/Decibel Carrier (dBc).md",
+    "Engineering/Radio Frequency Engineering/Decibel Milliwatt (dBm).md",
     "Engineering/Radio Frequency Engineering/RF Mixer.md",
     "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
     "Engineering/Radio Frequency Engineering/Spectrum Analyser.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/7 Momentum and Angular Momentum of the EM Field.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/8 EM Field Boundary Conditions at Media Boundary.md",
-    "Tags/Information Theory.md",
-    "Engineering/Information Theory",
-    "Mathematics and Geometry/Fourier Analysis/Fourier Transform and Frequency Domain.md",
+    "Engineering/Radio Frequency Engineering/Superheterodyne Receiver.md",
+    "Engineering/Analogue Electronics/Voltage Controlled Oscillator.md",
+    "Engineering/Analogue Electronics/Phase Locked Loop.md",
+    "Engineering/Analogue Electronics/Oscillators.md",
+    "Tags/Analogue Electronics.md",
+    "Physics/4 Quantum Physics/0 The Roots of Quantum Mechanics/Introduction to the Roots of Quantum Mechanics.md",
+    "Physics/4 Quantum Physics/0 The Roots of Quantum Mechanics",
+    "Physics/3 Relativistic Physics/2 General Relativity/Prerequisites of General Relativity.md",
+    "Physics/1 Classical Mechanics/3 Fluid Physics/Prerequisite to Fluid Physics.md",
+    "Physics/1 Classical Mechanics/2 Statistical Mechanics and Thermal Physics/Introduction to StatMech and Thermal.md",
+    "Mathematics and Geometry/Probability/Intro to Prob.md",
+    "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
+    "Supplementary Images/aliasing.png",
     "Supplementary Images/discrete FT.png",
     "Supplementary Images/diode ring.png",
-    "Mathematics and Geometry/Complex Analysis",
-    "Mathematics and Geometry/Fourier Analysis",
-    "Mathematics and Geometry/Probability",
     "Supplementary Images/AM demod.png",
     "Supplementary Images/AM freq domain.png",
-    "Supplementary Images/AM.png",
-    "Atlas of Life/birthdays",
-    "Engineering/Space Engineering"
+    "Supplementary Images/AM.png"
   ]
 }
