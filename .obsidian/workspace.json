@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8e4f623d7825abd0",
+        "id": "0116be4d7ed92bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "48d0494724c52d5e",
+            "id": "2f18f0b73f4934fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Engineering/Analogue Electronics/Oscillators.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engineering/Analogue Electronics/Oscillators.md",
+                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/8 EM Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engineering/Analogue Electronics/Oscillators.md",
+                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/8 EM Radiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engineering/Analogue Electronics/Oscillators.md"
+                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/8 EM Radiation.md"
               }
             }
           }
@@ -146,50 +142,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48d0494724c52d5e",
+  "active": "830d73b709bf76a1",
   "lastOpenFiles": [
-    "Physics/5 Applied Fields/Photonics/Prerequisites to Photonics.md",
-    "Physics/5 Applied Fields/Solid State Physics/Prerequisite to Solid State Physics.md",
-    "Physics/5 Applied Fields/Semiconductor Physics/Prerequisites to Semiconductor Physics.md",
-    "Physics/5 Applied Fields/Nuclear Physics/Prerequisites of Nuclear Physics.md",
-    "Physics/5 Applied Fields/Astrophysics and Cosmology/Prerequisites of Cosmology.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/7 The Stress Energy Tensor.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/6 The EM Lagrange Density.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/5 The Unified Maxwell Equation.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/4 The EM 4-Potential.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/3 The Relativistic Maxwell Equations.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/2 The 4-Current.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/0 Prerequisite to Relativistic Electromagnetism.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/12 Radiation of EM Waves.md",
+    "Engineering/Structures and Materials/Prerequisites to Structures and Materials.md",
+    "Engineering/Radio Frequency Engineering/Modulation/Quadrature Amplitude Modulation (QAM).md",
+    "Supplementary Images/common qam.png",
+    "Supplementary Images/16QAM.png",
+    "Supplementary Images/ASK.png",
+    "Supplementary Images/QPSK.png",
+    "Supplementary Images/BPSK.png",
+    "Engineering/Radio Frequency Engineering/Modulation/Modulation Schemes Grand Summary.md",
+    "Engineering/Radio Frequency Engineering/Modulation/Frequency Modulation (FM) and Demodulation.md",
+    "Engineering/Radio Frequency Engineering/Modulation/Decibel Carrier (dBc).md",
+    "Engineering/Radio Frequency Engineering/Modulation/Frequency Shift Keying (FSK).md",
+    "Engineering/Radio Frequency Engineering/Modulation/Phase Modulation (PM).md",
+    "Engineering/Radio Frequency Engineering/Modulation/Amplitude Shift Keying (ASK).md",
+    "Engineering/Radio Frequency Engineering/Modulation/Amplitude Modulation (AM) and Demodulation.md",
+    "Engineering/Radio Frequency Engineering/Modulation/Phase Shift Keying (PSK).md",
+    "Engineering/Radio Frequency Engineering/Modulation/RF Mixer.md",
+    "Engineering/Radio Frequency Engineering/Superheterodyne Receiver.md",
+    "Engineering/Radio Frequency Engineering/RF networks/Smith Chart.md",
+    "Engineering/Radio Frequency Engineering/RF networks/Scattering Parameters (S-Params).md",
+    "Engineering/Radio Frequency Engineering/RF networks/Network Analysers.md",
+    "Engineering/Radio Frequency Engineering/Crystal Radio.md",
+    "Engineering/Radio Frequency Engineering/RF networks",
+    "Engineering/Radio Frequency Engineering/Antenna",
+    "Supplementary Images/modulation schemes overview.png",
+    "Engineering/Radio Frequency Engineering/Modulation",
+    "Supplementary Images/half wave dipole.png",
+    "Supplementary Images/magnetron 3.png",
+    "Supplementary Images/magnetron 2.png",
+    "Supplementary Images/magnetron 1.png",
+    "Engineering/Radio Frequency Engineering/RF Basics",
+    "Engineering/Appliances",
     "Physics/5 Applied Fields/Solid State Physics",
     "Physics/5 Applied Fields/Photonics",
     "Physics/5 Applied Fields/Semiconductor Physics",
     "Physics/5 Applied Fields/Nuclear Physics",
-    "Physics/5 Applied Fields/Astrophysics and Cosmology",
-    "Physics/5 Applied Fields",
-    "Physics/4 Quantum Physics/3 Quantum Field Theory/2 Quantum Chromo Dynamics/Prerequisites to QCD.md",
-    "Physics/4 Quantum Physics/3 Quantum Field Theory/1 Quantum Electro Dynamics/Prerequisites to QED.md",
-    "Physics/4 Quantum Physics/3 Quantum Field Theory/2 Quantum Chromo Dynamics",
-    "Physics/4 Quantum Physics/3 Quantum Field Theory/1 Quantum Electro Dynamics",
-    "Physics/4 Quantum Physics/3 Quantum Field Theory",
-    "Supplementary Images/oscillator control diagram.png",
-    "Engineering/Analogue Electronics/Amplifiers.md",
-    "Engineering/Radio Frequency Engineering/Amplitude Modulation and Demodulation.md",
-    "Engineering/Radio Frequency Engineering/Crystal Radio.md",
-    "Engineering/Radio Frequency Engineering/Decibel Carrier (dBc).md",
-    "Engineering/Radio Frequency Engineering/Decibel Milliwatt (dBm).md",
-    "Engineering/Radio Frequency Engineering/RF Mixer.md",
-    "Engineering/Radio Frequency Engineering/RFIC Engineering.md",
-    "Engineering/Radio Frequency Engineering/Spectrum Analyser.md",
-    "Engineering/Radio Frequency Engineering/Superheterodyne Receiver.md",
-    "Engineering/Analogue Electronics/Voltage Controlled Oscillator.md",
-    "Engineering/Analogue Electronics/Phase Locked Loop.md",
-    "Engineering/Analogue Electronics/Oscillators.md",
-    "Tags/Analogue Electronics.md",
-    "Physics/4 Quantum Physics/0 The Roots of Quantum Mechanics/Introduction to the Roots of Quantum Mechanics.md",
-    "Physics/4 Quantum Physics/0 The Roots of Quantum Mechanics",
-    "Physics/3 Relativistic Physics/2 General Relativity/Prerequisites of General Relativity.md",
-    "Physics/1 Classical Mechanics/3 Fluid Physics/Prerequisite to Fluid Physics.md",
-    "Physics/1 Classical Mechanics/2 Statistical Mechanics and Thermal Physics/Introduction to StatMech and Thermal.md",
-    "Mathematics and Geometry/Probability/Intro to Prob.md",
-    "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
-    "Supplementary Images/aliasing.png",
-    "Supplementary Images/discrete FT.png",
-    "Supplementary Images/diode ring.png",
-    "Supplementary Images/AM demod.png",
-    "Supplementary Images/AM freq domain.png",
-    "Supplementary Images/AM.png"
+    "Physics/5 Applied Fields/Astrophysics and Cosmology"
   ]
 }

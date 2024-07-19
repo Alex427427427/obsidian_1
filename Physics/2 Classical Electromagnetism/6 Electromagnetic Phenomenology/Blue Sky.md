@@ -1,2 +1,3 @@
-Tags: [[Electromagnetism]] [[Electromagnetic Waves]] [[Electromagnetic Phenomenology]][[Scattering of EM Waves]]
+Tags: [[Electromagnetism]] [[Electromagnetic Waves]] [[Electromagnetic Phenomenology]][[14 Scattering of EM Waves]]
 ___
+Sunlight which consists of all frequencies of EM waves according to the boltzmann distribution, is incident on the atmosphere. Scattering intensity is frequency dependent, and the blue end of the spectrum is more readily scattered due to complicated underlying physics. Thus more blue light is directed away from the straight line path from the sun and into the eye, which assigns blue colour to the sky traced back in that direction. 

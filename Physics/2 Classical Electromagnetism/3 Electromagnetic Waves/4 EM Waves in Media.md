@@ -33,13 +33,14 @@ $$\frac{\partial E_x}{\partial z}=-i\omega \mu H_y\ \ \ \ \ \ \ and\ \ \ \ \ \ \
 The spatial partial derivative of the harmonic $E_x$ produces a factor of $-\gamma$:
 $$-\gamma E_x=-i\omega \mu H_y\implies E_x=\frac{i\omega\mu}{\gamma}H_y=\frac{i\omega\mu}{\sqrt{i\omega\mu(\sigma+i\omega\epsilon)}}H_y=\sqrt\frac{i\omega\mu}{\sigma+i\omega\epsilon}H_y$$
 Note that the reason we get a negative sign from the spatial derivative, is due to the frequency domain formulation of the solutions. We have chosen the phase to advance positively over time at a fixed location, by $i\omega t$, so a positive travelling wave solution must have $-\gamma z$ as the spatial exponent. This is in contrast to the usual choice of $e^{\gamma z-\omega t}$. 
-
+##### Intrinsic Impedance
 The coefficient of the magnetising field can be thought of as the intrinsic impedance $\eta$ (to energy propagation). It is in fact the impedance between dimensionally reduced properties of voltage and current. (The electric field is a voltage line density, the magnetising field is a current line density). The intrinsic impedance indeed has the unit of Ohms. 
 $$\boxed{\eta=\sqrt\frac{i\omega\mu}{\sigma+i\omega\epsilon}}$$
 Such that $\boxed{H_y=E_x/\eta}$. **In the case that $\eta$ is real, the electric and magnetising fields are in phase. In the case that it is complex, the electric and magnetising fields are out of phase**. By considering what happens to the angle of $\eta$ as we increase conductivity, we can see that the more conductivity, the more phase offset, and this phase offset is always $H$ lagging $E$. 
 
 In vacuum, the wave impedance is:
 $$\boxed{\eta_0=\sqrt\frac{\mu_0}{\epsilon_0}}$$
+The meaning of the impedance has a direct parallel in transmission line - it is that complex parameter which relates the voltage and current in the transmission line. Thus different transmission line impedances can be thought of changing optical media. 
 ## Waves Through Lossless (Non-Conductive) Media
 In lossless i.e. non-conductive i.e. dielectric i.e. insulating media, $\sigma=0$, which means the equations reduce to the usual wave equation, and $\gamma$ reduces: 
 $$\gamma=\sqrt{i\mu\omega(\sigma+i\epsilon\omega)}=\sqrt{-\mu\epsilon\omega^2}=i\omega\sqrt{\mu\epsilon}=ik$$
