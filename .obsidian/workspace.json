@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0116be4d7ed92bdc",
+        "id": "26d96114226577e7",
         "type": "tabs",
         "children": [
           {
-            "id": "2f18f0b73f4934fd",
+            "id": "7cd1889b1b6d9797",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/8 EM Radiation.md",
+                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/8 EM Radiation.md",
+                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/8 EM Radiation.md"
+                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md"
               }
             }
           }
@@ -142,47 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "830d73b709bf76a1",
+  "active": "7cd1889b1b6d9797",
   "lastOpenFiles": [
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/7 The Stress Energy Tensor.md",
     "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/6 The EM Lagrange Density.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/5 The Unified Maxwell Equation.md",
     "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/4 The EM 4-Potential.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/3 The Relativistic Maxwell Equations.md",
     "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/2 The 4-Current.md",
     "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/0 Prerequisite to Relativistic Electromagnetism.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/5 The Unified Maxwell Equation.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/8 EM Radiation.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/18 Maxwell Potential Equations in The Lorentz Gauge.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/19 Energy is the Fluid Emerging from Charges.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/20 The Electric Field Holds Energy Density.md",
+    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/21 The Magnetic Field Holds Energy Density.md",
+    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/10 Maxwell's Equations in Frequency Domain.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/2 Electromagnetic Waves.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/12 Radiation of EM Waves.md",
-    "Engineering/Structures and Materials/Prerequisites to Structures and Materials.md",
-    "Engineering/Radio Frequency Engineering/Modulation/Quadrature Amplitude Modulation (QAM).md",
+    "Supplementary Images/longitudinal gaussian beam.png",
+    "Supplementary Images/gaussian transverse profile.png",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/11 Birefringence.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/10 Reflection and Refraction - Angular Laws.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/12 Dispersion of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/13 Radiation of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/14 Diffraction and Interference of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/15 Scattering of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Polarisation of EM Waves.md",
+    "Engineering/Radio Frequency Engineering/Antenna/Patch Antenna and Microstrip Antenna.md",
+    "Supplementary Images/patch radiation pattern.png",
+    "Supplementary Images/2.4GHz patch antenna.png",
+    "Engineering/Radio Frequency Engineering/Antenna/Magnetron.md",
+    "Engineering/Radio Frequency Engineering/Antenna/Side-lobes.md",
+    "Engineering/Radio Frequency Engineering/Antenna/Antenna Feed Line.md",
+    "Supplementary Images/diffraction.png",
     "Supplementary Images/common qam.png",
     "Supplementary Images/16QAM.png",
     "Supplementary Images/ASK.png",
     "Supplementary Images/QPSK.png",
     "Supplementary Images/BPSK.png",
-    "Engineering/Radio Frequency Engineering/Modulation/Modulation Schemes Grand Summary.md",
-    "Engineering/Radio Frequency Engineering/Modulation/Frequency Modulation (FM) and Demodulation.md",
-    "Engineering/Radio Frequency Engineering/Modulation/Decibel Carrier (dBc).md",
-    "Engineering/Radio Frequency Engineering/Modulation/Frequency Shift Keying (FSK).md",
-    "Engineering/Radio Frequency Engineering/Modulation/Phase Modulation (PM).md",
-    "Engineering/Radio Frequency Engineering/Modulation/Amplitude Shift Keying (ASK).md",
-    "Engineering/Radio Frequency Engineering/Modulation/Amplitude Modulation (AM) and Demodulation.md",
-    "Engineering/Radio Frequency Engineering/Modulation/Phase Shift Keying (PSK).md",
-    "Engineering/Radio Frequency Engineering/Modulation/RF Mixer.md",
-    "Engineering/Radio Frequency Engineering/Superheterodyne Receiver.md",
-    "Engineering/Radio Frequency Engineering/RF networks/Smith Chart.md",
-    "Engineering/Radio Frequency Engineering/RF networks/Scattering Parameters (S-Params).md",
-    "Engineering/Radio Frequency Engineering/RF networks/Network Analysers.md",
-    "Engineering/Radio Frequency Engineering/Crystal Radio.md",
     "Engineering/Radio Frequency Engineering/RF networks",
     "Engineering/Radio Frequency Engineering/Antenna",
-    "Supplementary Images/modulation schemes overview.png",
     "Engineering/Radio Frequency Engineering/Modulation",
-    "Supplementary Images/half wave dipole.png",
-    "Supplementary Images/magnetron 3.png",
-    "Supplementary Images/magnetron 2.png",
-    "Supplementary Images/magnetron 1.png",
     "Engineering/Radio Frequency Engineering/RF Basics",
     "Engineering/Appliances",
     "Physics/5 Applied Fields/Solid State Physics",

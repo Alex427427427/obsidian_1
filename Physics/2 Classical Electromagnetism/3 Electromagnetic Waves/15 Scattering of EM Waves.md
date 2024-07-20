@@ -1,6 +1,6 @@
 Category: [[Electromagnetic Waves]] [[Electromagnetism]]
 ___
-Prerequisites: [[12 Radiation of EM Waves]] [[6 Energy Flow of the EM Field]]
+Prerequisites: [[13 Radiation of EM Waves]] [[6 Energy Flow of the EM Field]]
 ___
 Related: 
 ___

@@ -1,11 +1,11 @@
 Category: [[Electromagnetism]] [[Electromagnetic Waves]]
 ___
-Prerequisites: [[12 Radiation of EM Waves]]
+Prerequisites: [[13 Radiation of EM Waves]]
 ___
-Related: [[12 Radiation of EM Waves]] [[Antenna Aperture Function]] [[Far-field Radiation Pattern]]
+Related: [[13 Radiation of EM Waves]] [[Antenna Aperture Function]] [[Far-field Radiation Pattern]]
 ___
-This property of EM waves is moreso due to the wave properties rather than specific properties of Electromagnetism. 
-
+This property of EM waves is moreso due to the wave properties rather than specific properties of Electromagnetism. It can only be fully understood by understanding [[Fourier Optics]], which you are free to refer to. 
+## Qualitative Explanation
 **Huygen's principle** describes every infinitesimal point in a medium as a spherical radiator of EM energy. These spherical wavefronts interfere to form flat macroscopic wavefronts. The nature of such a mechanism means waves always want to disperse. When passing around an obstruction, the wavefront will bend outwards. This is diffraction. 
 
 This effect is dependent on the relative size of the obstruction or gap, and the wavelength. If the wavelength is small relative to the obstruction or gap, then a long array of small antennae. They beamform to have a majorly frontal wave propagation. However if the wavelength is large, there is less beamforming effect and the wave propagates more radially. 

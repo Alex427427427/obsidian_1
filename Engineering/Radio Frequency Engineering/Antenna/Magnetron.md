@@ -1,6 +1,6 @@
 Category: [[Radio Frequency Engineering]]
 ___
-Prerequisites: [[12 Radiation of EM Waves]]
+Prerequisites: [[13 Radiation of EM Waves]]
 ___
 Related: 
 ___

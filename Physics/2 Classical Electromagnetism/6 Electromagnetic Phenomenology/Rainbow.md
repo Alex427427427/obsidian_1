@@ -1,6 +1,6 @@
 Category: [[Electromagnetism]] [[Electromagnetic Phenomenology]]
 ___
-Prerequisites: [[11 Dispersion of EM Waves]] [[10 Reflection and Refraction - Angular Laws]]
+Prerequisites: [[12 Dispersion of EM Waves]] [[10 Reflection and Refraction - Angular Laws]]
 ___
 Related: 
 ___
