@@ -1,2 +1,0 @@
-Tags: [[Relativity]] [[Tensors]]
-___

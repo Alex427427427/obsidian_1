@@ -4,7 +4,7 @@ Related: [[Career Directions]]
 ___
 ## The First Problem - Which Field
 I don't know which field to go into. The options are:
-1. [[RF Engineering]], basically RF engineering, can enter with relative ease
+1. [[Atlas of Life/Career Directions/RF Engineering]], basically RF engineering, can enter with relative ease
 2. [[Theoretical Physics Research]], most interested field in life, but is an almost complete direction change. Not sure how much study or connections required. 
 3. [[Photonics Research]], basically applied QED, forces me to learn theory but also could be relevant to improving/revolutionising electronics. Somewhat of a career change but kind of segways from electromagnetics. 
 4. [[Rover Engineer]], just simple engineering. Not even sure electrical or software. Can enter with relative ease, but am not convinced of its usefulness. 

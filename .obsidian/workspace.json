@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26d96114226577e7",
+        "id": "9ab34c614d05bc9a",
         "type": "tabs",
         "children": [
           {
-            "id": "7cd1889b1b6d9797",
+            "id": "3433323d385e9ce1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 200
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,44 +138,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cd1889b1b6d9797",
+  "active": "3433323d385e9ce1",
   "lastOpenFiles": [
+    "Physics/1 Classical Mechanics/1 General Dynamics/4 Euler Lagrange Equation.md",
+    "Physics/1 Classical Mechanics/1 General Dynamics/1 Review of Newton - Single Particle Mechanics.md",
+    "Physics/1 Classical Mechanics/1 General Dynamics/2 Review of Newton - Many Particles.md",
+    "Physics/1 Classical Mechanics/1 General Dynamics/3 Lagrangian, Action, Principle of Stationary Action.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
+    "Tags/Untitled.md",
+    "Tags/Lie Theory.md",
+    "Physics/3 Relativistic Physics/1 Special Relativity/2 Lorentz Transformations.md",
+    "Physics/3 Relativistic Physics/1 Special Relativity/3 Relativistic Motion.md",
+    "Physics/3 Relativistic Physics/1 Special Relativity/5 Relativistic Force.md",
+    "Physics/3 Relativistic Physics/1 Special Relativity/6 Spacetime Derivatives.md",
+    "Physics/6 Open Problems and Anomalies/0 Grand List.md",
+    "Physics/3 Relativistic Physics/0 Introduction to Relativity.md",
+    "Engineering/Appliances/Microwave.md",
+    "Physics/5 Applied Fields/Untitled.md",
+    "Mathematics and Geometry/Lie Theory/Untitled.md",
+    "Mathematics and Geometry/Lie Theory",
+    "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
+    "Supplementary Images/bar magnet mag field.png",
+    "Physics/3 Relativistic Physics/1 Special Relativity/1 Measuring Spacetime.md",
+    "Tags/RF Engineering.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
     "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/6 The EM Lagrange Density.md",
     "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/4 The EM 4-Potential.md",
     "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/2 The 4-Current.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
     "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/5 The Unified Maxwell Equation.md",
     "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/8 EM Radiation.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/18 Maxwell Potential Equations in The Lorentz Gauge.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/19 Energy is the Fluid Emerging from Charges.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/20 The Electric Field Holds Energy Density.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/21 The Magnetic Field Holds Energy Density.md",
-    "Physics/2 Classical Electromagnetism/2 Macroscopic Electromagnetics/10 Maxwell's Equations in Frequency Domain.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/2 Electromagnetic Waves.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
     "Supplementary Images/longitudinal gaussian beam.png",
     "Supplementary Images/gaussian transverse profile.png",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/11 Birefringence.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/10 Reflection and Refraction - Angular Laws.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/12 Dispersion of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/13 Radiation of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/14 Diffraction and Interference of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/15 Scattering of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Polarisation of EM Waves.md",
-    "Engineering/Radio Frequency Engineering/Antenna/Patch Antenna and Microstrip Antenna.md",
     "Supplementary Images/patch radiation pattern.png",
     "Supplementary Images/2.4GHz patch antenna.png",
-    "Engineering/Radio Frequency Engineering/Antenna/Magnetron.md",
-    "Engineering/Radio Frequency Engineering/Antenna/Side-lobes.md",
-    "Engineering/Radio Frequency Engineering/Antenna/Antenna Feed Line.md",
     "Supplementary Images/diffraction.png",
     "Supplementary Images/common qam.png",
     "Supplementary Images/16QAM.png",
     "Supplementary Images/ASK.png",
     "Supplementary Images/QPSK.png",
-    "Supplementary Images/BPSK.png",
     "Engineering/Radio Frequency Engineering/RF networks",
     "Engineering/Radio Frequency Engineering/Antenna",
     "Engineering/Radio Frequency Engineering/Modulation",
@@ -192,7 +185,6 @@
     "Physics/5 Applied Fields/Solid State Physics",
     "Physics/5 Applied Fields/Photonics",
     "Physics/5 Applied Fields/Semiconductor Physics",
-    "Physics/5 Applied Fields/Nuclear Physics",
-    "Physics/5 Applied Fields/Astrophysics and Cosmology"
+    "Physics/5 Applied Fields/Nuclear Physics"
   ]
 }

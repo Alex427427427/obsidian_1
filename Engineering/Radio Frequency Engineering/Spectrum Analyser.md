@@ -1,4 +1,4 @@
-Tags: [[Radio Frequency Engineering]]
+Tags: [[Tags/RF Engineering]]
 ___ 
 Related: [[Fourier Transform and Frequency Domain]]
 ___

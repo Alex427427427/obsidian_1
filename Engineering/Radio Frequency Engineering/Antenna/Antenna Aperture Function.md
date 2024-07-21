@@ -1,4 +1,4 @@
-Category: [[Radio Frequency Engineering]]
+Category: [[Tags/RF Engineering]]
 ___
 Prerequisites: [[Spherical Geometry - Solid Angle]] [[6 Energy Flow of the EM Field]]
 ___
