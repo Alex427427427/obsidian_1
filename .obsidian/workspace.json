@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "71729ae2e16da142",
+        "id": "f682d9210c9b0794",
         "type": "tabs",
         "children": [
           {
-            "id": "17511206ca9b94ac",
+            "id": "33bb912f146cddb7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md"
+              }
             }
           }
         ]
@@ -138,39 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17511206ca9b94ac",
+  "active": "33bb912f146cddb7",
   "lastOpenFiles": [
-    "Atlas of Life/Friends/Friends I Should Put Effort In.md",
-    "Art/Themes/Humanity's Triumph.md",
-    "Art/Themes/Lovelessness.md",
-    "Art/Projects/Ocean Comic/Characters/The Narrator.md",
-    "Art/Projects/Alien Comic/Material/Sleeping Daughter Episode.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/8 A Continuum of Outcomes Needs Hilbert Spaces.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/9 The Position and Momentum Eigenspaces.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/11 Quantum Uncertainty Principle.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/10 Angular Momentum.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/1 The Quantum State.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Stern-Gerlach Experiment.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Angular Momentum.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/5 Measurement Outcomes - Hermitian Operators.md",
+    "Physics/4 Quantum Physics/2 Quantum Mechanics Application/1 Time Independent Perturbation theory.md",
+    "Mathematics and Geometry/Fourier Analysis/6 Z-Transform or Discrete Laplace Transform.md",
+    "Mathematics and Geometry/Fourier Analysis/5 Laplace Transform and Complex Frequency Domain.md",
+    "Mathematics and Geometry/Fourier Analysis/4 Fourier Uncertainty Principle.md",
+    "Mathematics and Geometry/Fourier Analysis/2 Discrete Fourier Transform.md",
+    "Mathematics and Geometry/Fourier Analysis/1 Fourier Transform and Frequency Domain.md",
+    "Mathematics and Geometry/Fourier Analysis/Sinc is FT of Rect.md",
+    "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform (FFT).md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Polarisation of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/6 Energy Flow of the EM Field.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/9 Reflection and Transmission Coefficients of EM Waves, Fresnel Equations.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/11 Birefringence.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/12 Dispersion of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/13 Radiation of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
     "Art/Projects/Alien Comic/Material",
-    "Art/Projects/Alien Comic/Untitled.md",
-    "Art/Projects/Alien Comic/Material/Interview.md",
-    "Art/Projects/Alien Comic/Material/Coersion to Give up.md",
-    "Art/Projects/Alien Comic/Material/Bonding in Car before Operation.md",
-    "Art/Story Writing Theory/What is a Character.md",
-    "Art/Story Writing Theory/What is a Story.md",
-    "Art/Motifs/City Lights.md",
-    "Art/Motifs/Ocean.md",
-    "Tags/Lagrangian Mechanics.md",
-    "Physics/1 Classical Mechanics/1 General Dynamics/4 Euler Lagrange Equation.md",
-    "Art/Themes/What is a Nation.md",
     "Art/Projects",
-    "Tags/Motifs.md",
     "Art/Motifs",
-    "Tags/Themes.md",
     "Art/Themes",
     "Art/Projects/Ocean Comic/Characters",
-    "Mathematics and Geometry/Fourier Analysis/2 Discrete Fourier Transform.md",
-    "Mathematics and Geometry/Fourier Analysis/3 Aliasing and Nyquist Sampling Theorem.md",
-    "Mathematics and Geometry/Fourier Analysis/4 Fourier Uncertainty Principle.md",
-    "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform (FFT).md",
-    "Mathematics and Geometry/Fourier Analysis/Bode Plot.md",
-    "Mathematics and Geometry/Fourier Analysis/6 Z-Transform or Discrete Laplace Transform.md",
-    "Engineering/Radio Frequency Engineering/Superheterodyne Receiver.md",
-    "Engineering/Radio Frequency Engineering/Spectrum Analyser.md",
     "Mathematics and Geometry/Lie Theory",
     "Supplementary Images/bar magnet mag field.png",
     "Supplementary Images/longitudinal gaussian beam.png",
