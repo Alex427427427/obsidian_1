@@ -1,6 +1,6 @@
 Category: [[Tags/RF Engineering]]
 ___
-Prerequisite: [[Fourier Analysis]] [[Fourier Transform and Frequency Domain]]
+Prerequisite: [[Fourier Analysis]] [[1 Fourier Transform and Frequency Domain]]
 ___
 Related: [[Phase Locked Loop (PLL)]] [[Phase Modulation (PM)]]
 ___

@@ -1,6 +1,6 @@
 Category: [[Tags/RF Engineering]] [[RF Modulation Schemes]]
 ___
-Prerequisites: [[Fourier Transform and Frequency Domain]]
+Prerequisites: [[1 Fourier Transform and Frequency Domain]]
 ___
 Related: [[Phase Shift Keying (PSK)]]
 ___

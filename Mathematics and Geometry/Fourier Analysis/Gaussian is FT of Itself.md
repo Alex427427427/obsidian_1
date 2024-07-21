@@ -1,6 +1,6 @@
 Category: [[Fourier Analysis]]
 ___
-Related: [[Fourier Transform and Frequency Domain]]
+Related: [[1 Fourier Transform and Frequency Domain]]
 ___
 It is known that in harmonic analysis or fourier analysis, functions in reciprocal domains are actually distributions of harmonic elements in each other. 
 

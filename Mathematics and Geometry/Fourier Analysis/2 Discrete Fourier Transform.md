@@ -1,8 +1,8 @@
 Category: [[Fourier Analysis]]
 ___
-Prerequisites: [[Fourier Transform and Frequency Domain]]
+Prerequisites: [[1 Fourier Transform and Frequency Domain]]
 ___
-Related: 
+Related: [[Fast Fourier Transform (FFT)]]
 ___
 ## Foundational Facts
 A point in time domain is a harmonic function in frequency domain. A point in frequency domain is a harmonic function in time domain. The domains are reciprocal (frequency is the reciprocal over period) or called conjugate spaces. Each domain represents a distribution of harmonic functions that make up the function in the reciprocal domain. The Fourier Transform is a mathematical statement of the above facts and converts these distributions between each other. 

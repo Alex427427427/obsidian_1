@@ -1,6 +1,6 @@
 Category: [[Fourier Analysis]]
 ___
-Related: [[Fourier Transform and Frequency Domain]] [[Laplace Transform and Complex Frequency Domain]]
+Related: [[1 Fourier Transform and Frequency Domain]] [[5 Laplace Transform and Complex Frequency Domain]]
 ___
 A logarithmic plot of the $+i\omega$ axis of the Laplace Transform. Equivalent to the positive frequency axis of the Fourier Transform. 
 

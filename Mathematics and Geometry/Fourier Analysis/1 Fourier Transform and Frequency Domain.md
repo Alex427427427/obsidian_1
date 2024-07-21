@@ -1,6 +1,6 @@
 Category: [[Fourier Analysis]]
 ___
-Related: [[Frequency Domain]] [[Discrete Fourier Transform]]
+Related: [[Frequency Domain]] [[2 Discrete Fourier Transform]]
 ___
 A mathematical operation that transforms functions in one space to functions in the reciprocal space. Most commonly applied to the time domain and its reciprocal frequency domain, but can be applied to any reciprocal pairs of spaces. They are formally known as conjugate spaces. 
 ## From Frequency Domain to Original Domain

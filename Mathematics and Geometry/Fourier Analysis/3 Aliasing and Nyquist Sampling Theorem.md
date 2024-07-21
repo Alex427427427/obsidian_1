@@ -1,6 +1,6 @@
 Category: [[Fourier Analysis]]
 ___
-Prerequisites: [[Fourier Transform and Frequency Domain]] [[Discrete Fourier Transform]]
+Prerequisites: [[1 Fourier Transform and Frequency Domain]] [[2 Discrete Fourier Transform]]
 ___
 Related: 
 ___
@@ -12,7 +12,7 @@ The theorem says:
 
 To understand this theorem, we only need to establish that when the sampling frequency falls below the Nyquist frequency ($2B$), the signal will be distorted. 
 ## Cause of Aliasing when $f_s<2B$
-First see [[Discrete Fourier Transform]].
+First see [[2 Discrete Fourier Transform]].
 
 When the time domain signal has a discrete step size $\Delta T$, the frequency domain representation is periodic with a size $f_s$. To recover the true signal, we only need to pass it through a low pass filter cutting off at $f_s$. 
 

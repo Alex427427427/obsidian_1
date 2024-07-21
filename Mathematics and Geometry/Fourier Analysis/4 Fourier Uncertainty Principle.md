@@ -1,8 +1,8 @@
 Category: [[Fourier Analysis]]
 ___
-Prerequisites: [[Fourier Transform and Frequency Domain]]
+Prerequisites: [[1 Fourier Transform and Frequency Domain]]
 ___
-Related: [[Discrete Fourier Transform]] [[Gaussian is FT of Itself]]
+Related: [[2 Discrete Fourier Transform]] [[Gaussian is FT of Itself]]
 ___
 In the discrete fourier transform, we have seen the normalisation relationship: 
 $$\Delta \xi \Delta T=\frac{1}{N}$$

@@ -4,7 +4,7 @@ Related: [[RF Mixer]]
 ___
 The most important way of shifting signals up and down along the frequency domain while preserving their shape. This is also known as **heterodyning**. This is very important because frequency bands have different properties and allow the transfer of information through any desired medium. 
 
-There exists a concise and full explanation of how this process works, in addition to the explanations below. See the **shifting theorem** in [[Fourier Transform and Frequency Domain]].
+There exists a concise and full explanation of how this process works, in addition to the explanations below. See the **shifting theorem** in [[1 Fourier Transform and Frequency Domain]].
 ## Terminology
 **Baseband signal**: the original signal, with some upper bound in the frequency domain below which there is appreciable value, centered at 0 frequency. 
 **Carrier frequency**: the frequency about which the baseband signal will be shifted up to. 

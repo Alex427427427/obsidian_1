@@ -1,6 +1,6 @@
 Category: [[Tags/RF Engineering]] [[RF Modulation Schemes]]
 ___
-Prerequisites: [[Fourier Transform and Frequency Domain]] [[Shannon's Information Theory]] [[Amplitude Modulation (AM) and Demodulation]]
+Prerequisites: [[1 Fourier Transform and Frequency Domain]] [[Shannon's Information Theory]] [[Amplitude Modulation (AM) and Demodulation]]
 ___
 Related: [[Amplitude Shift Keying (ASK)]] [[Phase Shift Keying (PSK)]]
 ___

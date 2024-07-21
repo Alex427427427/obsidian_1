@@ -1,6 +1,6 @@
 Category: [[Classical Optics]]
 ___
-Prerequisites: [[Fourier Transform and Frequency Domain]] [[Antenna Aperture Function]]
+Prerequisites: [[1 Fourier Transform and Frequency Domain]] [[Antenna Aperture Function]]
 ___
 Related: [[14 Diffraction and Interference of EM Waves]]
 ___

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ab34c614d05bc9a",
+        "id": "71729ae2e16da142",
         "type": "tabs",
         "children": [
           {
-            "id": "3433323d385e9ce1",
+            "id": "17511206ca9b94ac",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215.5
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -138,36 +138,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3433323d385e9ce1",
+  "active": "17511206ca9b94ac",
   "lastOpenFiles": [
+    "Atlas of Life/Friends/Friends I Should Put Effort In.md",
+    "Art/Themes/Humanity's Triumph.md",
+    "Art/Themes/Lovelessness.md",
+    "Art/Projects/Ocean Comic/Characters/The Narrator.md",
+    "Art/Projects/Alien Comic/Material/Sleeping Daughter Episode.md",
+    "Art/Projects/Alien Comic/Material",
+    "Art/Projects/Alien Comic/Untitled.md",
+    "Art/Projects/Alien Comic/Material/Interview.md",
+    "Art/Projects/Alien Comic/Material/Coersion to Give up.md",
+    "Art/Projects/Alien Comic/Material/Bonding in Car before Operation.md",
+    "Art/Story Writing Theory/What is a Character.md",
+    "Art/Story Writing Theory/What is a Story.md",
+    "Art/Motifs/City Lights.md",
+    "Art/Motifs/Ocean.md",
+    "Tags/Lagrangian Mechanics.md",
     "Physics/1 Classical Mechanics/1 General Dynamics/4 Euler Lagrange Equation.md",
-    "Physics/1 Classical Mechanics/1 General Dynamics/1 Review of Newton - Single Particle Mechanics.md",
-    "Physics/1 Classical Mechanics/1 General Dynamics/2 Review of Newton - Many Particles.md",
-    "Physics/1 Classical Mechanics/1 General Dynamics/3 Lagrangian, Action, Principle of Stationary Action.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
-    "Tags/Untitled.md",
-    "Tags/Lie Theory.md",
-    "Physics/3 Relativistic Physics/1 Special Relativity/2 Lorentz Transformations.md",
-    "Physics/3 Relativistic Physics/1 Special Relativity/3 Relativistic Motion.md",
-    "Physics/3 Relativistic Physics/1 Special Relativity/5 Relativistic Force.md",
-    "Physics/3 Relativistic Physics/1 Special Relativity/6 Spacetime Derivatives.md",
-    "Physics/6 Open Problems and Anomalies/0 Grand List.md",
-    "Physics/3 Relativistic Physics/0 Introduction to Relativity.md",
-    "Engineering/Appliances/Microwave.md",
-    "Physics/5 Applied Fields/Untitled.md",
-    "Mathematics and Geometry/Lie Theory/Untitled.md",
+    "Art/Themes/What is a Nation.md",
+    "Art/Projects",
+    "Tags/Motifs.md",
+    "Art/Motifs",
+    "Tags/Themes.md",
+    "Art/Themes",
+    "Art/Projects/Ocean Comic/Characters",
+    "Mathematics and Geometry/Fourier Analysis/2 Discrete Fourier Transform.md",
+    "Mathematics and Geometry/Fourier Analysis/3 Aliasing and Nyquist Sampling Theorem.md",
+    "Mathematics and Geometry/Fourier Analysis/4 Fourier Uncertainty Principle.md",
+    "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform (FFT).md",
+    "Mathematics and Geometry/Fourier Analysis/Bode Plot.md",
+    "Mathematics and Geometry/Fourier Analysis/6 Z-Transform or Discrete Laplace Transform.md",
+    "Engineering/Radio Frequency Engineering/Superheterodyne Receiver.md",
+    "Engineering/Radio Frequency Engineering/Spectrum Analyser.md",
     "Mathematics and Geometry/Lie Theory",
-    "Mathematics and Geometry/Lie Theory/Introduction to Lie Theory.md",
     "Supplementary Images/bar magnet mag field.png",
-    "Physics/3 Relativistic Physics/1 Special Relativity/1 Measuring Spacetime.md",
-    "Tags/RF Engineering.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/1 The EM Tensor.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/6 The EM Lagrange Density.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/4 The EM 4-Potential.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/2 The 4-Current.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/5 The Unified Maxwell Equation.md",
-    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/8 EM Radiation.md",
     "Supplementary Images/longitudinal gaussian beam.png",
     "Supplementary Images/gaussian transverse profile.png",
     "Supplementary Images/patch radiation pattern.png",
@@ -180,11 +185,6 @@
     "Engineering/Radio Frequency Engineering/RF networks",
     "Engineering/Radio Frequency Engineering/Antenna",
     "Engineering/Radio Frequency Engineering/Modulation",
-    "Engineering/Radio Frequency Engineering/RF Basics",
-    "Engineering/Appliances",
-    "Physics/5 Applied Fields/Solid State Physics",
-    "Physics/5 Applied Fields/Photonics",
-    "Physics/5 Applied Fields/Semiconductor Physics",
-    "Physics/5 Applied Fields/Nuclear Physics"
+    "Engineering/Radio Frequency Engineering/RF Basics"
   ]
 }

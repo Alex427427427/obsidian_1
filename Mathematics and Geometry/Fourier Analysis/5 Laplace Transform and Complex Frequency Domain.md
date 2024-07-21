@@ -1,8 +1,8 @@
 Category: [[Fourier Analysis]]
 ___
-Related: [[Fourier Transform and Frequency Domain]] [[Z-Transform or Discrete Laplace Transform]]
+Related: [[1 Fourier Transform and Frequency Domain]] [[6 Z-Transform or Discrete Laplace Transform]]
 ___
-A generalisation of Fourier Transforms [[Fourier Transform and Frequency Domain]] to the complex frequency (exponential enveloping oscillation) domain. 
+A generalisation of Fourier Transforms [[1 Fourier Transform and Frequency Domain]] to the complex frequency (exponential enveloping oscillation) domain. 
 ## Forward Transform
 $$\boxed{\mathcal L[f(t)](s)=\int_0^{\infty}f(t)e^{-st}dt:=F(s)}$$
 Here $s$ is a complex number. Note that the transform only exists if the function doesn't grow faster than exponential. 

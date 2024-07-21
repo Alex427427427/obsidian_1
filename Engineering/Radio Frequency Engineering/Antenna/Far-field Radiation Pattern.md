@@ -1,6 +1,6 @@
 Category: [[Tags/RF Engineering]]
 ___
-Prerequisites: [[Fourier Optics]] [[Antenna Aperture Function]] [[Antenna Gain]] [[Fourier Transform and Frequency Domain]]
+Prerequisites: [[Fourier Optics]] [[Antenna Aperture Function]] [[Antenna Gain]] [[1 Fourier Transform and Frequency Domain]]
 ___
 Related: 
 ___

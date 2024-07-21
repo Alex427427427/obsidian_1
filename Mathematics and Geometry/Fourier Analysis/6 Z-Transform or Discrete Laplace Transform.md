@@ -1,8 +1,8 @@
 Category: [[Fourier Analysis]]
 ___
-Prerequisite: [[Discrete Fourier Transform]]
+Prerequisite: [[2 Discrete Fourier Transform]]
 ___
-Related: [[Laplace Transform and Complex Frequency Domain]]
+Related: [[5 Laplace Transform and Complex Frequency Domain]]
 ___
 This is a version of the Laplace Transform that discretises the time domain, but keeps the complex frequency domain continuous. 
 ## The Transform
