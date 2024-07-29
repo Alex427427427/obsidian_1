@@ -9,7 +9,7 @@ $$\boxed{F=\frac{1}{4\pi\epsilon_0}\frac{Q_1Q_2}{r^2}}$$
 ##### The Factor of $4\pi$, and Solid Angles
 Spherical geometry tells us that all the possible directions pointing out from an origin, can be characterised by an angular unit much like the radian, a square-radian if you will, also known as the **solid angle** $\Omega$. One solid angle results in a field of view of 1 unit area on a surface of 1 unit length away from the observer. 
 $$\Omega=\frac{A}{r^2}$$
-if there is a field of view of area $A$ at a distance $r$ away. See more in [[Spherical Geometry - Solid Angle]].
+if there is a field of view of area $A$ at a distance $r$ away. See more in [[Solid Angle]].
 
 **There are $4\pi$ total solid angles to form the totality of all directions.** The factor of $4\pi$ in the formula tells us that the **solid angle density** is proportional to the force that the point charges experience. The same charge can be smeared out over a region occupying more solid angles, and the reduction in the angular charge density cancels out the effect, maintaining the same overall force. 
 ## Electric Field

@@ -4,11 +4,11 @@ Related: [[Frequency Domain]] [[2 Discrete Fourier Transform]]
 ___
 A mathematical operation that transforms functions in one space to functions in the reciprocal space. Most commonly applied to the time domain and its reciprocal frequency domain, but can be applied to any reciprocal pairs of spaces. They are formally known as conjugate spaces. 
 ## From Frequency Domain to Original Domain
-It is best to start by understanding that functions on some domain can be constructed via its components from the frequency domain. These components are harmonic oscillations. 
+It is best to start by understanding that functions on some domain ($f(x)$) can be constructed via some family of universal, elementary components. These components are harmonic oscillations ($e^{i2\pi\xi t}$) with frequencies $\xi$. 
 
 Indeed, it is a fact that all functions on some space can be constructed from harmonic basis functions on that same space via linear combination. Thus the function has an associated plot of how much of the various frequencies make it up across the frequency spectrum. This distribution in the frequency domain is its Fourier Transform. To construct the original function, simply sum up all the harmonic functions with frequencies that appear in the frequency domain, with the appropriate amplitude and phase. 
 
-Since the frequency domain is a continuous distribution, the above sum shall be an integral over frequencies. Thus we have the **synthesis function** that constructs the original function $f(t)$ from the frequency domain profile $\hat f(\xi)$:
+Since the frequency domain is a continuous distribution, the above sum shall be an integral over a probability density of frequencies. Thus we have the **synthesis function** that constructs the original function $f(t)$ from the frequency domain profile $\hat f(\xi)$:
 $$f(t)=\int_{-\infty}^{+\infty}\hat f(\xi)e^{i2\pi\xi t}d\xi$$
 But how do we go the other way? In other words, construct the frequency domain distribution $\hat f(\xi)$ given the original function $f(t)$? 
 ## From Original Domain to Frequency Domain
@@ -43,7 +43,7 @@ The space of all square integrable functions $L^2$ over an interval $[-T/2, T/2]
 
 To find linear coefficients, we need a dot product - a projection of some total vector onto a normalised basis vector. For this to work we also require the basis to be orthogonal. We need an orthonormal basis. But to find the orthonormal basis, we need a dot product. We can redefine a dot product between vectors (which are functions) by extending the usual definition. The usual sum of components multiplied becomes an integral of the function values multiplied. Note the complex conjugate applied to complex spaces. 
 $$\left<{f, g}\right>:=\int_{-T/2}^{T/2} f(t)g^*(t)\ dt$$
-If we apply this dot product to basis functions of the form $e^{i\omega t}$, we need to do some scaling, either to the dot product formula or to the basis functions, in order for them to be unit "length". 
+If we apply this dot product to basis functions of the form $e^{i\omega t}$, we need to do some **scaling, either to the dot product formula or to the basis functions**, in order for them to be unit "length". 
 
 The Fourier Transformed space is in fact the **dual vector space** to the hilbert space of functions. 
 
@@ -51,13 +51,13 @@ Now we face a choice that leads us to produce two types of analysis.
 ##### Discrete Dimensions - Fourier Series
 If we want to decompose the space into discrete dimensions, we need the restriction that the function space is restricted to periodic functions on some interval. In this case, the functions can still go on forever, but we can analyse all its properties by focusing on one cycle. In this case, the set of basis functions become a set of $e^{i\omega t}$ where $\omega$ advances discretely. 
 
-In such a choice, the dot product as defined above always returns $2\pi$ when applied to the basis functions and themselves, and $0$ when applied between basis functions. We see that orthogonality is obtained. Unit length can be obtained by either defining the basis to be $e^{i\omega t}/2\pi$, or the dot product to be $\frac{1}{2\pi}\int_{-T/2}^{T/2} f(t)g^*(t)\ dt$. The production of the total function is done with a sum, not an integral. This is the discrete **Fourier Series**. 
+In such a choice, the dot product as defined above always returns the total period $T$ when applied to the basis functions and themselves, and $0$ when applied between basis functions. We see that orthogonality is obtained. Unit length can be obtained by either defining the basis to be $e^{i\omega t}/T$, or the dot product to be $\frac{1}{T}\int_{-T/2}^{T/2} f(t)g^*(t)\ dt$. The production of the total function is done with a sum, not an integral. This is the discrete **Fourier Series**. 
 
 The Fourier Transform is a projection onto a basis vector: 
-$$\boxed{\hat f(\omega)=\left<f(t),e^{i\omega t}\right>=\frac{1}{2\pi}\int_{-T/2}^{T/2} f(t)e^{-i\omega t}\ dt}$$
+$$\boxed{\hat f(\omega)=\left<f(t),e^{i\omega t}\right>=\frac{1}{T}\int_{-T/2}^{T/2} f(t)e^{-i\omega t}\ dt}$$
 While the Inverse Fourier Transform is a linear combination: 
 $$\boxed{f(t)=\sum_{\omega=0}^{\infty}\hat f(\omega)e^{i\omega t}}$$
-Again, the factor of $2\pi$ can be pushed around. 
+Again, the factor of $T$ can be pushed around. 
 ##### Continuous Dimensions - Fourier Transform
 If we decompose the space into continuous dimensions where $\omega$ advances continuously, we must redefine the notion of linear combination. It will no longer be a sum over the basis vectors, but an integral, and the basis vectors shall be seen as possible values for a distribution. The space also no longer has to be within an interval, but can extend indefinitely. We can simply carry over the definitions in the discrete case, extend the interval to all space, turn the sum into an integral.
 $$\boxed{\hat f(\omega)=\left<f(t),e^{i\omega t}\right>=\frac{1}{2\pi}\int_{-\infty}^{\infty} f(t)e^{-i\omega t}\ dt}$$

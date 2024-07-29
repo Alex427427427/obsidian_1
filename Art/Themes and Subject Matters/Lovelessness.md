@@ -14,6 +14,8 @@ Low energy to put in the work to escape loneliness
 Hopelessness
 
 Inability to be present - to enjoy what they have, to consider for those around them
+
+A pitiful lifestyle. 
 ## Material
 "I'm only fit to scavenge the cultural excrement of humanity - watching other people's happy lives on social media. Love is a thing that others do." 
 

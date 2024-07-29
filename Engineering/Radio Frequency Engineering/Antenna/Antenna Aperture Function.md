@@ -1,6 +1,6 @@
 Category: [[Tags/RF Engineering]]
 ___
-Prerequisites: [[Spherical Geometry - Solid Angle]] [[6 Energy Flow of the EM Field]]
+Prerequisites: [[Solid Angle]] [[6 Energy Flow of the EM Field]]
 ___
 Related: 
 ___

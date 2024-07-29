@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f682d9210c9b0794",
+        "id": "8d015ba4fa03625e",
         "type": "tabs",
         "children": [
           {
-            "id": "33bb912f146cddb7",
+            "id": "2be9dc3b2485706b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md",
+                "file": "Art/Projects/Alien Comic/Alien Comic Plans.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 307.5
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md",
+                "file": "Art/Projects/Alien Comic/Alien Comic Plans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md",
+                "file": "Art/Projects/Alien Comic/Alien Comic Plans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md"
+                "file": "Art/Projects/Alien Comic/Alien Comic Plans.md"
               }
             }
           }
@@ -146,38 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33bb912f146cddb7",
+  "active": "2be9dc3b2485706b",
   "lastOpenFiles": [
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/8 A Continuum of Outcomes Needs Hilbert Spaces.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/9 The Position and Momentum Eigenspaces.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/11 Quantum Uncertainty Principle.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/10 Angular Momentum.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/7 Finite Dimensional Outcome Space.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Quantum Dynamics.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/1 The Quantum State.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Stern-Gerlach Experiment.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/12 Angular Momentum.md",
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/5 Measurement Outcomes - Hermitian Operators.md",
-    "Physics/4 Quantum Physics/2 Quantum Mechanics Application/1 Time Independent Perturbation theory.md",
-    "Mathematics and Geometry/Fourier Analysis/6 Z-Transform or Discrete Laplace Transform.md",
-    "Mathematics and Geometry/Fourier Analysis/5 Laplace Transform and Complex Frequency Domain.md",
-    "Mathematics and Geometry/Fourier Analysis/4 Fourier Uncertainty Principle.md",
-    "Mathematics and Geometry/Fourier Analysis/2 Discrete Fourier Transform.md",
-    "Mathematics and Geometry/Fourier Analysis/1 Fourier Transform and Frequency Domain.md",
-    "Mathematics and Geometry/Fourier Analysis/Sinc is FT of Rect.md",
+    "Art/Projects/Ocean Comic/Ocean Comic Plan.md",
+    "Art/Projects/Alien Comic/Alien Comic Plans.md",
+    "Art/Projects/Ocean Comic/Characters/The Narrator.md",
+    "Art/Story Writing Theory/1 What is a Story.md",
+    "Art/Story Writing Theory/2 What is a Character.md",
+    "Art/Themes and Subject Matters/Humanity's Triumph.md",
+    "Art/Themes and Subject Matters/Information.md",
+    "Art/Themes and Subject Matters/Lovelessness.md",
+    "Art/Motifs/Ocean.md",
+    "Art/Motifs/City Lights.md",
+    "Mathematics and Geometry/Differential Equations/Wave Equation.md",
+    "Mathematics and Geometry/Differential Equations/Helmholtz Equation.md",
+    "Mathematics and Geometry/Differential Equations/Green Functions.md",
+    "Mathematics and Geometry/Differential Equations/Diffusion Equation.md",
     "Mathematics and Geometry/Fourier Analysis/Fast Fourier Transform (FFT).md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Polarisation of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/6 Energy Flow of the EM Field.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/9 Reflection and Transmission Coefficients of EM Waves, Fresnel Equations.md",
+    "Mathematics and Geometry/Geometry/Solid Angle.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/15 Scattering of EM Waves.md",
+    "Mathematics and Geometry/Differential Equations",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/11 Birefringence.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/7 Momentum and Angular Momentum of the EM Field.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/1 Electromagnetic Wave Equations.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/10 Reflection and Refraction - Angular Laws.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/9 Reflection and Transmission Coefficients of EM Waves, Fresnel Equations.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/12 Dispersion of EM Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/13 Radiation of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/14 Diffraction and Interference of EM Waves.md",
     "Art/Projects/Alien Comic/Material",
     "Art/Projects",
     "Art/Motifs",
-    "Art/Themes",
+    "Art/Themes and Subject Matters",
     "Art/Projects/Ocean Comic/Characters",
     "Mathematics and Geometry/Lie Theory",
     "Supplementary Images/bar magnet mag field.png",
@@ -192,7 +193,6 @@
     "Supplementary Images/QPSK.png",
     "Engineering/Radio Frequency Engineering/RF networks",
     "Engineering/Radio Frequency Engineering/Antenna",
-    "Engineering/Radio Frequency Engineering/Modulation",
-    "Engineering/Radio Frequency Engineering/RF Basics"
+    "Engineering/Radio Frequency Engineering/Modulation"
   ]
 }
