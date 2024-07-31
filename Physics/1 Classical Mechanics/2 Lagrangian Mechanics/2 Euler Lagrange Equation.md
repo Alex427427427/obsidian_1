@@ -1,6 +1,6 @@
 Category: [[Classical Mechanics]] [[Lagrangian Mechanics]]
 ___
-Prerequisites: [[3 Lagrangian, Action, Principle of Stationary Action]]
+Prerequisites: [[1 Lagrangian, Action, Principle of Stationary Action]]
 ___
 Related: 
 ___
@@ -8,6 +8,15 @@ ___
 The principle of stationary action is not explicitly local. But we like to pretend the universe necessarily has to be local. Regardless, it happens to be the case that here, the principle of stationary action has an equivalent local form that mechanistically drives systems to follow the principle of stationary action globally. It is the Euler-Lagrange Equation. 
 $$\boxed{\frac{\partial L}{\partial q^a}-\frac{d}{dt}\frac{\partial L}{\partial\dot q^a}=0}$$
 Which becomes Newton's Second Law in the case of a single particle. 
+## Interpretation
+##### Coordinate Systems 
+Because the stationary action principle is about paths, it immediately follows that the equations in lagrangian mechanics hold in any coordinate system. This posthumously justifies the introduction of generalised coordinates. Apologies. 
+##### Generalised Force
+$$\boxed{F^a:=\frac{\partial L}{\partial q^a}}$$
+##### Generalised Momentum
+$$\boxed{p^a:=\frac{\partial L}{\partial q^a}}$$
+##### Euler-Lagrange Equation
+$$\boxed{F^a=\frac{d}{dt}p^a}$$
 ## Proof
 To prove the Euler Lagrange equation, we need to show that if the stationary action principle is true, the euler lagrange equation must be true. 
 

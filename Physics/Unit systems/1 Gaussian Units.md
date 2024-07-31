@@ -33,7 +33,7 @@ In any unit system, the laws of electromagnetism will have a factor of $4\pi$ so
 
 Consider the force law. The factor disappears from the force law, meaning it must have been absorbed into the charges. **The charge unit has changed in such a way that $\epsilon_0$ is $\frac{1}{4\pi}$**. How was this done? Since the charge unit is squared in the force law, the charge quantities must have obtained a factor of $\frac{1}{\sqrt{4\pi\epsilon_0}}$ each. **The same physical amount of charge, will appear smaller in Gaussian unit by a factor of $\sqrt{4\pi\epsilon_0}$**. 
 
-Now consider the field strength law. The charge absorbs a factor of $\frac{1}{\sqrt{4\pi\epsilon_0}}$, leaving behind a factor of $\frac{1}{\sqrt{4\pi\epsilon_0}}$. Moving this to the left hand side, we see that the field strength must absorb a factor of $4\pi$. **The same physical field will have a value in the Gaussian system that is larger than what would have been in the SI system, by a factor of $\sqrt{4\pi\epsilon_0}$.
+Now consider the field strength law. The charge absorbs a factor of $\frac{1}{\sqrt{4\pi\epsilon_0}}$, leaving behind a factor of $\frac{1}{\sqrt{4\pi\epsilon_0}}$. Moving this to the left hand side, we see that the field strength must absorb a factor of $\sqrt{4\pi\epsilon_0}$. **The same physical field will have a value in the Gaussian system that is larger than what would have been in the SI system, by a factor of $\sqrt{4\pi\epsilon_0}$.
 
 #### Applying to the force laws
 The Electric force law in SI unit, when involving the electric field, is:

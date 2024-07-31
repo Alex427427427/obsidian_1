@@ -16,7 +16,7 @@ Converting to momentum $p=\hbar k$ gives:
 $$\Delta x_{wavefunction}\Delta p_{wavefunction}=\hbar$$
 Converting to the distribution involves squaring, which translates to dilation of the gaussian distributions by a factor of $\sqrt 2$ horizontally. Thus:
 $$\boxed{\Delta x\Delta p=\frac{\hbar}{2}}$$
-Note that this is the fundamental uncertainty limit, and it is usually quoted to take into account of additional uncertainty of the measurement process. Thus it is an inequality:
+Note that this is the fundamental uncertainty limit, and it is usually quoted to take into account of additional uncertainty of the measurement process. Thus it becomes an inequality:
 $$\boxed{\Delta x\Delta p\leq\frac{\hbar}{2}}$$
 ## Conjugate Variables
 All conjugate variables follow that uncertainty principle. 

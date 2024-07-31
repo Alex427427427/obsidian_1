@@ -22,11 +22,15 @@ We now encounter the one law that is the closest to a theory of everything that 
 
 **A system evolves through the configuration space along a path that makes the action an extremum with respect to the choice of path**. (Mostly, minimises)
 $$\boxed{\delta S[q^a_{real}(t)]=0}$$
+**This principle remains invariant if the Lagrangian is scaled or shifted by a constant.**
 ## Interpretation
+##### Background
 It is commonly believed that there is no intuition for what the Lagrangian represents, other than that it produces another quantity when integrated along a path in configuration space, which follows an axiomatic optimisation principle that happens to describe reality. 
 
-This is an unfortunate result of the historical choice of the definition of the Lagrangian. Kinetic energy minus potential energy, while the simplest choice to satisfy the stationary action principle, obscures the underlying idea that the Lagrangian represents. 
+This is an unfortunate result of the historical choice of the definition of the Lagrangian. Kinetic energy minus potential energy, while the simplest choice to satisfy the stationary action principle, obscures the underlying idea which the Lagrangian represents. 
 
-The Lagrangian is a measure of action rate - how much action is occuring per unit time. 
+There is also a rumor that the principle of least action represents the least amount of energy transfer from potential to kinetic and vice versa, by inspecting the form of the Lagrangian $T-V$. Unfortunately this view breaks apart upon scrutiny, but it gets closer to the truth - that the action is *some* kind of measure of *change*. 
+##### Action = Phase Change, Lagrangian = Rate of Phase Change
+The Lagrangian is a measure of **action rate** - how much action is occuring per unit time. 
 
-And what is action? A good intuition will have to wait for quantum mechanics ([[Quantum Mechanics]]) and relativity ([[Relativity]]). But the short answer is here - the action is a measure of phase change in the rest frame of a particle - consider a harmonic de broglie wave in spacetime. So the principle of least action is the principle of least phase change. And the Lagrangian is a measure of the rate at which phase is changing. 
+And what is action? A full understanding will have to wait for quantum mechanics ([[Quantum Mechanics]]) and relativity ([[Relativity]]). See [[0 Discrete Action Relationships]]. But the short answer is here - **the action is a measure of phase change in the rest frame of a particle** - consider a harmonic de broglie wave in spacetime. So the principle of least action is the **principle of least phase change**. And the **Lagrangian is a measure of the rate at which phase is changing**. 

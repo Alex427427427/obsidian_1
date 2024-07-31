@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "optics",
       "color": {
         "a": 1,
         "rgb": 14069084
+      }
+    },
+    {
+      "query": "Fourier",
+      "color": {
+        "a": 1,
+        "rgb": 8805912
       }
     },
     {
@@ -29,24 +36,17 @@
       }
     },
     {
-      "query": "elec",
-      "color": {
-        "a": 1,
-        "rgb": 4070633
-      }
-    },
-    {
-      "query": "Fourier",
-      "color": {
-        "a": 1,
-        "rgb": 8805912
-      }
-    },
-    {
       "query": "relativity",
       "color": {
         "a": 1,
         "rgb": 16771584
+      }
+    },
+    {
+      "query": "electromag",
+      "color": {
+        "a": 1,
+        "rgb": 4070633
       }
     },
     {
@@ -77,10 +77,10 @@
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.197916666666667,
-  "repelStrength": 7.60416666666667,
-  "linkStrength": 0.645833333333333,
-  "linkDistance": 103,
-  "scale": 0.1166089157945747,
+  "centerStrength": 0.359375,
+  "repelStrength": 12.7083333333333,
+  "linkStrength": 1,
+  "linkDistance": 121,
+  "scale": 0.09895430218637338,
   "close": true
 }

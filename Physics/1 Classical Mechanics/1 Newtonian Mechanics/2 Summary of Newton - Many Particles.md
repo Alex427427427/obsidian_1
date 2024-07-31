@@ -1,4 +1,4 @@
-Tags: [[Classical Mechanics]] [[Newtonian Mechanics]] [[1 Review of Newton - Single Particle Mechanics]]
+Tags: [[Classical Mechanics]] [[Newtonian Mechanics]] [[1 Summary of Newton - Single Particle Mechanics]]
 ___
 ## Total Force
 The second law gives us how force affects motion. We turn our attention briefly to the source of the force in a multi-particle system. First we look at all possible forces acting on one particle in the system:

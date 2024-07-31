@@ -1,5 +1,9 @@
 Tags: [[Quantum Mechanics]]
 ___
+Prerequisites: 
+___
+Related: 
+___
 ## The Quantum State $\ket\Psi$
 Through myriad experiments in the 20th century, we postulate that everything an observer could know about a quantum system is fully described by the quantum state $\ket\Psi$ of the system. Here are the characteristics of the quantum state:
 1. $\ket\Psi$ is a vector

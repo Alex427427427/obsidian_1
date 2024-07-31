@@ -39,4 +39,4 @@ $$u=\frac{\epsilon_0}{2}|\vec E|^2$$
 ## Interpretation
 We see that both the charge distribution integral and the energy density integral produce the total energy stored in the charge distribution, so is the energy stored in the charge embedded in potentials, or is the energy stored in the field? 
 
-This is unanswerable for now, but in general relativity, we must treat the energy being stored in the field. 
+This is unanswerable for now, but in relativity ([[Relativity]]), we must treat the energy being stored in the field. 
