@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f0a31cf08110c50b",
+        "id": "c4333cfc15f8e453",
         "type": "tabs",
         "children": [
           {
-            "id": "dd86e115e469224f",
+            "id": "71ce7f0e97c9588a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Art/Projects/Ocean Comic/Plot/0 Heart of the Ocean Plot Outline.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 279.5
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/7 Speculations of the Note Taker/Measurement Problem/Non-Local Realism.md",
+                "file": "Art/Projects/Ocean Comic/Plot/0 Heart of the Ocean Plot Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/7 Speculations of the Note Taker/Measurement Problem/Non-Local Realism.md",
+                "file": "Art/Projects/Ocean Comic/Plot/0 Heart of the Ocean Plot Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/7 Speculations of the Note Taker/Measurement Problem/Non-Local Realism.md"
+                "file": "Art/Projects/Ocean Comic/Plot/0 Heart of the Ocean Plot Outline.md"
               }
             }
           }
@@ -142,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "830d73b709bf76a1",
+  "active": "71ce7f0e97c9588a",
   "lastOpenFiles": [
+    "Art/Projects/Ocean Comic/Ocean Comic Conception.md",
+    "Art/Projects/Ocean Comic/Plot/0 Heart of the Ocean Plot Outline.md",
+    "Art/Projects/Ocean Comic/Characters/The Substitute Lecturer Fara.md",
+    "Art/Projects/Ocean Comic/Characters/The Narrator, PhD student Yang.md",
+    "Art/Projects/Ocean Comic/Characters/The Missing Professor Landon.md",
+    "Art/Projects/Ocean Comic/Plot",
+    "Supplementary Images/landon.png",
+    "Supplementary Images/fara.png",
+    "Art/Projects/Alien Comic/Alien Comic Plans.md",
+    "Art/Projects/Alien Comic/Material/Bonding in Car before Operation.md",
+    "Supplementary Images/triboelectric effect cat.png",
+    "Supplementary Images/square aperture diffraction.png",
+    "Supplementary Images/Narrator.png",
+    "Art/Projects/Alien Comic/Material/Veil around Susan as Dark Matter.md",
+    "Art/Projects/Alien Comic/Material/Interview.md",
+    "Art/Projects/Alien Comic/Material/Sleeping Daughter Episode.md",
+    "Art/Projects/Alien Comic/Material/Coersion to Give up.md",
+    "Physics/1 Classical Mechanics/4 Field Theory/2 Hamiltonian Tensor.md",
+    "Physics/1 Classical Mechanics/4 Field Theory/1 Lagrange Density.md",
+    "Physics/1 Classical Mechanics/3 Hamiltonian Mechanics/5 Hamilton Jacobi Equation.md",
+    "Physics/1 Classical Mechanics/3 Hamiltonian Mechanics/4 Poisson Brackets.md",
+    "Physics/1 Classical Mechanics/3 Hamiltonian Mechanics/2 Phase Space, Canonical Transformations.md",
+    "Physics/1 Classical Mechanics/3 Hamiltonian Mechanics/1 Hamiltonian, Legendre Transform.md",
+    "Physics/1 Classical Mechanics/3 Hamiltonian Mechanics/3 Hamiltonian Flow, Liouville's Theorem.md",
+    "Physics/1 Classical Mechanics/2 Lagrangian Mechanics/1 Lagrangian, Action, Principle of Stationary Action.md",
+    "Physics/1 Classical Mechanics/2 Lagrangian Mechanics/3 Change of Coordinates for Lagrangian.md",
+    "Physics/1 Classical Mechanics/2 Lagrangian Mechanics/5 Noether's Theorem - Symmetries of the Lagrangian.md",
+    "Physics/7 Speculations of the Note Taker/Topological Soliton in Spacetime/Solitons in a Crystal Lattice are particles on the lorentz ether.md",
+    "Physics/7 Speculations of the Note Taker/Spin, Action, Phase, Photon Electron/Spin and Action Speculation.md",
+    "Physics/7 Speculations of the Note Taker/Topological Soliton in Spacetime",
     "Physics/7 Speculations of the Note Taker/Measurement Problem",
     "Physics/7 Speculations of the Note Taker/Measurement Problem/Dielectric Breakdown and Interaction Process in Measurement Problem.md",
     "Physics/7 Speculations of the Note Taker/Measurement Problem/Non-Local Realism.md",
     "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field/Gravity Emergent from Random Polarisation.md",
-    "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field/Low Order Effects Reach Far.md",
-    "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field/Absolute Spacetime - Photon Clocks.md",
     "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field",
-    "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field/EM Theory recast as Spacetime Curvature.md",
-    "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field/Every Point in Space an Infinitesimal Radiator.md",
-    "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field/Solitons in a Crystal Lattice are particles on the lorentz ether.md",
-    "Engineering/Information Theory/Shannon's Information Theory.md",
-    "Engineering/Software Systems/Compiler.md",
     "Engineering/Software Systems",
-    "Engineering/Computer Systems/Architectre.md",
     "Engineering/Computer Systems",
-    "Mathematics and Geometry/Differential Geometry/topological spaces.md",
-    "Physics/Unit systems/3 Natural Units.md",
     "Mathematics and Geometry/Differential Geometry",
-    "Physics/Unit systems/2 Heaviside-Lorentz Units.md",
-    "Physics/Unit systems/1 Gaussian Units.md",
-    "Physics/5 Applied Technological Fields/Photonics/Non-linear optics.md",
-    "Physics/5 Applied Technological Fields/Semiconductor Physics/Semiconductor.md",
     "Physics/5 Applied Technological Fields/Untitled",
     "Physics/5 Applied Technological Fields/Semiconductor Physics",
     "Physics/5 Applied Technological Fields/Photonics",
-    "Physics/5 Applied Technological Fields",
-    "Physics/4 Quantum Physics/3 Relativistic Quantum Theory/Dirac Equation.md",
-    "Physics/4 Quantum Physics/2 Quantum Mechanics Application/1 Time Independent Perturbation theory.md",
-    "Physics/1 Classical Mechanics/Grand Summary of Classical Mechanics Entities.md",
-    "Physics/4 Quantum Physics/3 Relativistic Quantum Theory",
-    "Physics/1 Classical Mechanics/0 Introduction to Classical Mechanics.md",
-    "Physics/3 Relativistic Physics/1 Special Relativity/7 Relativistic Field Theory.md",
-    "Physics/1 Classical Mechanics/4 Field Theory/1 Lagrange Density.md",
-    "Physics/1 Classical Mechanics/4 Field Theory/2 Euler Lagrange.md",
-    "Physics/1 Classical Mechanics/3 Hamiltonian Mechanics/1 Hamiltonian, Phase Space, Legendre Transform.md",
-    "Physics/1 Classical Mechanics/4 Field Theory",
     "Supplementary Images/bar magnet mag field.png",
     "Supplementary Images/longitudinal gaussian beam.png",
     "Supplementary Images/gaussian transverse profile.png",
     "Supplementary Images/patch radiation pattern.png",
-    "Supplementary Images/2.4GHz patch antenna.png",
-    "Supplementary Images/diffraction.png",
-    "Supplementary Images/common qam.png",
-    "Supplementary Images/16QAM.png",
-    "Supplementary Images/ASK.png",
-    "Supplementary Images/QPSK.png"
+    "Supplementary Images/2.4GHz patch antenna.png"
   ]
 }
