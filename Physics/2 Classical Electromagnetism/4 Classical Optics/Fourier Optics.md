@@ -12,7 +12,7 @@ The fourier transform brings functions from one domain to the conjugate domain, 
 A function over space - assigning a value to each location representing the effective aperture area density at that location - how much total power will be received by a plane wave arriving from that direction with a certain irradiance. 
 ## The Beginning - Diffraction
 If a unit plane wave is incident on an aperture, a diffraction pattern is observed. 
-![[diffraction.png]]
+![[fourier optics expl 1.png]]
 This is the Fraunhofer diffraction. 
 ##### Qualitative Explanation
 Before there was the notion of Fourier optics, it was intuited that every location of space serves as an infinitesimal radiator of optical energy, their collective radiations combining to form the propagating wavefronts. Thus every location inside the aperture where there is appreciable value, will have a spherical wave emerging from it. The interference of such waves produces the interference pattern on the screen. 
