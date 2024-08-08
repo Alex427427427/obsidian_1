@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "374e89ad4c4445fe",
+        "id": "497fac89ad10925b",
         "type": "tabs",
         "children": [
           {
-            "id": "bd2a888e1ffc6180",
+            "id": "2e181e5607d9ccc8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md"
+              }
             }
           }
         ]
@@ -138,8 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd2a888e1ffc6180",
+  "active": "2e181e5607d9ccc8",
   "lastOpenFiles": [
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+    "Pasted image 20240808153906.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/central spot removed.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/iris lobe 5.png",
+    "Pasted image 20240808152615.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/iris lobe 4.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/iris lobe 3.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/iris lobe 2.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/iris lobe 1.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/iris lobe 8.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/iris lobe 7.png",
+    "Mathematics and Geometry/Real Analysis/Untitled.md",
+    "Mathematics and Geometry/Real Analysis",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment",
+    "University Tasks/Experimental Physics",
+    "University Tasks",
     "Engineering/Software Systems/Frameworks.md",
     "Engineering/Software Systems/Compiler.md",
     "Engineering/Electrician Knowledge/Neutral Conductors.md",
@@ -159,32 +184,14 @@
     "Art/Projects/Ocean Comic/Characters/The Narrator, PhD student Yang.md",
     "Art/Projects/Ocean Comic/Characters/The Missing Professor Landon.md",
     "Art/Projects/Ocean Comic/Plot",
-    "Supplementary Images/landon.png",
-    "Supplementary Images/fara.png",
     "Art/Projects/Alien Comic/Alien Comic Plans.md",
     "Art/Projects/Alien Comic/Material/Bonding in Car before Operation.md",
-    "Supplementary Images/triboelectric effect cat.png",
-    "Supplementary Images/square aperture diffraction.png",
-    "Supplementary Images/Narrator.png",
     "Art/Projects/Alien Comic/Material/Interview.md",
     "Art/Projects/Alien Comic/Material/Sleeping Daughter Episode.md",
-    "Art/Projects/Alien Comic/Material/Coersion to Give up.md",
-    "Physics/1 Classical Mechanics/4 Field Theory/2 Hamiltonian Tensor.md",
-    "Physics/1 Classical Mechanics/4 Field Theory/1 Lagrange Density.md",
-    "Physics/1 Classical Mechanics/3 Hamiltonian Mechanics/5 Hamilton Jacobi Equation.md",
     "Physics/7 Speculations of the Note Taker/Topological Soliton in Spacetime",
     "Physics/7 Speculations of the Note Taker/Measurement Problem",
     "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field",
     "Engineering/Software Systems",
-    "Engineering/Computer Systems",
-    "Mathematics and Geometry/Differential Geometry",
-    "Physics/5 Applied Technological Fields/Untitled",
-    "Physics/5 Applied Technological Fields/Semiconductor Physics",
-    "Physics/5 Applied Technological Fields/Photonics",
-    "Supplementary Images/bar magnet mag field.png",
-    "Supplementary Images/longitudinal gaussian beam.png",
-    "Supplementary Images/gaussian transverse profile.png",
-    "Supplementary Images/patch radiation pattern.png",
-    "Supplementary Images/2.4GHz patch antenna.png"
+    "Engineering/Computer Systems"
   ]
 }
