@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+                "file": "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+                "file": "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+                "file": "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md"
+                "file": "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md"
               }
             }
           }
@@ -146,21 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "830d73b709bf76a1",
+  "active": "c8e540d0ec4ccafd",
   "lastOpenFiles": [
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/Pasted image 20240809030855.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/Pasted image 20240809030739.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/Pasted image 20240809030414.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/Pasted image 20240809030336.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/Pasted image 20240809030255.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/med vert 2.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/Pasted image 20240809030130.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/2 lobe gray.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/1 lobe gray fft.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/1 lobe gray.png",
-    "Pasted image 20240809023711.png",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/14 Diffraction and Interference of EM Waves.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/med hori gray.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/med hori gray fft.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/med hori 3.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/iris lobe 4.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/iris lobe 3.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/iris lobe 2.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/sub lobes.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/small lobe meas.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/setup 2.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/setup 1.png",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images",
     "Mathematics and Geometry/Real Analysis/Untitled.md",
     "Mathematics and Geometry/Real Analysis",
     "University Tasks/Experimental Physics/Fourier Optics Experiment",
@@ -187,12 +190,9 @@
     "Art/Projects/Ocean Comic/Plot",
     "Art/Projects/Alien Comic/Alien Comic Plans.md",
     "Art/Projects/Alien Comic/Material/Bonding in Car before Operation.md",
-    "Art/Projects/Alien Comic/Material/Interview.md",
-    "Art/Projects/Alien Comic/Material/Sleeping Daughter Episode.md",
     "Physics/7 Speculations of the Note Taker/Topological Soliton in Spacetime",
     "Physics/7 Speculations of the Note Taker/Measurement Problem",
     "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field",
-    "Engineering/Software Systems",
-    "Engineering/Computer Systems"
+    "Engineering/Software Systems"
   ]
 }
