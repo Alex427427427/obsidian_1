@@ -2,7 +2,7 @@ Category: [[Quantum Mechanics]] [[Relativity]]
 ___
 Prerequisites: [[1 Lagrangian, Action, Principle of Stationary Action]]
 ___
-Related: [[5 Noether's Theorem - Symmetries of the Lagrangian]]
+Related: [[5 Noether's Theorem - Symmetries of the Lagrangian]] [[Path Integral Formulation]]
 ___
 While the birth of quantum formalism was forced upon by strange experiments, arguably the most important idea is the discovery of *discrete action*. 
 ## Discrete Action
