@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40c8b449119f92a3",
+        "id": "f75721972b633c5c",
         "type": "tabs",
         "children": [
           {
-            "id": "c8e540d0ec4ccafd",
+            "id": "b9205c56fd41f16a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8e540d0ec4ccafd",
+  "active": "b9205c56fd41f16a",
   "lastOpenFiles": [
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/14 Diffraction and Interference of EM Waves.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
+    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/14 Diffraction and Interference of EM Waves.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
