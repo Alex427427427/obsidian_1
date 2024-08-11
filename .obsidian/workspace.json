@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f75721972b633c5c",
+        "id": "819f9ca22d0b6784",
         "type": "tabs",
         "children": [
           {
-            "id": "b9205c56fd41f16a",
+            "id": "8626327b655aa954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Path Integral Formulation.md",
+                "file": "University Tasks/Engineering FYP/Beamforming Project Desc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Path Integral Formulation.md",
+                "file": "University Tasks/Engineering FYP/Beamforming Project Desc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Path Integral Formulation.md",
+                "file": "University Tasks/Engineering FYP/Beamforming Project Desc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Path Integral Formulation.md"
+                "file": "University Tasks/Engineering FYP/Beamforming Project Desc.md"
               }
             }
           }
@@ -146,21 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9205c56fd41f16a",
+  "active": "830d73b709bf76a1",
   "lastOpenFiles": [
-    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/0 Discrete Action Relationships.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
+    "University Tasks/Engineering FYP/Beamforming Project Desc.md",
     "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/Path Integral Formulation.md",
+    "University Tasks/Engineering FYP",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/0 Discrete Action Relationships.md",
     "Physics/4 Quantum Physics/0 Foundational Quantum Experiments/Ultraviolet Catastrophe in Black Body Radiation.md",
     "Physics/4 Quantum Physics/0 Foundational Quantum Experiments/Stern-Gerlach Experiment.md",
     "Physics/4 Quantum Physics/0 Foundational Quantum Experiments/Single Particle Double Slit.md",
     "Physics/4 Quantum Physics/0 Foundational Quantum Experiments/Photoelectric Effect.md",
     "Physics/4 Quantum Physics/0 Foundational Quantum Experiments/Emission Spectrum of Hydrogen.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
     "Supplementary Images/spatial coherence.png",
     "Supplementary Images/temporal coherence.png",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/14 Diffraction and Interference of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/images/med hori gray.png",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/images/med hori gray fft.png",
@@ -188,11 +190,9 @@
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/7 Momentum and Angular Momentum of the EM Field.md",
     "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/18 Maxwell Potential Equations in The Lorentz Gauge.md",
     "Tags/Software.md",
-    "Art/Projects/Alien Comic/Material/Veil around Susan as Dark Matter.md",
     "Art/Projects/Ocean Comic/Plot",
     "Physics/7 Speculations of the Note Taker/Topological Soliton in Spacetime",
     "Physics/7 Speculations of the Note Taker/Measurement Problem",
-    "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field",
-    "Engineering/Software Systems"
+    "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field"
   ]
 }

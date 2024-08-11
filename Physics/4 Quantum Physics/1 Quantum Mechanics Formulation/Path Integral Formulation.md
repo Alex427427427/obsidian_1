@@ -7,3 +7,5 @@ ___
 $$\boxed{P=\int_{paths}e^{iS[path]/\hbar}Dpath}$$Action $S$, when divided by Planck's constant, is phase. 
 $P$ is the probability of an event, and path is a path that connects the initial and final states of the event. 
 
+The classical limit is when $S$ is much larger than $\hbar$ which makes the 
+
