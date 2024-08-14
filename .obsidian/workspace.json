@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fefc690ba9f0aa20",
+        "id": "1b8a098b2aad5531",
         "type": "tabs",
         "children": [
           {
-            "id": "8ddd6018dd4e6e7a",
+            "id": "90a7acc8a22fbc25",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Art/Projects/Alien Comic/Alien Comic Cause-Effect Chain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Art/Projects/Alien Comic/Alien Comic Cause-Effect Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Art/Projects/Alien Comic/Alien Comic Cause-Effect Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Art/Projects/Alien Comic/Alien Comic Cause-Effect Chain.md"
+              }
             }
           }
         ]
@@ -138,36 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ddd6018dd4e6e7a",
+  "active": "90a7acc8a22fbc25",
   "lastOpenFiles": [
+    "Art/Projects/Ocean Comic/Characters/The Missing Professor Landon.md",
+    "Art/Projects/Alien Comic/Alien Comic Cause-Effect Chain.md",
+    "Art/Projects/Alien Comic/Alien Comic Plans.md",
+    "Art/Projects/Alien Comic/Material/Veil around Susan as Dark Matter.md",
+    "Art/Projects/Alien Comic/Material/Marco's Purpose.md",
+    "Art/Projects/Alien Comic/Material/Interview.md",
+    "Art/Projects/Alien Comic/Material/Coersion to Give up.md",
+    "Art/Projects/Alien Comic/Material/Communication Down.md",
+    "Art/Projects/Alien Comic/Material/Bonding in Car before Operation.md",
+    "Art/Projects/Ocean Comic/Plot/0 Heart of the Ocean Plot Outline.md",
+    "Art/Projects/Alien Comic/Material/Sleeping Daughter Episode.md",
+    "Art/Projects/Ocean Comic/Characters/The Substitute Lecturer Fara.md",
+    "Art/Projects/Ocean Comic/Characters/The Narrator, PhD student Yang.md",
+    "Art/Motifs/City Lights.md",
+    "Art/Motifs/Ocean.md",
+    "Art/Projects/Career Comic/Idea.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Wavelet Derivation.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Convolution View.md",
+    "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
     "Engineering/Radio Frequency Engineering/Antenna/Far-field Radiation Pattern.md",
     "Mathematics and Geometry/Fourier Analysis/1 Fourier Transform and Frequency Domain.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Untitled",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
     "Atlas of Life/Career Directions/Theoretical Physics Research.md",
     "Atlas of Life/Career Directions/Untitled.md",
     "Atlas of Life/Career Directions/RF Engineering.md",
-    "Atlas of Life/Career Directions/Photonics Research.md",
-    "Atlas of Life/Career Directions/Nuclear Engineering.md",
-    "Atlas of Life/Career Directions/Rover Engineer.md",
-    "Mathematics and Geometry/Real Analysis/Properties of Supremum.md",
-    "Mathematics and Geometry/Real Analysis/Continuous Property of Reals.md",
-    "Mathematics and Geometry/Real Analysis/Cauchy Sequence.md",
-    "Mathematics and Geometry/Real Analysis/Real Analysis Proof Techniques.md",
-    "Tags/Real Analysis.md",
-    "Art/Master Watch and Read List.md",
     "Mathematics and Geometry/Real Analysis",
-    "Mathematics and Geometry/Fourier Analysis/4 Fourier Uncertainty Principle.md",
-    "Mathematics and Geometry/Fourier Analysis/3 Aliasing and Nyquist Sampling Theorem.md",
-    "Mathematics and Geometry/Fourier Analysis/2 Discrete Fourier Transform.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/14 Maxwell Equation - Faraday's Law of Induction.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/16 Corrected Potentials and Gauge Transform.md",
-    "Art/Projects/Alien Comic/Alien Comic Plans.md",
-    "Art/Projects/Alien Comic/Material/Coersion to Give up.md",
     "Art/Projects/Career Comic",
     "University Tasks/Engineering FYP",
     "Supplementary Images/spatial coherence.png",

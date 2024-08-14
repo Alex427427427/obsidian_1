@@ -8,3 +8,5 @@ Painstaking search for a cosmic purpose and the best career.
 "I only have one life. I must not waste it."
 ## Epilogue
 One more thing. My struggles are likely not unique to myself. If I record my wrestle with meaning for others to reflect upon in the future, then my life has not been wasted. 
+
+

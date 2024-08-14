@@ -66,4 +66,4 @@ For a one dimension distribution:
 $$\boxed{\Psi(x, z)=\frac{e^{ik_\omega z}}{\sqrt{i\lambda z}}e^{-ik_\omega\vec r^2/2z}\int_{-\infty}^{\infty}\Psi(x^\prime, 0)e^{-ik_x\vec x^\prime}dx^\prime}$$
 The intensity for a one dimension distribution:
 $$\boxed{I(x, z)=\frac{1}{\lambda z}|\tilde\Psi(k_x,0)|^2}$$
-Notice that the pattern does not change, and only gets scaled. This is characteristic of the far field.  
+Notice that as $z$ increases, the pattern does not fundamentally change, and only gets scaled. This is characteristic of the far field.  
