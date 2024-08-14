@@ -1,6 +1,6 @@
 Category: [[Classical Optics]]
 ___
-Prerequisites: [[Fourier Optics]] [[Gaussian is FT of Itself]]
+Prerequisites: [[Fourier Optics - Wavelet Derivation]] [[Gaussian is FT of Itself]]
 ___
 Related: 
 ___

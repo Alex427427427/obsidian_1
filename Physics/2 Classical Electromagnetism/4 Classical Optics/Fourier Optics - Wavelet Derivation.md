@@ -2,7 +2,7 @@ Category: [[Classical Optics]]
 ___
 Prerequisites: [[1 Fourier Transform and Frequency Domain]] [[Antenna Aperture Function]]
 ___
-Related: [[14 Diffraction and Interference of EM Waves]]
+Related: [[14 Diffraction and Interference of EM Waves]] [[Fourier Optics - Convolution View]]
 ___
 Fourier optics brings the understanding of light propagation to a new height. 
 ## Summary of Prerequisites
@@ -20,23 +20,25 @@ Before there was the notion of Fourier optics, it was intuited that every locati
 (Note: the following derives the amplitude of the potential. To obtain the electric field, perform a spatial derivative and end up with an extra factor of $ik$ or $i2\pi/\lambda$ at front.)
 
 Let's put the above idea to formulae. Let us restrict our view to one dimension. $x$ shall be the axis pointing up along the aperture plane, $z$ shall be the axis pointing perpendicular to it, towards the right, with the aperture plane at zero. Suppose the incident wave is restricted to a harmonic wave, with wavelength $\lambda$ and thus $k=2\pi/\lambda$. Then for a point source situated at $x_0$, the total wave pattern $\Psi$ at a distance $r$ away from the source is just the spherical wave $e^{ikr}/r$ integrated by the dirac delta distribution. 
-$$\Psi(r)=\int_{-\infty}^\infty\delta(x^\prime-x_0)\frac{e^{ikr}}{r}dx^\prime$$
+$$\Psi(r)\propto\int_{-\infty}^\infty\delta(x^\prime-x_0)\frac{e^{ikr}}{r}dx^\prime$$
 Note that $r$ is the distance from the specific source at $x_0$. If we express this term in $z$ and $(x-x^\prime)$ with pythagoras, we get:
-$$\Psi(z,x)=\int_{-\infty}^\infty\delta(x^\prime-x_0)\frac{e^{ik\sqrt{z^2+(x-x^\prime)^2}}}{\sqrt{z^2+(x-x^\prime)^2}}dx^\prime$$
+$$\Psi(z,x)\propto\int_{-\infty}^\infty\delta(x^\prime-x_0)\frac{e^{ik\sqrt{z^2+(x-x^\prime)^2}}}{\sqrt{z^2+(x-x^\prime)^2}}dx^\prime$$
 For a general aperture density distribution, or the aperture function $A(x)$, it is:
-$$\Psi(z,x)=\int_{-\infty}^\infty A(x^\prime)\frac{e^{ik\sqrt{z^2+(x-x^\prime)^2}}}{\sqrt{z^2+(x-x^\prime)^2}}dx^\prime$$
+$$\Psi(z,x)\propto\int_{-\infty}^\infty A(x^\prime)\frac{e^{ik\sqrt{z^2+(x-x^\prime)^2}}}{\sqrt{z^2+(x-x^\prime)^2}}dx^\prime$$
 ##### Para-axial approximation - intermediate field
 In the paraxial approximation, where $z\gg x$, the denominator reduces to $z$. However, the exponent of $e$ cannot be reduced as such, because the complex exponential map has the possibility of sending $kx$ to anywhere in the phase cycle. Thus we maintain the presence of $x$ to first order:
-$$\Psi(z,x)=\int_{-\infty}^\infty A(x^\prime)\frac{e^{ikz(1+(x-x^\prime)^2/2z^2)}}{z}dx^\prime$$
-$$\boxed{\Psi(z,x)=\frac{e^{ikz}}{z}\int_{-\infty}^\infty A(x^\prime)e^{ik(x-x^\prime)^2/2z}dx^\prime}$$
+$$\Psi(z,x)\propto\int_{-\infty}^\infty A(x^\prime)\frac{e^{ikz(1+(x-x^\prime)^2/2z^2)}}{z}dx^\prime$$
+$$\boxed{\Psi(z,x)\propto\frac{e^{ikz}}{z}\int_{-\infty}^\infty A(x^\prime)e^{ik(x-x^\prime)^2/2z}dx^\prime}$$
 This is the **Fresnel integral** - where the only approximating assumption is the paraxial. This integral is valid in the intermediate field pattern. 
 ##### Far-field approximation - Fourier Transform Emerges
 To proceed, we make the further assumption that the slit itself is very small compared to the distance along $x$ in which we measure the radiation pattern. In other words, $x^\prime\ll x$. Thus:
-$$\Psi(z,x)=\frac{e^{ikz}}{z}\int_{-\infty}^\infty A(x^\prime)e^{ikx^2(1-2x^\prime/x)/2z}dx^\prime$$
-$$\Psi(z,x)=\frac{e^{ikz}}{z}e^{ikx^2/2z}\int_{-\infty}^\infty A(x^\prime)e^{-ikxx^\prime/z}dx^\prime$$
+$$\Psi(z,x)\propto\frac{e^{ikz}}{z}\int_{-\infty}^\infty A(x^\prime)e^{ikx^2(1-2x^\prime/x)/2z}dx^\prime$$
+$$\Psi(z,x)\propto\frac{e^{ikz}}{z}e^{ikx^2/2z}\int_{-\infty}^\infty A(x^\prime)e^{-ikxx^\prime/z}dx^\prime$$
 Now, we make the observation that $kx/z$ is approximately $kx/r$, which is the $x$ component of the wave vector $\vec k$ with magnitude $k$. thus:
-$$\boxed{\Psi(z,x)=\frac{e^{ikz}}{z}e^{ik_xx/2}\int_{-\infty}^\infty A(x^\prime)e^{-ik_xx^\prime}dx^\prime}$$
+$$\boxed{\Psi(z,x)\propto\frac{e^{ikz}}{z}e^{ik_xx/2}\int_{-\infty}^\infty A(x^\prime)e^{-ik_xx^\prime}dx^\prime}$$
 We now see the integral transform that is the Fourier Transform. **This is the foundation of Fourier optics**, also called the Fraunhofer diffraction equation. We should now interpret this result. 
+
+**To obtain an exact expression, see [[Fourier Optics - Convolution View]]**.
 ## Interpretation
 ##### The terms outside integral
 The complex exponential terms outside the integral do not affect the power distribution of the field that lands along $x$. For one, the term involving $z$ is fixed for all values of $x$, and two, the term involving $x$ only introduces a phase shift - an additional phase shift related to the fact that the wave has to travel longer to reach larger $x$. This term will disappear when we convert to the observable intensity. 

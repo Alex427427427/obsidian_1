@@ -1,6 +1,6 @@
 Category: [[Tags/RF Engineering]]
 ___
-Prerequisites: [[Fourier Optics]] [[Far-field Radiation Pattern]] [[Antenna Aperture Function]] [[14 Diffraction and Interference of EM Waves]]
+Prerequisites: [[Fourier Optics - Wavelet Derivation]] [[Far-field Radiation Pattern]] [[Antenna Aperture Function]] [[14 Diffraction and Interference of EM Waves]]
 ___
 Related:
 ___

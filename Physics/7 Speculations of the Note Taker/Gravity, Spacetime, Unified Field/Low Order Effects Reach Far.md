@@ -1,6 +1,6 @@
 Category: [[Speculation]]
 ___
-Prerequisite: [[Fourier Optics]]
+Prerequisite: [[Fourier Optics - Wavelet Derivation]]
 ___
 Related: 
 ___

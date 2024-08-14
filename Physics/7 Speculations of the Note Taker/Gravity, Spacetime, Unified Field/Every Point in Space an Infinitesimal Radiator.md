@@ -1,6 +1,6 @@
 Category: [[Speculation]]
 ___
-Prerequisites: [[14 Diffraction and Interference of EM Waves]] [[Fourier Optics]]
+Prerequisites: [[14 Diffraction and Interference of EM Waves]] [[Fourier Optics - Wavelet Derivation]]
 ___
 Related:
 ___

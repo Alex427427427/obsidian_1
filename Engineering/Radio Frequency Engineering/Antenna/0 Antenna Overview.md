@@ -1,6 +1,6 @@
 Category: [[Tags/RF Engineering]]
 ___
-Prerequisites: [[13 Radiation of EM Waves]] [[Fourier Optics]] 
+Prerequisites: [[13 Radiation of EM Waves]] [[Fourier Optics - Wavelet Derivation]] 
 ___
 Related: 
 ___
@@ -17,4 +17,4 @@ The primary consideration for efficiency and radiation patterns is geometry. The
 ## Aiding Components
 Lenses, mirrors, waveguides, apertures, can all further reshape the radiation pattern. 
 ## Aperture
-An angular distribution that captures the same information as the radiation pattern. The aperture function is the fourier transform of the far field radiation pattern. See [[Fourier Optics]]. 
+An angular distribution that captures the same information as the radiation pattern. The aperture function is the fourier transform of the far field radiation pattern. See [[Fourier Optics - Wavelet Derivation]]. 
