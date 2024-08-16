@@ -21,7 +21,17 @@ ___
 - Lucas is relieved Susan will be taken care of by Patricia. 
 - On his own, Lucas executes the plan he set in motion much earlier to frame Alma as an Enlightenment Society mole in the government. This de-legitimises the evidences against him. 
 - In a secret room, Patricia tells Susan not to worry. However, she prepares to kill Susan. Patricia hints that Susan being the wife of Marco may know something fatal to her plans. Susan promises she doesn't, but Patricia doesn't believe her - no important secrets can exist between husband and wife. 
-- Lucas successfully leaves the interrogation and goes to Patricia's house. This is where Patricia reveals that she is the mastermind all along. She has just finished playing the doomsday song to Susan. Patricia explains her entire plan and offers Lucas to join her. She also tells Lucas to give up, which would make the pain stop. Lucas refuses, so Patricia keeps him at her place under house arrest. For strange reasons, she is not intent on killing him. 
+- Lucas successfully leaves the interrogation and goes to Patricia's house. This is where Patricia reveals that she is the mastermind all along. She has just finished playing the doomsday song to Susan. Patricia explains her entire plan and offers Lucas to join her. She also tells Lucas to give up, which would make the pain stop. Lucas refuses, so Patricia can't let him go. For strange reasons, she is not intent on killing him. Patricia erases Lucas from existence. She hands Alma a resignation letter from Lucas. She moves Lucas to a new city in Eurasia, under house arrest. 
 - Lucas proposes to bury Susan somewhere, which Patricia allows. 2 soldiers accompany Lucas to the cryo chambers where he puts Susan. 
 ##### World Ending
-- At Patricia's place, Lucas seems dysfunctional. There is nothing better than being alive 
+- Lucas seems dysfunctional in the new city. All he does is sit at the windows, looking at the sky. Suddenly, Lucas sees a star blink. He suddenly realises what it was. When looking down at the streets, and people's shadows phasing in and out of the street lights, and hearing the guards say "you can't trust your eyes. Even if you can't see them, there are probably people hiding in between the light." This makes Lucas realise Marco's ultimate secret, that dark matter is alien civilisations. He then deduces that the boltzmann noise from the spacetime channel is alien communications. He knows Factory Array wants to know where Satellite 6 is. The blinking star is the daily transit of Satellite 6. 
+- Alma and others at the DAP begin investigating Lucas' sudden resignation. They eventually discover Patricia's activities. 
+- The Factory Array sees everything, and sends drones to Lucas' apartment window, shot down by the soldiers guarding Lucas. 
+- Someone tries to signal to Lucas. They manage to establish comms. Lucas tells them to go mass produce ear plugs, and hand it to people. 
+- The person gets caught by Patricia, who brings the person to Lucas, killing the person in front of him with the doomsday song, demonstrating that even ear plugs won't protect people. Patricia tells Lucas to give up. 
+- But the ear plugs are a distraction. Lucas instead somehow managed to deliver to the Factory Array the angular coordinates of Satellite 6. 
+- Just as Alma and DAP gang comes for Lucas, Patricia tells the conspiracy members to play the song, and everyone was put to sleep. 
+##### Frequency Domain
+- Patricia reunite with students, Lucas realises she was his teacher all those years ago. Explains to her that her plan will fail. She breaks down. 
+- Susan meets Marco. Talk about being alive and her memories with Lucas are from the future. 
+- Song comes back, FA plays, Lucas finds Susan, she wakes up. They walk into the city lights. 

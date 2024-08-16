@@ -16,6 +16,8 @@ Patricia has a group of recruiters that find doomers, introduce them to the doom
 Leads a neuroscience lab. Patricia initially approached him, promising him a good life and limitless funding. He accepted. Over time, he became partial to her cause. The two would fall in love. 
 ##### Lucas 
 Unbeknownst to Lucas, he has been serving Patricia's plan by listening to her. 
+##### Members of the secret police
+Patricia has claims over a sector of the secret police that answers directly to her. 
 ## Keys to Success
 ##### people to hold onto the doomsday song
 She needs a large group of people committed to her goal, ready to seize the broadcast towers to play the song when the time is right. 
