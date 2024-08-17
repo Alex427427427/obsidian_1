@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7581b331b5b919d8",
+        "id": "2221e2862c423c9c",
         "type": "tabs",
         "children": [
           {
-            "id": "cefba48f446733dc",
+            "id": "1c8cfae03acfe20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Projects/Alien Comic/Alien Comic Plot.md",
+                "file": "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 312.5
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Projects/Alien Comic/Alien Comic Plot.md",
+                "file": "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Projects/Alien Comic/Alien Comic Plot.md",
+                "file": "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Projects/Alien Comic/Alien Comic Plot.md"
+                "file": "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md"
               }
             }
           }
@@ -146,23 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cefba48f446733dc",
+  "active": "1c8cfae03acfe20f",
   "lastOpenFiles": [
-    "Art/Projects/Alien Comic/Alien Comic Plans.md",
-    "Art/Projects/Alien Comic/Setting/History of Eurasia Timeline.md",
-    "Art/Projects/Alien Comic/Setting/Doomsday Song.md",
-    "Art/Projects/Alien Comic/Setting/Department of Abnormal Phenomena.md",
-    "Art/Projects/Alien Comic/Setting/The Enlightenment Society.md",
-    "Art/Projects/Alien Comic/Setting/The Flowerhead Syndrome.md",
-    "Art/Projects/Alien Comic/Alien Comic Plot.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Plans.md",
+    "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Individual Episodes.md",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference/Two Slit Single Photon Interference Experimental Logs.md",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/Abstract.md",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
     "Art/Projects/Alien Comic/Alien Comic Titles.md",
-    "Art/Projects/Career Comic/Idea.md",
-    "Art/Projects/Alien Comic/Setting/Department of Information and Statistics.md",
-    "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
+    "Art/Projects/Alien Comic/Characters/List of Characters.md",
     "Art/Projects/Alien Comic/Setting/Eurasian Federation Government.md",
-    "Art/Projects/Alien Comic/Alien Comic Individual Episodes.md",
+    "Art/Projects/Alien Comic/Plot",
+    "Art/Projects/Alien Comic/Setting/Department of Abnormal Phenomena (D.A.P.).md",
+    "Art/Projects/Alien Comic/Setting/History of Eurasia Timeline.md",
+    "Art/Projects/Alien Comic/Setting/The Flowerhead Syndrome.md",
+    "Art/Projects/Alien Comic/Setting/Doomsday Song.md",
+    "Art/Projects/Alien Comic/Setting/Bureau of Information and Statistics.md",
+    "Art/Projects/Alien Comic/Setting/The Enlightenment Society.md",
+    "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
+    "Supplementary Images/Pasted image 20240816031501.png",
+    "Supplementary Images/Pasted image 20240816030736.png",
     "Art/Projects/Alien Comic/Characters/Lucas Yang.md",
     "Art/Projects/Alien Comic/Characters/Patricia Williams, Director of Statistics and Information.md",
+    "Art/Projects/Career Comic/Idea.md",
     "Art/Projects/Alien Comic/Setting/Untitled",
     "Art/Projects/Alien Comic/Setting/Current State of Eurasia.md",
     "Art/Master Watch and Read List.md",
@@ -170,16 +179,9 @@
     "Art/Themes and Subject Matters/Information.md",
     "Art/Themes and Subject Matters/Humanity's Triumph.md",
     "Art/Themes and Subject Matters/Conspiracy.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Convolution View.md",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
-    "Supplementary Images/Pasted image 20240816031501.png",
-    "Supplementary Images/Pasted image 20240816030736.png",
     "Art/Projects/Alien Comic/Setting",
     "Art/Projects/Alien Comic/Characters",
     "Art/Projects/Alien Comic/Threads",
-    "Art/Projects/Ocean Comic/Characters/The Missing Professor Landon.md",
-    "Art/Projects/Alien Comic/Material Bank/Veil around Susan as Dark Matter.md",
-    "Art/Projects/Alien Comic/Material Bank/Marco's Purpose.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Untitled",
     "Mathematics and Geometry/Real Analysis",
     "Art/Projects/Career Comic",
@@ -191,8 +193,6 @@
     "University Tasks/Experimental Physics/Fourier Optics Experiment/images/med hori 3.png",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/images/iris lobe 4.png",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/images/iris lobe 3.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/iris lobe 2.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/images",
-    "Mathematics and Geometry/Real Analysis"
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/iris lobe 2.png"
   ]
 }

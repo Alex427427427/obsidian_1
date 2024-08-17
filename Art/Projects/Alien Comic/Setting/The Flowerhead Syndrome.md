@@ -8,6 +8,7 @@ The prisoners who heard various amounts of the song, developed various extents o
 ## Symptoms
 - Deformations of the head, as if the brain was stretched and molded by the song, and the frame followed the brain. 
 - Dissociation with spacetime. Disappearing and reappearing elsewhere. Stochastically recalling events from the future or a distant past. 
+- Others around will be able to hear certain thoughts from those contracted with the syndrome. 
 ## The Spreaders
 Some prisoners thought this was a god given gift. They move around Eurasia, converting more people to this state, by singing the song that rings in their heads to them. Due to the difficulty in capturing them, Patricia and Lambda were unable to contain the disease. 
 ## Responses
