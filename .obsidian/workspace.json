@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2221e2862c423c9c",
+        "id": "03906be6889120ee",
         "type": "tabs",
         "children": [
           {
-            "id": "1c8cfae03acfe20f",
+            "id": "61835dc30f9e7eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
+                "file": "Engineering/Space Engineering/Radiation Hardening.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 355.5
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
+                "file": "Engineering/Space Engineering/Radiation Hardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
+                "file": "Engineering/Space Engineering/Radiation Hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md"
+                "file": "Engineering/Space Engineering/Radiation Hardening.md"
               }
             }
           }
@@ -146,19 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c8cfae03acfe20f",
+  "active": "61835dc30f9e7eb6",
   "lastOpenFiles": [
+    "Engineering/Analogue Electronics/Oscillators.md",
+    "Engineering/Analogue Electronics/Phase Locked Loop (PLL).md",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
     "Art/Projects/Alien Comic/Plot/Alien Comic Plans.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
+    "Art/Projects/Alien Comic/Alien Comic Titles.md",
+    "Art/Story Writing Theory/Mystery Elements.md",
+    "Art/Projects/Alien Comic/Setting/Eurasian Federation Government.md",
+    "Art/Story Writing Theory/2 What is a Character.md",
+    "Art/Story Writing Theory/1 What is a Story.md",
     "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
     "Art/Projects/Alien Comic/Plot/Alien Comic Individual Episodes.md",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/Two Slit Single Photon Interference Experimental Logs.md",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/Abstract.md",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
-    "Art/Projects/Alien Comic/Alien Comic Titles.md",
     "Art/Projects/Alien Comic/Characters/List of Characters.md",
-    "Art/Projects/Alien Comic/Setting/Eurasian Federation Government.md",
     "Art/Projects/Alien Comic/Plot",
     "Art/Projects/Alien Comic/Setting/Department of Abnormal Phenomena (D.A.P.).md",
     "Art/Projects/Alien Comic/Setting/History of Eurasia Timeline.md",
@@ -174,11 +179,6 @@
     "Art/Projects/Career Comic/Idea.md",
     "Art/Projects/Alien Comic/Setting/Untitled",
     "Art/Projects/Alien Comic/Setting/Current State of Eurasia.md",
-    "Art/Master Watch and Read List.md",
-    "Art/Themes and Subject Matters/Lovelessness.md",
-    "Art/Themes and Subject Matters/Information.md",
-    "Art/Themes and Subject Matters/Humanity's Triumph.md",
-    "Art/Themes and Subject Matters/Conspiracy.md",
     "Art/Projects/Alien Comic/Setting",
     "Art/Projects/Alien Comic/Characters",
     "Art/Projects/Alien Comic/Threads",

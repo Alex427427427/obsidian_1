@@ -2,6 +2,8 @@ Category: [[Art]] [[Alien Comic]]
 ___
 Related: 
 ___
+## Hook
+Conspiracy theories. 
 ## Themes 
 [[Information]] and [[Humanity's Triumph]]. See those documents. 
 ## Big Idea
