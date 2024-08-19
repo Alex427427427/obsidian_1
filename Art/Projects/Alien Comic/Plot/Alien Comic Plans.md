@@ -3,7 +3,7 @@ ___
 Related: 
 ___
 ## Hook
-Conspiracy theories. 
+Depict conspiracy theories and theorists. Illuminati. Aliens. 
 ## Themes 
 [[Information]] and [[Humanity's Triumph]]. See those documents. 
 ## Big Idea

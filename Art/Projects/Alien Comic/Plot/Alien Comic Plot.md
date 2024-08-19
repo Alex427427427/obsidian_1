@@ -29,7 +29,7 @@ ___
 - The Factory Array sees everything, and sends drones to Lucas' apartment window, shot down by the soldiers guarding Lucas. 
 - Someone tries to signal to Lucas. They manage to establish comms. Lucas tells them to go mass produce ear plugs, and hand it to people. 
 - The person gets caught by Patricia, who brings the person to Lucas, killing the person in front of him with the doomsday song, demonstrating that even ear plugs won't protect people. Patricia tells Lucas to give up. 
-- But the ear plugs are a distraction. Lucas instead somehow managed to deliver to the Factory Array the angular coordinates of Satellite 6. 
+- **But the ear plugs are a distraction. Lucas instead somehow managed to deliver to the Factory Array the angular coordinates of Satellite 6.** 
 - Just as Alma and DAP gang comes for Lucas, Patricia tells the conspiracy members to play the song, and everyone was put to sleep. 
 ##### Frequency Domain
 - Patricia reunite with students, Lucas realises she was his teacher all those years ago. Explains to her that her plan will fail. She breaks down. 

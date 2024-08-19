@@ -10,14 +10,19 @@ A place of glorious industry
 I insert a blueprint
 of a very special thing
 And I wait
+
 When the sun sets, I collect the fruit of my labour
 My conspiracy is complete
 I come to you with my gift
+It would mean the world to me
+If you would wear it often. 
+
 **It is a robe made with the blackness of space. 
 I wrap the robe around you
 You wrap your arms around me. 
 Above us, the city lights shine like stars. 
 And beneath them, we have become ghosts.** 
+(Kneeling beside Susan's corpse, when Lucas touches her dress, he notices how the dress glistens in the light.)
 ##### A message for Lucas
 Once, Susan told me a childish idea. 
 It captivated me so much, 
