@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
+                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/2 Matrix Mechanics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
+                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/2 Matrix Mechanics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
+                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/2 Matrix Mechanics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md"
+                "file": "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/2 Matrix Mechanics.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "61835dc30f9e7eb6",
   "lastOpenFiles": [
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/3 Dirac's Braket Notation.md",
+    "Physics/4 Quantum Physics/1 Quantum Mechanics Formulation/2 Matrix Mechanics.md",
+    "Physics/2 Classical Electromagnetism/5 Relativistic Electromagnetism/3 The Relativistic Maxwell Equations.md",
+    "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
     "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
     "Art/Projects/Alien Comic/Material Bank/How Lucas Delivers Satellite 6 Coords to Factory Array.md",
     "Art/Projects/Alien Comic/Plot/Alien Comic Plans.md",
@@ -158,7 +162,6 @@
     "Art/Projects/Alien Comic/Material Bank/Marco's Purpose.md",
     "Art/Projects/Alien Comic/Material Bank/Introducing Dark Matter.md",
     "Art/Projects/Alien Comic/Material Bank/Coersion to Give up.md",
-    "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
     "Art/Projects/Alien Comic/Plot/Alien Comic Individual Episodes.md",
     "Art/Projects/Alien Comic/Material Bank/How.md",
     "Art/Projects/Alien Comic/Material Bank/Interview.md",
@@ -171,10 +174,7 @@
     "Art/Projects/Alien Comic/Setting/Eurasian Federation Government.md",
     "Art/Story Writing Theory/2 What is a Character.md",
     "Art/Story Writing Theory/1 What is a Story.md",
-    "University Tasks/Experimental Physics/One Photon Two Slits Interference/Two Slit Single Photon Interference Experimental Logs.md",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/Abstract.md",
-    "Art/Projects/Alien Comic/Characters/List of Characters.md",
     "Art/Projects/Alien Comic/Plot",
     "Supplementary Images/Pasted image 20240816031501.png",
     "Supplementary Images/Pasted image 20240816030736.png",
