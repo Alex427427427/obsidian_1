@@ -7,3 +7,5 @@ Established by the Factory Array.
 When civilisation matured, they were eventually hunted to extinction. Patricia saw this happen in front of her eyes, and it fuelled her despair. 
 
 Nowadays, she uses this society's name to motivate people to work for her conspiracy. 
+## Catchphrases
+Novus ordo saeculorum. (A new order for the ages)
