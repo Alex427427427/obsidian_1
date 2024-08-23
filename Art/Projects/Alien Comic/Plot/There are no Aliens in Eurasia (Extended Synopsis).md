@@ -1,12 +1,13 @@
 Category: [[Art]] [[Alien Comic]]
 ___
 ## Important to Keep in Mind
-The hook of the story - the promise set by the premise to the reader - you must deliver them. 
+The hook of the story - the promise set by the premise to the reader - you must deliver them. Frequently remind with the phrase "there are no aliens in Eurasia."
 **Illuminati; conspiracy theorists; aliens.**
 ## Act 1
 ##### Begin with Microcosm of the Story, Set Expectations, Introduce Cast
 *{Show the reader "this is a story about conspiracies, illuminati, aliens".}*
 
+Episodic cases. Alien in the trees. 
 ##### Inciting Incident
 *{A slip up in the Conspiracy's otherwise perfect plan.}*
 
@@ -17,6 +18,7 @@ The hook of the story - the promise set by the premise to the reader - you must 
 ##### Main Investigation Stage
 *{Seeker gains information, encounters resistance from the Conspiracy.}*
 
+With Lucas' privileges, Susan and Lucas are able to follow her patients across Eurasia, in order to isolate the disease transmission event. At a tango event, Susan invites Lucas to a dance. They remember their university days. 
 ##### Turning Point 
 *{The plot has a major twist (The disease is spread by a song). Everything that came before has been recast into a new light. Big things are coming after. Appropriate time to execute the end of a social conflict plot within the seeker group (Susan argues with Lucas about his continued investigation of Marco's death despite her wishes).}*
 
@@ -76,4 +78,4 @@ DAP plays the song at various nodes of the speaker network. Members of the World
 Susan is glad to be with Marco, but he tells her she must go and live a good life with Lucas - Susan's form is phasing away from the frequency domain, presumably back to the world. Susan is confused because her body would have decayed long ago. Marco tells her that someone must had preserved it. We see that Lucas had put her body in the abandoned cryogenic vaults. 
 ##### New World
 *{The new state of the world after the events of the story.}*
-People are waking up in their homes. The streets are filled with car crashes but otherwise empty. Lucas goes to the abandoned cryogenic vault to find Susan. They walk together into the city lights. 
+People are waking up in their homes. The streets are filled with car crashes but otherwise empty. Lucas goes to the abandoned cryogenic vault to find Susan. They walk together into the city lights. From that point on in history, aliens were never seen again in Eurasia. 
