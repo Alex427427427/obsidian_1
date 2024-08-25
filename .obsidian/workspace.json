@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
+                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia Extended Synopsis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "70af218d33a6f848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art/Projects/Alien Comic/Material Bank/Susan breakdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
+                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia Extended Synopsis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
+                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia Extended Synopsis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md"
+                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia Extended Synopsis.md"
               }
             }
           }
@@ -148,35 +160,35 @@
   },
   "active": "8f8eced113ced742",
   "lastOpenFiles": [
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plans.md",
-    "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
     "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
-    "Art/Projects/Alien Comic/Material Bank/Marco red herring.md",
-    "Art/Projects/Alien Comic/Material Bank/Veil around Susan as Dark Matter.md",
-    "Art/Projects/Alien Comic/Material Bank/Bonding in Car before Operation.md",
-    "Art/Projects/Alien Comic/Material Bank/Marco's Purpose.md",
-    "Art/Projects/Alien Comic/Material Bank/Sleeping Daughter Episode.md",
-    "Art/Projects/Alien Comic/Material Bank/Introducing Dark Matter.md",
-    "Art/Projects/Alien Comic/Setting/Department of Abnormal Phenomena (D.A.P.).md",
-    "Art/Projects/Alien Comic/Setting/Bureau of Information and Statistics.md",
-    "Art/Projects/Alien Comic/Setting/History of Eurasia Timeline.md",
-    "Art/Projects/Alien Comic/Setting/Eurasian Federation Government.md",
-    "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
-    "Art/Projects/Alien Comic/Setting/Doomsday Song.md",
-    "Art/Projects/Alien Comic/Setting/The Flowerhead Syndrome.md",
-    "Art/Projects/Alien Comic/Setting/The World Science Foundation.md",
-    "Art/Projects/Alien Comic/Setting/The Enlightenment Society.md",
-    "University Tasks/Experimental Physics/Untitled",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Plans.md",
+    "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia Extended Synopsis.md",
+    "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia Outline.md",
     "Art/Projects/Alien Comic/Material Bank/Susan breakdown.md",
-    "University Tasks/Experimental Physics/One Photon Two Slits Interference/Two Slit Single Photon Interference Experimental Logs.md",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+    "Art/Projects/Alien Comic/Material Bank/Veil around Susan as Dark Matter.md",
+    "Art/Projects/Alien Comic/Material Bank/Sleeping Daughter Episode.md",
+    "Art/Themes and Subject Matters/Conspiracy.md",
+    "Art/Projects/Alien Comic/Material Bank/Marco red herring.md",
+    "Art/Projects/Alien Comic/Material Bank/Introducing Dark Matter.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Lightning.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Parasitic Capacitance.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Triboelectric Effect.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Skin Effect.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Rainbow.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Piezoelectricity.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Parasitic Inductance.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Faraday Cages.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Electrostatic Discharge.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Electromagnetic or Radio Frequency Interference (EMI) or (RFI).md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/EMP.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Blue Sky.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Dielectric (Insulator) Breakdown.md",
+    "Physics/2 Classical Electromagnetism/6 Electromagnetic Phenomenology/Eddy Currents.md",
+    "Art/Master Watch and Read List.md",
+    "Art/Projects/Alien Comic/Material Bank/Bonding in Car before Operation.md",
+    "University Tasks/Experimental Physics/Untitled",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/Pasted image 20240822135958.png",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/images",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/15 Scattering of EM Waves.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/9 Reflection and Transmission Coefficients of EM Waves, Fresnel Equations.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/10 Reflection and Refraction - Angular Laws.md",
-    "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/3 Electric Forces and Fields.md",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference",
     "Art/Projects/Alien Comic/Plot",
     "Supplementary Images/Pasted image 20240816031501.png",

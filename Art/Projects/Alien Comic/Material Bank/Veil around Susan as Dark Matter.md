@@ -27,4 +27,6 @@ And beneath them, we have become ghosts.**
 Once, Susan told me a childish idea. 
 It captivated me so much, 
 I never saw the city the same way. 
-
+##### Gifts
+To X, I give Y.
+And to my dearest Susan, I give my most precious gift - the secret of the world. 
