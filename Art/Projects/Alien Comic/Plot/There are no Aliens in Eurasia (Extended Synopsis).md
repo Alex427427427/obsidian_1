@@ -7,7 +7,7 @@ The hook of the story - the promise set by the premise to the reader - you must 
 ##### Begin with Microcosm of the Story, Set Expectations, Introduce Cast
 *{Show the reader "this is a story about conspiracies, illuminati, aliens".}*
 
-Episodic cases. Alien in the trees. 
+
 ##### Inciting Incident
 *{A slip up in the Conspiracy's otherwise perfect plan.}*
 

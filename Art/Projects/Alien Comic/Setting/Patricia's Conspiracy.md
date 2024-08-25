@@ -3,7 +3,9 @@ ___
 Prerequisites: [[Conspiracy]]
 ___
 ## Concern
-Conspiracies begin with a genuine concern. For Patricia, it is resource depletion. Centuries of over-consumption and mismanagement have destroyed the natural reservoirs of rare earth elements. The electronics that Eurasian life depends on will one day cease to function. What awaits is the largest scale human suffering in history. But she claims that the government doesn't care, and cannot be made to change their ways; a revolution is not possible either (she saw her friends in the Enlightenment Society hunted down and either killed or intimidated). 
+Conspiracies begin with a genuine concern. For Patricia, it is resource depletion. Centuries of over-consumption and mismanagement by the command economy have destroyed the natural reservoirs of rare earth elements. The electronics that Eurasian life depends on will one day cease to function. What awaits is the largest scale human suffering in history. But she claims that the government doesn't care, and cannot be made to change their ways; a revolution is not possible either (she saw her friends in the Enlightenment Society hunted down and either killed or intimidated). 
+##### The Sensible thing to do
+Create a communications infrastructure to deliver information from Eurasian citizens to the operators at the Factory array that control inputs and outputs. 
 ##### The Hidden Motive
 Patricia sees the frequency domain as a sort of heaven where reality is her making; she wants to reunite with her students again - her memories of them will be as good as real in the frequency domain. 
 ## Goal

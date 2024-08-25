@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d304e5e05f99f9c",
+        "id": "bf2f94f7d9778ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "f15d38d34440f020",
+            "id": "8f8eced113ced742",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
+                "file": "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 290.5
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
+                "file": "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
+                "file": "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md"
+                "file": "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md"
               }
             }
           }
@@ -146,15 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f15d38d34440f020",
+  "active": "8f8eced113ced742",
   "lastOpenFiles": [
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
     "Art/Projects/Alien Comic/Plot/Alien Comic Plans.md",
-    "Art/Projects/Alien Comic/Material Bank/Veil around Susan as Dark Matter.md",
-    "Art/Projects/Alien Comic/Material Bank/Susan breakdown.md",
-    "Art/Projects/Alien Comic/Material Bank/Sleeping Daughter Episode.md",
     "Art/Projects/Alien Comic/Plot/There are no Aliens in Eurasia (Extended Synopsis).md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
+    "Art/Projects/Alien Comic/Material Bank/Marco red herring.md",
+    "Art/Projects/Alien Comic/Material Bank/Veil around Susan as Dark Matter.md",
     "Art/Projects/Alien Comic/Material Bank/Bonding in Car before Operation.md",
+    "Art/Projects/Alien Comic/Material Bank/Marco's Purpose.md",
+    "Art/Projects/Alien Comic/Material Bank/Sleeping Daughter Episode.md",
+    "Art/Projects/Alien Comic/Material Bank/Introducing Dark Matter.md",
+    "Art/Projects/Alien Comic/Setting/Department of Abnormal Phenomena (D.A.P.).md",
+    "Art/Projects/Alien Comic/Setting/Bureau of Information and Statistics.md",
+    "Art/Projects/Alien Comic/Setting/History of Eurasia Timeline.md",
+    "Art/Projects/Alien Comic/Setting/Eurasian Federation Government.md",
+    "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
+    "Art/Projects/Alien Comic/Setting/Doomsday Song.md",
+    "Art/Projects/Alien Comic/Setting/The Flowerhead Syndrome.md",
+    "Art/Projects/Alien Comic/Setting/The World Science Foundation.md",
+    "Art/Projects/Alien Comic/Setting/The Enlightenment Society.md",
+    "University Tasks/Experimental Physics/Untitled",
+    "Art/Projects/Alien Comic/Material Bank/Susan breakdown.md",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/Two Slit Single Photon Interference Experimental Logs.md",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/Pasted image 20240822135958.png",
@@ -164,17 +177,6 @@
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/9 Reflection and Transmission Coefficients of EM Waves, Fresnel Equations.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/10 Reflection and Refraction - Angular Laws.md",
     "Physics/2 Classical Electromagnetism/1 Electromagnetic Foundations/3 Electric Forces and Fields.md",
-    "Art/Projects/Alien Comic/Material Bank/Marco red herring.md",
-    "Art/Projects/Alien Comic/Material Bank/Introducing Dark Matter.md",
-    "Art/Projects/Alien Comic/Setting/The Flowerhead Syndrome.md",
-    "Art/Projects/Alien Comic/Setting/The Enlightenment Society.md",
-    "Art/Projects/Alien Comic/Setting/The World Science Foundation.md",
-    "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
-    "Art/Projects/Alien Comic/Setting/History of Eurasia Timeline.md",
-    "Art/Projects/Alien Comic/Setting/Eurasian Federation Government.md",
-    "Art/Projects/Alien Comic/Setting/Doomsday Song.md",
-    "Art/Projects/Alien Comic/Setting/Department of Abnormal Phenomena (D.A.P.).md",
-    "Art/Projects/Alien Comic/Setting/Bureau of Information and Statistics.md",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference",
     "Art/Projects/Alien Comic/Plot",
     "Supplementary Images/Pasted image 20240816031501.png",
@@ -185,7 +187,6 @@
     "Art/Projects/Alien Comic/Threads",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Untitled",
     "Mathematics and Geometry/Real Analysis",
-    "Art/Projects/Career Comic",
     "Supplementary Images/spatial coherence.png",
     "Supplementary Images/temporal coherence.png",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/images/med hori gray.png",

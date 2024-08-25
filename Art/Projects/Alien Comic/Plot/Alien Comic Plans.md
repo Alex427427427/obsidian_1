@@ -19,3 +19,5 @@ The alien thread has a few unresolved ideas.
 5. How would **Lucas** know about the method of instantaneous **communication**? *From passing conversations with Marco.*
 6. How does **contacting** the **aliens save the day**? *This goes back to the nature of the crisis. Satellite 2 sent a cry for help to the aliens due to global conflict. They replied with a song that would neutralise all conscious life that were not deaf - like a spell. Now, the earth needs to reply back something it was never able to centuries ago - that the war is over. An reverse song will be sent. When the Factory Array first told this to Marco, he laughed.*
 7. Why must the **Factory Array** be **cryptic** with its plan? *There is a conspiracy in the government to play the song to everyone.*
+## Answers to the Conspiracy's Questions
+##### How does the world keep going with 
