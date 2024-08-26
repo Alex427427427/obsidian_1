@@ -10,7 +10,7 @@ The hook of the story - the promise set by the premise to the reader - you must 
 Episodic stories: 
 - Alien sighting in District 14 - microcosm, introduce DAP, command economy
 - Star Blinking - introduce Satellite 6, astrophysics, Tom, Director Patricia Williams of the Department of Information and Statistics 
-- Alien sighting at The Eurasian Academy of Sciences - introduce Susan, disease, Lambda
+- Strange Disease at The Eurasian Academy of Sciences - introduce Susan, emotion disease via tv, Lambda
 - Missing teacher for Class of 72 - introduce Miss Liam subplot, hint at why Lucas investigates aliens (Marco)
 - Power Outages at Lumina Junction - discover hideout of Illuminati near the Subterra Station, including abandoned cryogenic vaults 
 ##### Inciting Incident
