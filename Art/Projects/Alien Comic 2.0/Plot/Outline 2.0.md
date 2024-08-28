@@ -1,0 +1,71 @@
+Category: [[Art]] [[Alien Comic]]
+___
+## Important to Keep in Mind
+The hook of the story - the promise set by the premise to the reader - you must deliver them. Frequently remind with the phrase "there are no aliens in Eurasia."
+**Illuminati; conspiracy theorists; aliens.**
+## Plot
+##### Part 1 - Episodic Mysteries
+Episodic mysteries of alien / Illuminati conspiracies. 
+- alien abduction - story made up by a cheating couple to hide their nightly visits to the forest and their eventual murder of one of their spouse. An old man is being framed. Lucas from the DAP deduces the truth. 
+- UFO sighting - may be Oceanian spy aircraft, but turns out to be the Factory Array's drones surveying the land to see beautiful scenery. While waiting in car, DAP member contemplates war with Lucas. 
+- Alien sighting - near the Eurasian Academy of Sciences. Introduce Susan and her study of disease. Unsolved. Something is being kept secret here, for Lucas runs into the secret police. 
+- Teacher missing from Lucas' highschool reunion - excursion trauma thought to be Eurasian military cover up action; teacher turns out to be Oceanian spy, but the students embrace them regardless. Miss Liam on the other hand, died protecting the students back then. 
+- Power outages at Lumina Junction. Lucas deduces that something underground is consuming a lot of power. He visits the Subterra Station underneath, and finds abandoned cryogenic vaults. Finally, he sees the Illuminati.
+- Lucas remembers the past, Marco's suspicious death. Before dying under suspicious circumstances, Marco speaks of two things: a great treasure sought after by many that sits at the crossroad of all the mysteries in Eurasia, and that there are people hiding between the city lights. Marco further clarifies that he tells all this so that Lucas and Susan can avert disaster. 
+Lucas is recruited by Illuminati who want to establish the Earth Federation. Lucas agrees to work with them so long as it helps him understand Marco's death and provide Susan an answer. 
+##### Part 2 - Illuminati
+Lucas helps cover up Illuminati activities against the secret police. Illuminati trades information with Lucas, that Marco was designing something large to be constructed. Lucas visits the thing Marco constructed, and it appears to be a large cannon.
+- The Illuminati wishes to restore the Continental Speaker Network. The speaker network construction results in ghostly sounds heard from above ground. Lucas must help hide those sounds from the civilians and make up alternative explanations. 
+- The abnormalities converge at Eurasian Academy of Sciences. Lucas returns, and manages to get Susan to speak. Sleepwalkers underneath the city lights are people afflicted with a disease. 
+- Star blinking - conspiracy theorists think it's a sign that the night sky is a fake dome, and the lamps that are the stars are malfunctioning. Actually Satellite 6's transit. The discovery is a big news. While Eurasia is celebrating, Lucas is puzzled - he does not know what to do with this information, because he is missing something. When he realises what treasure Marco meant, he went to visit the retrieved items of Satellite 6, and found a document. He kept it with him, and hurried away. 
+- Lucas hears news about the emerging discoveries from the ruins of Satellite 6. Communication technologies that was instantaneous. Engineers first turning it on, and greeted by noise...
+
+Susan tries to celebrate, but neither Lucas - nor Susan - is in the mood. Susan has the disease. Lucas says he can get them two out of Eurasia with Illuminati's help, and seek treatment from elsewhere like Oceania. Susan breaks down upon learning that Lucas is involved with them, like Marco was. They make up. Seems like Marco's puzzles are resolved - the treasure is Satellite 6, and the people between the city lights are the ones afflicted with the disease. Marco might have died for his knowledge of the disease. Lucas agrees to escape Eurasia to seek treatment. Little do they know, the truth still hides in the city's darkness. 
+##### Part 3 - Escape
+- Patricia offers Lucas and Susan a new identity in a new city, but Lucas refuses. Illuminati also dissuades Lucas from leaving with Susan, but when Lucas tells them that he has a great treasure that they are looking for, the Illuminati agrees to help them escape. 
+- When Lucas and Susan reach the edge of the continent, they find that the Illuminati have been captured by the secret police and killed. 
+- Secret police capture and interrogate Lucas and Susan about Illuminati and the disease. Susan reveals that the disease is spread by a song, and that it may have originated from Satellite 6, cast down on war torn humanity by the engineers. Lucas is found guilty. Patricia takes Susan and Lucas away. 
+- Patricia reveals that she is there to save Lucas and Susan; the Nucleus will think they're taken care of. While waiting to be taken away, Susan, looking at the city lights, tells Lucas that they look like stars on the ground. 
+- It was here, that Patricia reveals to be head of the conspiracy. Patricia thereafter kills Susan. 
+- Patricia erases Lucas' existence, explains her plan to Lucas, asks Lucas to keep working for her if Lucas wants to reunite with Susan in the Frequency Domain. Lucas says the DAP and the Academy will discover a way to prevent the effects of the song. Patricia laughs that they won't. In despair, Lucas asks to bury Susan at a place of his choosing. Patricia agrees, with the guards accompanying him. 
+##### Part 4 - Before the end of the world
+- Lucas is catatonic under Patricia's house arrest. Days remain until the speaker network finishes construction, though Patricia is under no real race against the rest of the world, because it is impossible to solve her conspiracy. 
+- When reflecting on Susan, he realises that there are aliens between the stars. Suddenly, everything becomes clear. He knows that if he says the right thing, he can escape. He says something to his guards that allows him to walk outside. He asks a factory array worker what the thing Marco constructed was, they reply - not a weapon, but for communication. (He needs to deliver the Constitution of the Earth Federation to the Factory Array.)
+- Meanwhile, the Eurasian government tries to take down the speaker network with the army, but is faced by the Oceanian Army and the rest, organised by the Illuminati. 
+- The Academy sees the song is an incredibly sophisticated piece of engineering. They contact the World Science Foundation for help. 
+- The Eurasian government, while conducting investigations, issues ear plugs, but it will be useless, and may as well be performance art. 
+- The DAP mourn Lucas, just before he shows up, with Patricia's guards. Lucas says it's too late. Lucas reveals that he helped Patricia with the conspiracy, because he wants to see Susan and Marco again. A friend in the DAP rushes Lucas to the ground about to fight him, shouting damnations, and that if Patricia's plan really was so perfect, and the song is so powerful, why was she so scared of Marco, to the point of killing him? Why kill Susan? Lucas responds that on the flip side, why does she just leave everything unattended? Why let him walk free? Because she knows - she will succeed in bringing humanity to the Frequency Domain. Before Lucas can say anything else, Patricia is already at an unknown location, and plays the song. 
+- Patricia executes her conspiracy, and the world falls asleep. 
+##### Final Showdown
+In the Frequency Domain, a few things happen: 
+- Patricia remembers being Miss Liam. Lucas is surprised, but realises that the orange scented perfume she wears is the same as Miss Liam. He laments not noticing earlier. Patricia is really emotional, and explains that she and Lucas together have worked to bring humanity into the Frequency Domain. 
+- The Illuminati and the world leaders stand off, debating the philosophy of rule. Alas they will fade away into nothing, and there will be nothing left to rule. The Frequency Domain is a prison. 
+- Susan meets Marco, and apologises for falling in love with Lucas. Marco told her he always felt like he intruded on her and Lucas by that dance. She says that even if that was true, it was her own fault, for having a large ego, for thinking Lucas would invite her again. In the end, she chose Marco, and that was all that mattered there on out. Maybe those who are absorbed by grief, cannot love. Marco says that those who don't know grief, shouldn't love. 
+
+We return to Lucas and Patricia. Lucas says that Patricia never cared about humanity as a whole, but her own agenda to meet her students again. That's why, when Marco told her that the universe was full of alien civilisations, she chose to kill him. 
+- Patricia is shocked. Lucas smiles and explains. Marco left behind a message, that there were people between the city lights. Lucas thought he was refering to the Illuminati. Until Susan made the observation that city lights look like stars. It was an observation that only she could have made, for she was the one that came up with the analogy to Marco years ago. Consequently, only Susan may have drawn the connection that there were people in between the stars. 
+- Tom appears and explains. 80% of the universe's matter is invisible. For some reason, we know there are vast amount of mass distributed near the outer rims of galaxies, but we just can't see them. Could that be what they are - alien civilisations? If life is to emerge and venture out of galaxies, we would expect a mass distribution around the habitable regions of galaxies. And it turns out that's precisely where the dark matter is concentrated. 
+- Lucas went on to explain: Patricia was right to be confident about her plan. The song that Satellite 6 cast down was beyond human engineering. 
+- Engineers from Satellite 6 appear and recount: when they first turned on the spacetime channel allowing instant communication by listening to wavefunction collapse, they were greeted with noise. Vast amounts of noise. It was not just any noise, but Boltzmann noise. It is the theoretical maximum efficiency of a communications channel. They were in the midst of a lively conversation. 
+- Susan sees the engineers and exclaims they're the ones who cast the doomsday curse on humanity.
+- Marco explains otherwise. Not a curse, but a promise. The first half of a promise that could not be fulfilled. The engineers cried out for help, and the cold universe responded. This song would incapacitate all members of a war torn species. Once humanity can demonstrate the capacity for peace, perhaps a proof of some sort, the curse will be undone. 
+- Patricia asks how such a thing could be proven. Lucas answers that brings them to Marco's treasure. It is a tool of creation, sought after by the Illuminati, to create, and the Eurasian Federation, to destroy. In fact, all copies of it have been destroyed by Eurasia - except 8, left on the ruins of the Satellites, which themselves were member states of the Earth Federation. There is only one thing that could hold all those properties, namely power, absence in Eurasia, and presence on the Satellites. The treasure is the Constitution of the Earth Federation. 
+- Susan asks how Marco could have possibly known the history of the world, unaccessible even to the Eurasian Nucleus. Lucas explains that whoever told him was very old, very knowledgeable, and had a lot of privileges, who watched over humanity since the beginning of the modern age - the Factory Array. 
+- Which was why, Lucas explains, that he handed the Factory Array his copy of the Constitution of the Earth Federation, back when he made the final construction order for the speaker array. In this flashback, the Factory Array thanks Lucas, for he has made everything fall into place.  
+- Lucas speculates, that the Factory Array has already broadcasted it to the rest of the universe. 
+- Patricia asks, even if the aliens send back a reverse song, who will be there to play it. 
+
+Outside, DAP runs towards the Factory Array. They speak in gestures, because they have made themselves deaf. 
+
+Inside, defeated, Patricia falls to her knees. Lucas kneels next to her. 
+- Patricia says she thought Lucas had given up. Why didn't he? Lucas responds because she never gave up on him. 
+- Patricia laments that in the decades of her conspiracy, she stopped listening to music. She doesn't want to return to the real world, because she can't face the rest of humanity. She asks Lucas to come sit next to her. 
+- She asks him how this event in history will be remembered. Lucas speculates Patricia will be remembered as a complicated conspirator, who loved her students, and forever changed the course of human history. Factory Array, for holding out for so long, and eventually contacting the aliens, will become the saviour of mankind, and be remembered by future generations with infinite gratitude. 
+
+Outside, a message arrived from the spacetime channel. DAP plays the song through the speakers. People begin to wake up. 
+
+Inside, Susan and Marco observe the Frequency Domain fading away. Susan asks what will happen to those that don't have a body to return to, and Marco answers probably nowhere. Susan is happy to experience the end with Marco. But Marco tells her that she must go and live a good life with Lucas. She is confused, because she has no body to return to. Marco winks at her, asking if she really thinks Lucas will give up on her after everything they've gone through. The frequency domain is a timeless space. All history convolved into one point. Has she had memories with no origin? They don't come from the past, but the future. 
+##### The World Wakes up
+At dawn, the world wakes up. Lucas runs through the city streets to Lumina Junction. He goes into the Subterra Station, now empty, but with a hole at the ceiling that lets light through. He opens a cryogenic vault, and retrieves Susan's body. After a few moments of suffocating silence, Susan's eyes move to look at Lucas. 
+
+They walk into the city lights together. 
