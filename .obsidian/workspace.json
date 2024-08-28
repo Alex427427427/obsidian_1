@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5cb2323e865f3d0",
+        "id": "dc65986a14b47bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "13908299d9de49ef",
+            "id": "98d5c4eb9083d58e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art/Projects/Alien Comic 2.0/Plot/Outline 2.0.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Projects/Alien Comic 2.0/Plot/Outline 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Projects/Alien Comic 2.0/Plot/Outline 2.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Art/Projects/Alien Comic 2.0/Plot/Outline 2.0.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,20 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13908299d9de49ef",
+  "active": "830d73b709bf76a1",
   "lastOpenFiles": [
-    "Art/Projects/Alien Comic 2.0/Plot/Extended Synopsis 2.0.md",
-    "Art/Projects/Alien Comic 2.0/Plot/Outline 2.0.md",
-    "Art/Projects/Alien Comic 2.0/Plot Constants/Marco.md",
-    "Art/Projects/Alien Comic 2.0/Material Bank/Who gave Marco the Ideas.md",
-    "Art/Projects/Alien Comic 2.0/Material Bank/UFO Sighting Episode.md",
-    "Art/Projects/Alien Comic 2.0/Material Bank/Teacher Episode.md",
-    "Art/Projects/Alien Comic 2.0/Material Bank/Alien Abduction Episode.md",
+    "Art/Projects/Alien Comic/Plot/Extended Synopsis 2.0.md",
+    "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
     "Art/Projects/Alien Comic/Plot/Extended Synopsis 1.0.md",
-    "Art/Projects/Alien Comic 2.0/Plot Constants/Eurasian Nucleus.md",
-    "Art/Projects/Alien Comic 2.0/Plot Constants/Illuminati.md",
-    "Art/Projects/Alien Comic 2.0/Plot Constants/World History.md",
-    "Art/Projects/Alien Comic 2.0/Plot Constants/Patricia.md",
+    "Art/Projects/Alien Comic/Plot Constants/Marco.md",
+    "Art/Projects/Alien Comic/Material Bank/Who gave Marco the Ideas.md",
+    "Art/Projects/Alien Comic/Material Bank/UFO Sighting Episode.md",
+    "Art/Projects/Alien Comic/Material Bank/Teacher Episode.md",
+    "Art/Projects/Alien Comic/Material Bank/Alien Abduction Episode.md",
+    "Art/Projects/Alien Comic/Plot Constants/Eurasian Nucleus.md",
+    "Art/Projects/Alien Comic/Plot Constants/Illuminati.md",
+    "Art/Projects/Alien Comic/Plot Constants/World History.md",
+    "Art/Projects/Alien Comic/Plot Constants/Patricia.md",
     "Art/Projects/Alien Comic/Material Bank/Veil around Susan as Dark Matter.md",
     "Art/Projects/Alien Comic/Material Bank/Susan breakdown.md",
     "Art/Projects/Alien Comic/Material Bank/Marco's Purpose.md",
@@ -170,7 +162,7 @@
     "Art/Projects/Alien Comic/Material Bank/Eurasian Academy of Sciences Episode.md",
     "Art/Projects/Alien Comic/Material Bank/Coersion to Give up.md",
     "Art/Projects/Alien Comic/Material Bank/Bonding in Car before Operation.md",
-    "Art/Projects/Alien Comic 2.0/Plot Constants",
+    "Art/Projects/Alien Comic/Plot Constants",
     "Art/Projects/Alien Comic 2.0/Setting",
     "Art/Projects/Alien Comic 2.0/Plot",
     "Art/Projects/Alien Comic 2.0/Material Bank",
