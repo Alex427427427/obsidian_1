@@ -7,25 +7,29 @@ The hook of the story - the promise set by the premise to the reader - you must 
 ##### Begin with Microcosm of the Story, Set Expectations, Introduce Cast
 *{Show the reader "this is a story about conspiracies, illuminati, aliens".}*
 
+The Illuminati members observe Lucas throughout these episodes until they decide to recruit him at the end. 
+
 Episodic stories: 
-- Alien sighting in District 14 - microcosm, introduce DAP, command economy
-- Star Blinking - introduce Satellite 6, astrophysics, Tom, Director Patricia Williams of the Department of Information and Statistics 
-- Strange Disease at The Eurasian Academy of Sciences - introduce Susan, emotion disease via tv, Lambda
-- Missing teacher for Class of 72 - introduce Miss Liam subplot, hint at why Lucas investigates aliens (Marco)
+- Alien abduction in District 14 as cover up for murder - microcosm, introduce DAP, strange neighbour, command economy
+- Star Blinking - introduce Satellite 6, astrophysics, Tom, set up Eurasian Academy of Science, Director Patricia Williams of the Department of Information and Statistics, space being fake conspiracy
+- UFO sighting via telescope - introduce Oceania, war, Factory Array, hint at why Lucas investigates aliens (Marco)
+- Alien Sighting, Strange Disease at The Eurasian Academy of Sciences - introduce Susan, emotion disease via tv, Lambda, secret police, see alien
+- Missing teacher for Class of 72 - introduce Miss Liam plot line
 - Power Outages at Lumina Junction - discover hideout of Illuminati near the Subterra Station, including abandoned cryogenic vaults 
 ##### Inciting Incident
 *{A slip up in the Conspiracy's otherwise perfect plan (Marco death).}*
 
-Flash back, Lucas finds Marco dead at the Factory Array. Marco left behind a message for Lucas, telling him to look after Susan and that there are ghosts in between the city lights. There were also cryptic paintings:
+Flash back, Lucas finds Marco dead at the Factory Array. Marco left behind a message for Lucas, telling him to look after Susan and that there are ghosts in between the city lights. Marco expresses loneliness for he has no one to trust. There were also cryptic paintings:
 - A white ocean under a starry sky - the frequency domain
 - A Subterra Station - location unknown
 - Two people holding hands in front of a bustling city
+The reason Marco is only giving hints throughout the story instead of outright telling Lucas, is to compartmentalise the truth, and to help Lucas act at the right moment. 
 
-Susan was interrogated, and Lucas moved near Susan to monitor Susan under the guise of welfare monitoring. The two share a quiet year together. At the end, Susan moves away to the Eurasian Academy of Sciences, after making Lucas promise not to look into Marco's death. Lucas sees one alien looking organism in the shadows of the city. 
+Susan was interrogated, and Lucas moved near Susan to monitor Susan under the guise of welfare monitoring. The two share a quiet year together. At the end, Susan moves away to the Eurasian Academy of Sciences, after making Lucas promise not to look into Marco's death. Susan is upset at Lucas because he isn't able to give any answers. Lucas sees one alien looking organism in the shadows of the city. 
 ##### The First threshold
 *{Seeker pulls on the first thread that reveals how deep and big the Conspiracy is, and alludes to what it is all about (Marco's clue "Look for the ghosts between the city lights").}*
 
-Turns out the Subterra Station is under the Lumina Junction District. In the present, Lucas finds the Illuminati at the Subterra Station, with Director Patricia Williams of the Department of Information and Statistics. She introduces Lucas to the Illuminati - now called the Enlightenment Society. 
+Turns out the Subterra Station is under the Lumina Junction District. In the present, Lucas finds the Illuminati at the Subterra Station, with Director Patricia Williams of the Department of Information and Statistics. She introduces Lucas to the Illuminati - now called the Enlightenment Society. They introduce their plot - to establish the Earth Federation again. And they have (or are looking for?) the Earth Federation Constitution. They need Lucas' help; Lucas joins them only to investigate what Marco died for, and give Susan an answer. 
 ## Part 2 - The Enlightenment Society
 ##### Main Investigation Stage
 *{Seeker gains information (look for aliens, finds Illuminati), encounters resistance from the Conspiracy (avoidance -> distraction -> intimidation).}*
@@ -43,7 +47,7 @@ Susan tries to celebrate her findings with Lucas, but he knows Susan is unhappy 
 Upon realising that Lucas is still investigating Marco's death against her wishes, Susan breaks down ([[Susan breakdown]]). At the end when they reconcile, she suggests again escaping to Oceania, publish their findings, receive help from the advanced medicine there, and putting everything behind them. This time, Lucas agrees. 
 ## Part 3 - The City's Darkness
 ##### Escape
-Lucas and Susan make the preparations to escape Eurasia. Patricia encourages Lucas to bring Susan to her, so she can help change their identities and live a new life. But Lucas knows this isn't an option. 
+Lucas and Susan make the preparations to escape Eurasia. Patricia encourages Lucas to bring Susan to her, so she can help change their identities and live a new life. But Lucas knows this isn't an option. The Enlightenment Society suggests Lucas not to leave. 
 
 On the continental express, Lucas and Susan discuss life. Susan asks Lucas if he ever had to deal with loss. Lucas shares a violent event that happened during primary school, which resulted in the majority of the class to die. His teacher, Miss Liam, alone saved him, but appeared to be critically injured herself. The Eurasian Federation gave him free housing and education. He had never seen Miss Liam again, and assumed she was dead. When asked if he remembers anything about her, he says it was her orange-scented perfume. Susan was amazed that he never told her about this in highschool. Lucas explained that he continued not to tell anyone till this day because he didn't want people to assume he was traumatised or fucked up, or have to tip toe around him - it would have made relationships very awkward, because people didn't know how to handle such stories. Susan says that he maybe should have just talked to them, and saw how they respond. Lucas asks what if it made them run away? Susan says that a relationship in which you can't communicate your true thoughts, is not worth being in. Besides, she is still here, isn't she? And she isn't about to treat him any differently. 
 
@@ -51,11 +55,11 @@ Susan notices how this is very nostalgic, as if she has experienced it before. S
 ##### Despair Stage
 *{The Conspiracy makes an active move against the seeker, and utterly crush them (Use the Eurasian secret police to capture and interrogate them, and killing Susan). Their companions die (Susan, not before revealing that she deduced the disease is transmitted by a song, and is the cause of the end of the world war). The mole reveals themselves (Patricia).}*
 
-**The secret police capture Lucas and Susan** at the edge of the Eurasian continent, and bring them into the Eurasian Nucleus for interrogation of treason. Patricia tries to bring both Susan and Lucas away, but Alma intercepts and takes Lucas. Alma speaks to Lucas about his journey, while Patricia brings Susan to her home. Alma tells Lucas that mistakes can be forgiven, and tells him of her own investigations - that whatever he has been involved with, is not the real Enlightenment Society - the real one went defunct decades ago. 
+**The secret police capture Lucas and Susan** at the edge of the Eurasian continent, and bring them into the Eurasian Nucleus for interrogation of treason. After a harsh interrogation, Susan reveals how the disease is spread. **Susan deduces that the Flowerhead disease is spread by a song**. She also suspects that the song has **origins from Satellite 6, and is what ended the world war** - she deduces this through the genetic records of the Eurasian population - there was way higher percentage of deafness in the population right after the war, so the end of the war must had been a selection event for that trait. Patricia tries to bring both Susan and Lucas away, but Alma intercepts and takes Lucas. Alma speaks to Lucas about his journey, while Patricia brings Susan to her home. Alma tells Lucas that mistakes can be forgiven, and tells him of her own investigations - that whatever he has been involved with, is not the real Enlightenment Society - the real one went defunct decades ago. 
 
 Lucas realises things aren't as they seem exactly, but can't trust Alma fully. While Alma asks him for everything he knows, he faces the agonising choice of siding with Patricia or Alma. He decides to protect Patricia. He made the wrong choice. He tells Alma he wants to go see Susan, and visit Patricia; Alma lets him. 
 
-Lucas later goes to Patricia. In a twist, Patricia revels it was her that notified the secret police, and that she was the leader of a conspiracy all along, separate from the government. **Susan deduces that the Flowerhead disease is spread by a song**. She also suspects that the song has **origins from Satellite 6, and is what ended the world war** - she deduces this through the genetic records of the Eurasian population - there was way higher percentage of deafness in the population right after the war, so the end of the war must had been a selection event for that trait. **Patricia kills Susan** for fear that she knows how to stop the conspiracy, having lived together with Marco. Before passing, Susan asks if Patricia or the government took her memories, if she and Lucas had already investigated into the conspiracy's secret in the past, to which Patricia replies it is just a side effect of the disease; this makes Susan very sad. 
+Lucas later goes to Patricia. In a twist, Patricia revels it was her that notified the secret police, and that she was the leader of a conspiracy all along, separate from the government. **Patricia kills Susan** for fear that she knows how to stop the conspiracy, having lived together with Marco. Before passing, Susan asks if Patricia or the government took her memories, if she and Lucas had already investigated into the conspiracy's secret in the past, to which Patricia replies it is just a side effect of the disease; this makes Susan very sad. 
 
 Lucas watches Patricia play the song to Susan, who dies immediately. When Lucas kneels beside Susan, he notices how her black dress glistens in the light. Patricia explains her world view and plan to Lucas, how **seeing all the information that suggests humanity's one way ticket to extinction has turned her hopeless, and the only hope is a peaceful transcendence of humanity into the frequency domain**, drawing an analogy to euthanising the dying, and she plans to do it by **playing the song to everyone through the continental speaker network that Lucas and Marco had been helping to build.** She asks him to join her. He doesn't answer, so she places him on house arrest at an unknown apartment, sends a resignation letter to the DAP, erasing his existence. She says she likes him as a talent and would hope he turns around to the plan one day. Lucas is allowed to bury Susan at a location of his choice, accompanied by guards. 
 ## Part 4 - A Song for all Mankind 

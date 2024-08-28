@@ -1,0 +1,3 @@
+Category: [[Art]] [[Alien Comic]]
+___
+ a man, his wife, and another woman. Who found themselves to wake up in the forest with strange marks. The man's wife is dead. Some other people in the neighbourhood find themselves do the same. Turns out the man and the woman were at the forest to meet up and cheat. The wife, upon discovery, was killed in the ensuing fight. An old man who loves the area is blamed, and his investigation of the old man forms the main red herring.
