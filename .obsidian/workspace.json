@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dc65986a14b47bfb",
+        "id": "02fa8225c5270a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "98d5c4eb9083d58e",
+            "id": "33750f70486349b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md"
+              }
             }
           }
         ]
@@ -138,10 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "830d73b709bf76a1",
+  "active": "33750f70486349b1",
   "lastOpenFiles": [
-    "Art/Projects/Alien Comic/Plot/Extended Synopsis 2.0.md",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference/Two Slit Single Photon Interference Experimental Logs.md",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/bulb double slit fit.png",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/bulb double excel pattern.png",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/more meas optim ratio.png",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/more meas optim.png",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/light dark.png",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/excel_optim.png",
     "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
+    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
+    "Art/Projects/Alien Comic/Plot/Extended Synopsis 2.0.md",
     "Art/Projects/Alien Comic/Plot/Extended Synopsis 1.0.md",
     "Art/Projects/Alien Comic/Plot Constants/Marco.md",
     "Art/Projects/Alien Comic/Material Bank/Who gave Marco the Ideas.md",
@@ -168,23 +184,14 @@
     "Art/Projects/Alien Comic 2.0/Material Bank",
     "Art/Projects/Alien Comic 2.0",
     "Art/Projects/Alien Comic/Plot/Outline 1.0.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plans.md",
-    "Art/Projects/Alien Comic/Setting/Eurasian Federation Government.md",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/laser double test fit.png",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/double laser.png",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/RA.png",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/Pasted image 20240827120512.png",
-    "University Tasks/Experimental Physics/One Photon Two Slits Interference/images/single laser.png",
     "University Tasks/Experimental Physics/Untitled",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/images",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference",
     "Art/Projects/Alien Comic/Plot",
-    "Supplementary Images/Pasted image 20240816031501.png",
-    "Supplementary Images/Pasted image 20240816030736.png",
-    "Art/Projects/Alien Comic/Setting/Untitled",
-    "Supplementary Images/spatial coherence.png",
-    "Supplementary Images/temporal coherence.png",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/images/med hori gray.png"
+    "Art/Projects/Alien Comic/Setting/Untitled"
   ]
 }
