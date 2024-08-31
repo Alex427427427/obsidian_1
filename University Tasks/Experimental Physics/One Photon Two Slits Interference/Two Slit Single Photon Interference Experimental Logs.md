@@ -3,7 +3,7 @@
 # Risk Assessment
 ![[RA.png]]
 # Aim
-
+To observe and quantitatively measure the two-slit interference pattern of a monochromatic source in two situations: one using a laser that emits a barrage of photons, allowing multiple photons to be present in the apparatus simultaneously, and another with a source that emits only one photon at a time, thus observing the wave-particle duality of light. 
 # 1 Background Theory
 
 # 2 Preparatory Questions

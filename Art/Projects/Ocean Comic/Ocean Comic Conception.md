@@ -1,7 +1,9 @@
 Category: [[Art]] [[Ocean Comic]]
 ___
 ## Title
-Heart of the Ocean
+**Heart of the Ocean**
+## Pitch
+**"When a PhD student's deep-sea-obsessed supervisor disappears, he must team up with a nosy substitute lecturer to search for someone that may not want to be found at all - at the heart of the ocean."** 
 ## Motivations
 1. Draw a cosmic horror + thalassophobia related story, involving a primordial ocean hidden below all known oceans of the world, larger than all combined.
 2. Implement various thalassophobia/cosmic horror passages I thought up over the years that invoke a creepy feeling in me 
