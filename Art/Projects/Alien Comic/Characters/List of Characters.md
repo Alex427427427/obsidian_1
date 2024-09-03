@@ -13,7 +13,9 @@ Lead Engineer at a branch of the Factory Array.
 ## Factory Array
 A colossal fractal network of production facilities spanning Eurasia, managed by a central computer. Does what is necessary to protect humanity as its first cause. 
 ## Susan Koroleva
-Epidemiologist at the Aztoria University and wife of Marco. 
+Epidemiologist at the Eurasian Academy of Sciences and wife of Marco. Looks kind of like: 
+![[Pasted image 20240903000443.png|200]]
+![[Pasted image 20240903000524.png|200]]
 ##### Perspective
 The government is suspicious and information should be open. Believes in the good of science. 
 ##### History

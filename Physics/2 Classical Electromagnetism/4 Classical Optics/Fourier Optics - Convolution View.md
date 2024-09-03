@@ -39,20 +39,23 @@ So the procedure to calculate the pattern some distance away from the aperture i
 3. Inverse Fourier transform
 ## Convolution
 By the final equation above, and the **convolution theorem** in [[1 Fourier Transform and Frequency Domain]], we know that the final wave amplitude is the convolution of the wave amplitude at the aperture, and the propagator (expressed in space, rather than frequency)
-$$\boxed{\Psi(\vec r, z)=conv(\Psi(\vec r, 0), P(\vec r, z))}$$
+$$\boxed{\Psi(\vec r, z)=conv(\Psi(\vec r, 0), P(\vec r, z))=\int\Psi(\vec r^\prime, 0)P(\vec r-\vec r^\prime,z)d\vec r^\prime}$$
 Where:
 $$P(\vec r, z)=\mathcal F^{-1}\left[\tilde P(\vec k, z)\right]$$
-$$\boxed{P(\vec r, z)=\frac{e^{ik_\omega z}}{i\lambda z}e^{-ik_\omega\vec r^2/2z}:=e^{ik_\omega z}P(\vec r)}$$
+$$\boxed{P(\vec r, z)=\frac{e^{ik_\omega z}}{i\lambda z}e^{ik_\omega\vec r^2/2z}:=e^{ik_\omega z}P(\vec r)}$$
 Where:
-$$P(\vec r)=\frac{1}{i\lambda z}e^{-ik_\omega\vec r^2/2z}$$
+$$P(\vec r)=\frac{1}{i\lambda z}e^{ik_\omega\vec r^2/2z}$$
 Note that the denominator is the normalisation volume of the gaussian in 2 dimensions $(x,y)$. In one dimension it would have been $\sqrt{i\lambda z}$. 
+$$P(x)=\frac{1}{\sqrt{i\lambda z}}e^{ik_\omega x^2/2z}$$
+$$P(y)=\frac{1}{\sqrt{i\lambda z}}e^{ik_\omega y^2/2z}$$
+$$P(\vec r)=P(x)P(y)$$
 
 The convolution becomes: 
-$$\boxed{\Psi(\vec r, z)=\frac{e^{ik_\omega z}}{i\lambda z}\int_{-\infty}^{\infty}\Psi(\vec r^\prime, 0)e^{-ik_\omega(\vec r-\vec r^\prime)^2/2z}d\vec r^\prime}$$
+$$\boxed{\Psi(\vec r, z)=\frac{e^{ik_\omega z}}{i\lambda z}\int_{-\infty}^{\infty}\Psi(\vec r^\prime, 0)e^{ik_\omega(\vec r-\vec r^\prime)^2/2z}d\vec r^\prime}$$
 Notice that the previously unknown constant of proportionality is now found to be $1/i\lambda z$. Again, this is only true for the 2D case. In 1D, it would have been $1/\sqrt{i\lambda z}$.
 ## Far Field Approximation
 In the far field, $z$ is so large that the tiny angular distribution from the optical axis results in a large $\vec r$. So $\vec r \gg\vec r^\prime$. Consider the exponent:
-$$-ik_\omega(\vec r^2-2\vec r\cdot\vec r^\prime+{\vec r^\prime}^2)/2z$$
+$$ik_\omega(\vec r^2-2\vec r\cdot\vec r^\prime+{\vec r^\prime}^2)/2z$$
 We can get rid of ${\vec r^\prime}^2$ provided that it results in almost no change in the phase. In other words, 
 $$\frac{k_\omega {\vec r^\prime}^2}{2z}\approx0$$
 In engineering, it is often that the maximum phase allowed is $90\degree$ , so:
@@ -61,9 +64,11 @@ $$\boxed{\frac{2D^2}{\lambda}<z}$$
 Is the condition for the far field. We have simply rearranged the equation and replaced $\vec r^\prime$ with $D$ - the maximum dimension of the radiating element. 
 ## Fraunhofer Integral
 Finally, let's put everything together to find the wave amplitude in the far field, known as the Fraunhofer integral. 
-$$\boxed{\Psi(\vec r, z)=\frac{e^{ik_\omega z}}{i\lambda z}e^{-ik_\omega\vec r^2/2z}\int_{-\infty}^{\infty}\Psi(\vec r^\prime, 0)e^{-ik_\omega\vec r\cdot\vec r^\prime/z}d\vec r^\prime}$$
+$$\boxed{\Psi(\vec r, z)=\frac{e^{ik_\omega z}}{i\lambda z}e^{ik_\omega\vec r^2/2z}\int_{-\infty}^{\infty}\Psi(\vec r^\prime, 0)e^{-ik_\omega\vec r\cdot\vec r^\prime/z}d\vec r^\prime}$$
 For a one dimension distribution:
-$$\boxed{\Psi(x, z)=\frac{e^{ik_\omega z}}{\sqrt{i\lambda z}}e^{-ik_\omega\vec r^2/2z}\int_{-\infty}^{\infty}\Psi(x^\prime, 0)e^{-ik_x\vec x^\prime}dx^\prime}$$
+$$\boxed{\Psi(x, z)=\frac{e^{ik_\omega z}}{\sqrt{i\lambda z}}e^{ik_\omega x^2/2z}\int_{-\infty}^{\infty}\Psi(x^\prime, 0)e^{-ik_x x^\prime}dx^\prime}$$
 The intensity for a one dimension distribution:
 $$\boxed{I(x, z)=\frac{1}{\lambda z}|\tilde\Psi(k_x,0)|^2}$$
 Notice that as $z$ increases, the pattern does not fundamentally change, and only gets scaled. This is characteristic of the far field.  
+
+One final step of substituting $k_x = k_\omega x/z$ will recover actual wave pattern as a function of $x$. 

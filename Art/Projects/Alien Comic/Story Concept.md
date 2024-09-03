@@ -7,3 +7,4 @@ ___
 ## Themes 
 [[Information]] and [[Humanity's Triumph]]. See those documents. 
 
+![[cover_vertical.png]]
