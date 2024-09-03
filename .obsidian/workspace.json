@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b6f1dd65d8490bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Ep 1 Alien in the Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fed6675a7ad9325b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Projects/Alien Comic/Story Concept.md",
+                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Ep 1 Alien in the Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,17 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b6f1dd65d8490bc",
+  "active": "fed6675a7ad9325b",
   "lastOpenFiles": [
-    "Art/Projects/Alien Comic/Story Concept.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Story Concept.md",
     "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Ep 1 Alien in the Trees.md",
+    "Art/Projects/Alien Comic/Story Concept.md",
+    "University Tasks/Engineering FYP/Ka Band Antenna Array Design.md",
+    "University Tasks/Engineering FYP/Beamforming Project Desc.md",
     "Art/Projects/Alien Comic/Material Bank/Alien Abduction Episode.md",
     "Art/Projects/Alien Comic/Alien Comic Titles.md",
     "Supplementary Images/cover_vertical.png",
     "Art/Projects/Alien Comic/Characters/List of Characters.md",
     "Supplementary Images/Pasted image 20240903000524.png",
     "Supplementary Images/Pasted image 20240903000443.png",
-    "University Tasks/Engineering FYP/Beamforming Project Desc.md",
     "Art/Projects/Alien Comic/Plot/1 Alien in the Trees",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Wavelet Derivation.md",
     "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Convolution View.md",
@@ -194,9 +185,6 @@
     "Art/Projects/Alien Comic/Material Bank/Who gave Marco the Ideas.md",
     "Art/Projects/Alien Comic/Material Bank/UFO Sighting Episode.md",
     "Art/Projects/Alien Comic/Material Bank/Teacher Episode.md",
-    "Art/Projects/Alien Comic/Plot Constants/Eurasian Nucleus.md",
-    "Art/Projects/Alien Comic/Plot Constants/Illuminati.md",
-    "Art/Projects/Alien Comic/Plot Constants/World History.md",
     "Art/Projects/Alien Comic/Plot Constants",
     "Art/Projects/Alien Comic 2.0/Setting",
     "Art/Projects/Alien Comic 2.0/Plot",
