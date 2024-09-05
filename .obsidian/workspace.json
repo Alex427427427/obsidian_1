@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Ep 1 Alien in the Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6cf5f3f9c3ea1f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art/Story Writing Theory/Mystery Elements.md",
+                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Part 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 287.5
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Ep 1 Alien in the Trees.md",
+                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Ep 1 Alien in the Trees.md",
+                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Ep 1 Alien in the Trees.md"
+                "file": "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Part 1.md"
               }
             }
           }
@@ -160,12 +148,17 @@
   },
   "active": "fed6675a7ad9325b",
   "lastOpenFiles": [
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Story Concept.md",
     "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
-    "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Ep 1 Alien in the Trees.md",
-    "Art/Story Writing Theory/Mystery Elements.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Part 1.md",
     "Art/Projects/Alien Comic/Story Concept.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Lucas Intro.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Ep 1 The Shining Quartz.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien in the Trees/Plan.md",
+    "Art/Story Writing Theory/Mystery Elements.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
+    "Art/Projects/Alien Comic/Plot/Extended Synopsis 2.0.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Story Concept.md",
+    "Art/Projects/Alien Comic/Plot/Extended Synopsis 1.0.md",
     "University Tasks/Engineering FYP/Ka Band Antenna Array Design.md",
     "University Tasks/Engineering FYP/Beamforming Project Desc.md",
     "Art/Projects/Alien Comic/Material Bank/Alien Abduction Episode.md",
@@ -192,11 +185,6 @@
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/5 Polarisation of EM Waves.md",
     "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/3 Macroscopic EM Wave Equations.md",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/Abstract.md",
-    "Art/Projects/Alien Comic/Plot/Extended Synopsis 2.0.md",
-    "Art/Projects/Alien Comic/Plot/Extended Synopsis 1.0.md",
-    "Art/Projects/Alien Comic/Plot Constants/Marco.md",
-    "Art/Projects/Alien Comic/Material Bank/Who gave Marco the Ideas.md",
-    "Art/Projects/Alien Comic/Material Bank/UFO Sighting Episode.md",
     "Art/Projects/Alien Comic/Plot Constants",
     "Art/Projects/Alien Comic 2.0/Setting",
     "Art/Projects/Alien Comic 2.0/Plot",
