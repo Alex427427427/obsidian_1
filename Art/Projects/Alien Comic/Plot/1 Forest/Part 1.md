@@ -3,7 +3,7 @@ ___
 A man wearing glasses and a trench coat, carrying a suitcase, walks through the city lights. People hurry about. The man walks onto the train. It is early morning, and many commuters stare at him. He takes the train through Eurasia, 
 Narration: {Lucas suspected there were aliens in Eurasia. In the summer of Ninety-Two (Century unknown), in the remote northern town of Vyshkanov, the search began.}
 
-Title drop - "There are no Aliens in Eurasia" "File 1 - The trees in Vyshkanov" 
+Title drop - "There are no Aliens in Eurasia" "File 1 - Forest" 
 ___
 Day. Community center of Vyshkanov. A small crowd gathers. There is a long table, with "Alien Research Society of Eurasia" banner hung above. The representatives are at a table covered with odd gadgets, strange alien memorabilia, and a UFO-shaped coffee mug. They’re overly enthusiastic, almost comically so, as they interview the claimants.
 
@@ -26,7 +26,7 @@ Day. Community center of Vyshkanov. A small crowd gathers. There is a long table
 Elena exits, visibly shaken. Viktor gives her a concerned look as she leaves the room.
 
 
-**ARSE A**: (Excitedly) “So, Olga, while you were being abducted, did you see any unusual lights or perhaps, a UFO?”
+**ARSE A**: (Excitedly) “So, Anya, while you were being abducted, did you see any unusual lights or perhaps, a UFO?”
 
 **Anya**: (Maintaining a stern expression) “No UFOs. Just a light when I woke up - and some quartz nearby.”
 
