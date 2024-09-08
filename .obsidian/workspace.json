@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d172aad7e2924b6b",
+        "id": "054dd996586bb2a5",
         "type": "tabs",
         "children": [
           {
-            "id": "917b7d05f96486e7",
+            "id": "5b6e8f2c576efeee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Forest/Part 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80422d8ed5e8c1d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Forest/Part 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fed6675a7ad9325b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Forest/Part 4.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 354.5
   },
   "right": {
     "id": "6dd347a01e17e3e9",
@@ -109,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Forest/Part 1.md",
+                "file": "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Forest/Part 1.md",
+                "file": "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Forest/Part 1.md"
+                "file": "Art/Projects/Alien Comic/Plot/Outline 3.0.md"
               }
             }
           }
@@ -170,12 +142,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "917b7d05f96486e7",
+  "active": "830d73b709bf76a1",
   "lastOpenFiles": [
-    "Art/Projects/Alien Comic/Plot/1 Forest/Part 2.md",
-    "Art/Projects/Alien Comic/Plot/1 Forest/Part 4.md",
-    "Art/Projects/Alien Comic/Plot/1 Forest/Part 3.md",
-    "Art/Projects/Alien Comic/Plot/1 Forest/Part 1.md",
+    "Art/Projects/Alien Comic/Plot/1 The All Seeing Eye/Script.md",
+    "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
+    "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
+    "Art/Projects/Alien Comic/Material Bank/Where all Paths Converge.md",
+    "Art/Projects/Alien Comic/Plot/1 The All Seeing Eye/Plan.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Part 1.md",
+    "Art/Projects/Alien Comic/Material Bank/Marco break in Observatory.md",
+    "Art/Projects/Alien Comic/Material Bank/Who gave Marco the Ideas.md",
+    "Art/Projects/Alien Comic/Material Bank/Teacher Episode.md",
+    "Art/Projects/Alien Comic/Material Bank/Illuminati Dissuading Lucas taking Susan out of Eurasia.md",
+    "Art/Projects/Alien Comic/Material Bank/Illuminati Introduction Episode.md",
+    "Art/Projects/Alien Comic/Material Bank/Introducing Dark Matter.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Part 2.md",
+    "Art/Projects/Alien Comic/Plot/Extended Synopsis 1.0.md",
+    "Art/Projects/Alien Comic/Plot/Outline 1.0.md",
+    "Art/Projects/Alien Comic/Story Concept.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Story Concept.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Lucas Intro.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Ep 1 Trees.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Plan.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Part 4.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Part 3.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/draft1.png",
+    "Art/Projects/Alien Comic/Material Bank/Alien Abduction Episode.md",
+    "Art/Projects/Alien Comic/Material Bank/Susan breakdown.md",
+    "Art/Projects/Alien Comic/Plot/1 The All Seeing Eye",
     "Art/Projects/Alien Comic/Characters/List of Characters.md",
     "Supplementary Images/Pasted image 20240906205957.png",
     "Supplementary Images/Pasted image 20240906205725.png",
@@ -186,29 +181,7 @@
     "Supplementary Images/Pasted image 20240906200731.png",
     "Supplementary Images/Pasted image 20240906195547.png",
     "Supplementary Images/Pasted image 20240906195303.png",
-    "Supplementary Images/Pasted image 20240906194312.png",
-    "Art/Projects/Alien Comic/Plot/1 Forest/Lucas Intro.md",
-    "Art/Projects/Alien Comic/Plot/1 Forest/Ep 1 Trees.md",
-    "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
-    "Art/Projects/Alien Comic/Plot/1 Forest/Plan.md",
-    "Art/Projects/Alien Comic/Story Concept.md",
-    "Art/Story Writing Theory/Mystery Elements.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
-    "Art/Projects/Alien Comic/Plot/Extended Synopsis 2.0.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Story Concept.md",
-    "Art/Projects/Alien Comic/Plot/Extended Synopsis 1.0.md",
-    "University Tasks/Engineering FYP/Ka Band Antenna Array Design.md",
-    "University Tasks/Engineering FYP/Beamforming Project Desc.md",
-    "Art/Projects/Alien Comic/Material Bank/Alien Abduction Episode.md",
-    "Art/Projects/Alien Comic/Alien Comic Titles.md",
-    "Art/Projects/Alien Comic/Plot/1 Forest",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Wavelet Derivation.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Convolution View.md",
-    "University Tasks/Optics 3.md",
-    "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
-    "University Tasks/Experimental Physics/One Photon Two Slits Interference/3.2 Two Slit Single Photon Interference Experimental Logs.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/4 EM Waves in Media.md",
-    "Physics/2 Classical Electromagnetism/3 Electromagnetic Waves/9 Reflection and Transmission Coefficients of EM Waves, Fresnel Equations.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions",
     "Art/Projects/Alien Comic/Plot Constants",
     "Art/Projects/Alien Comic 2.0/Setting",
     "Art/Projects/Alien Comic 2.0/Plot",
@@ -216,7 +189,6 @@
     "Art/Projects/Alien Comic 2.0",
     "University Tasks/Experimental Physics/Untitled",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/images",
-    "University Tasks/Experimental Physics/One Photon Two Slits Interference",
-    "Art/Projects/Alien Comic/Plot"
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference"
   ]
 }
