@@ -17,6 +17,10 @@ He also notes how the door to his office was locked when Marco was discovered.
 
 Lucas walks around the room, noticing the pristine conditions of Marco's office. There are no gas leaks. (Question for GPT: how was Lucas able to deduce no gas leaks?)
 
+
+
+
+
 **Lucas**: I'm sorry. I don't have a clue what happened to you. 
 
 **Lucas**: Is this really going to be how it ends?
@@ -31,4 +35,4 @@ Lucas walks out, and notices some men in black standing in the distance, looking
 
 At home, Lucas opens the puzzle box. There is a note inside. It has a symbol of the all-seeing eye. It reads: 
 
-There are ghosts beneath the city lights. Lovers. Ocean. Susan. To stop the disaster, I have hidden a great treasure where all paths converge. There are no aliens in Eurasia. 
+I found aliens beneath the city lights. To prevent disaster, I have hidden a great treasure where all paths converge. 
