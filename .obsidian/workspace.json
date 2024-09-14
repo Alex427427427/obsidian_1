@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "054dd996586bb2a5",
+        "id": "e09cfa93f7b9b2c3",
         "type": "tabs",
         "children": [
           {
-            "id": "5b6e8f2c576efeee",
+            "id": "06d35c136503b8bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "University Tasks/Running List/FYP research.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
+                "file": "University Tasks/Running List/FYP research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
+                "file": "University Tasks/Running List/FYP research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/Outline 3.0.md"
+                "file": "University Tasks/Running List/FYP research.md"
               }
             }
           }
@@ -142,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "830d73b709bf76a1",
+  "active": "06d35c136503b8bf",
   "lastOpenFiles": [
+    "University Tasks/Running List/Make PHS3000 Report.md",
+    "University Tasks/Running List/FYP research.md",
+    "University Tasks/Running List/Study up to date for Optics.md",
+    "University Tasks/Running List/Study up to date for Particle Physics.md",
     "Art/Projects/Alien Comic/Plot/1 The All Seeing Eye/Script.md",
+    "University Tasks/Running List",
     "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
-    "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
-    "Art/Projects/Alien Comic/Material Bank/Where all Paths Converge.md",
-    "Art/Projects/Alien Comic/Plot/1 The All Seeing Eye/Plan.md",
-    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Part 1.md",
-    "Art/Projects/Alien Comic/Material Bank/Marco break in Observatory.md",
-    "Art/Projects/Alien Comic/Material Bank/Who gave Marco the Ideas.md",
-    "Art/Projects/Alien Comic/Material Bank/Teacher Episode.md",
-    "Art/Projects/Alien Comic/Material Bank/Illuminati Dissuading Lucas taking Susan out of Eurasia.md",
-    "Art/Projects/Alien Comic/Material Bank/Illuminati Introduction Episode.md",
-    "Art/Projects/Alien Comic/Material Bank/Introducing Dark Matter.md",
-    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Part 2.md",
+    "University Tasks/Experimental Physics/Compton Scattering/3.8 Compton Scattering.md",
+    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240912141512.png",
+    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240912141458.png",
+    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240912125504.png",
+    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240912124945.png",
+    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240912124540.png",
+    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240910135607.png",
+    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240910135552.png",
+    "Pasted image 20240912115305.png",
+    "Pasted image 20240912123829.png",
+    "Engineering/Radio Frequency Engineering/Antenna/Far-field Radiation Pattern.md",
+    "Engineering/Radio Frequency Engineering/Antenna/Half Wave Dipole Antenna.md",
+    "Engineering/Radio Frequency Engineering/Antenna/Antenna Gain.md",
+    "Engineering/Radio Frequency Engineering/Antenna/0 Antenna Overview.md",
+    "Mathematics and Geometry/Fourier Analysis/6 Z-Transform or Discrete Laplace Transform.md",
+    "Mathematics and Geometry/Fourier Analysis/Bode Plot.md",
+    "Mathematics and Geometry/Fourier Analysis/Gaussian is FT of Itself.md",
+    "Mathematics and Geometry/Fourier Analysis/2 Discrete Fourier Transform.md",
+    "Mathematics and Geometry/Fourier Analysis/1 Fourier Transform and Frequency Domain.md",
+    "Mathematics and Geometry/Differential Equations/Diffusion Equation.md",
+    "Tags/Electromagnetism.md",
+    "Art/Projects/Alien Comic/Material Bank/How Lucas Delivers Satellite 6 Coords to Factory Array.md",
     "Art/Projects/Alien Comic/Plot/Extended Synopsis 1.0.md",
-    "Art/Projects/Alien Comic/Plot/Outline 1.0.md",
-    "Art/Projects/Alien Comic/Story Concept.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Story Concept.md",
-    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Lucas Intro.md",
-    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Ep 1 Trees.md",
+    "Art/Projects/Alien Comic/Plot/Extended Synopsis 2.0.md",
     "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
-    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Plan.md",
-    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Part 4.md",
-    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Part 3.md",
-    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/draft1.png",
-    "Art/Projects/Alien Comic/Material Bank/Alien Abduction Episode.md",
-    "Art/Projects/Alien Comic/Material Bank/Susan breakdown.md",
+    "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Ep 1 Trees.md",
+    "Art/Projects/Alien Comic/Plot/2 Alien Abductions/Lucas Intro.md",
+    "Art/Projects/Alien Comic/Material Bank/Marco break in Observatory.md",
+    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240910135619.png",
+    "University Tasks/Experimental Physics/Compton Scattering/images",
+    "University Tasks/Experimental Physics/Compton Scattering",
+    "Atlas of Life/Graduate School Applications",
+    "University Tasks/Engineering FYP/supplementary images",
     "Art/Projects/Alien Comic/Plot/1 The All Seeing Eye",
-    "Art/Projects/Alien Comic/Characters/List of Characters.md",
-    "Supplementary Images/Pasted image 20240906205957.png",
-    "Supplementary Images/Pasted image 20240906205725.png",
-    "Supplementary Images/Pasted image 20240906204458.png",
-    "Supplementary Images/Pasted image 20240906204401.png",
-    "Supplementary Images/Pasted image 20240906204152.png",
-    "Supplementary Images/Pasted image 20240906202656.png",
-    "Supplementary Images/Pasted image 20240906200731.png",
-    "Supplementary Images/Pasted image 20240906195547.png",
-    "Supplementary Images/Pasted image 20240906195303.png",
     "Art/Projects/Alien Comic/Plot/2 Alien Abductions",
     "Art/Projects/Alien Comic/Plot Constants",
     "Art/Projects/Alien Comic 2.0/Setting",
-    "Art/Projects/Alien Comic 2.0/Plot",
-    "Art/Projects/Alien Comic 2.0/Material Bank",
-    "Art/Projects/Alien Comic 2.0",
-    "University Tasks/Experimental Physics/Untitled",
-    "University Tasks/Experimental Physics/One Photon Two Slits Interference/images",
-    "University Tasks/Experimental Physics/One Photon Two Slits Interference"
+    "Art/Projects/Alien Comic 2.0/Plot"
   ]
 }
