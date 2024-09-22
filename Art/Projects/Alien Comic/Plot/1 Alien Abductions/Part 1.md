@@ -1,9 +1,10 @@
 Category: [[Art]] [[Alien Comic]]
 ___
-A man wearing glasses and a trench coat, carrying a suitcase, walks through the city lights. People hurry about. The man walks onto the train. It is early morning, and many commuters stare at him. He takes the train through Eurasia, 
-Narration: {Lucas suspected there were aliens in Eurasia. In the summer of Ninety-Two (Century unknown), in the remote northern town of Vyshkanov, the search began.}
+A man wearing glasses and a trench coat, carrying a suitcase, walks through the city lights. People hurry about. The man walks onto the train. It is early morning, and many commuters stare at him. He takes the train through Eurasia.  
 
-Title drop - "There are no Aliens in Eurasia" "Chapter 1 - Forest" 
+Narration: {Lucas suspected there were aliens in Eurasia. In the summer of Ninety-Two, in the remote northern town of Vyshkanov, the search began.}
+
+Title drop - "There are no Aliens in Eurasia" "Chapter 1 - Alien Abductions" 
 ___
 Day. Community center of Vyshkanov. A small crowd gathers. There is a long table, with "Alien Research Society of Eurasia" banner hung above. The representatives are at a table covered with odd gadgets, strange alien memorabilia, and a UFO-shaped coffee mug. They’re overly enthusiastic, almost comically so, as they interview the claimants.
 
