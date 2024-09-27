@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f852dc9d12a3463",
+        "id": "8fed8a48019fd746",
         "type": "tabs",
         "children": [
           {
-            "id": "3057df6d1ca91707",
+            "id": "42d13019f5233ce0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "University Tasks/Experimental Physics/Compton Scattering/3.8 Compton Scattering.md",
+                "file": "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Tasks/Experimental Physics/Compton Scattering/3.8 Compton Scattering.md",
+                "file": "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "University Tasks/Experimental Physics/Compton Scattering/3.8 Compton Scattering.md",
+                "file": "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "University Tasks/Experimental Physics/Compton Scattering/3.8 Compton Scattering.md"
+                "file": "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md"
               }
             }
           }
@@ -146,10 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3057df6d1ca91707",
+  "active": "42d13019f5233ce0",
   "lastOpenFiles": [
-    "University Tasks/Experimental Physics/One Photon Two Slits Interference/3.2 Two Slit Single Photon Interference Experimental Logs.md",
+    "Atlas of Life/Strange Lessons/There is an invasive falsehood.md",
+    "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
+    "Atlas of Life/Strange Lessons",
+    "Atlas of Life/Career/Self Reflection/Values.md",
+    "Atlas of Life/Career/Self Reflection/Elevator Pitch.md",
+    "Atlas of Life/Career/Self Reflection",
+    "Atlas of Life/Career",
+    "Art/Projects/Alien Comic/Material Bank/Susan exhaustion.md",
+    "Art/Projects/Alien Comic/Plot/Opening ideeas/Secret of the World.md",
     "University Tasks/Experimental Physics/Compton Scattering/3.8 Compton Scattering.md",
+    "Art/Projects/Alien Comic/Plot/Opening ideeas",
+    "University Tasks/Experimental Physics/One Photon Two Slits Interference/3.2 Two Slit Single Photon Interference Experimental Logs.md",
     "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922230043.png",
     "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922232034.png",
     "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922232021.png",
@@ -178,20 +188,11 @@
     "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
     "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
     "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 2.md",
-    "Art/Projects/Alien Comic/Alien Comic Titles.md",
-    "Art/Projects/Alien Comic/Material Bank/Veil around Susan as Dark Matter.md",
-    "Engineering/Radio Frequency Engineering/Modulation/Modulation Schemes Grand Summary.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
-    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye/Plan.md",
     "University Tasks/Running List",
     "University Tasks/Experimental Physics/Compton Scattering/images",
     "University Tasks/Experimental Physics/Compton Scattering",
     "Atlas of Life/Graduate School Applications",
     "University Tasks/Engineering FYP/supplementary images",
-    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye",
-    "Art/Projects/Alien Comic/Plot/1 Alien Abductions",
-    "Art/Projects/Alien Comic/Plot Constants",
-    "Art/Projects/Alien Comic 2.0/Setting",
-    "Art/Projects/Alien Comic 2.0/Plot"
+    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye"
   ]
 }
