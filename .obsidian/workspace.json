@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fed8a48019fd746",
+        "id": "906cfd9a2ff0f2ca",
         "type": "tabs",
         "children": [
           {
-            "id": "42d13019f5233ce0",
+            "id": "e6ce00bf3cb7375e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
+                "file": "Atlas of Life/Daily Reminder.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
+                "file": "Atlas of Life/Daily Reminder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
+                "file": "Atlas of Life/Daily Reminder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md"
+                "file": "Atlas of Life/Daily Reminder.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42d13019f5233ce0",
+  "active": "e6ce00bf3cb7375e",
   "lastOpenFiles": [
-    "Atlas of Life/Strange Lessons/There is an invasive falsehood.md",
+    "Engineering/Orbital mechanics/Orbits.md",
+    "Atlas of Life/Daily Reminder.md",
+    "Engineering/Orbital mechanics/Untitled",
+    "Engineering/Orbital mechanics",
     "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
+    "Atlas of Life/Strange Lessons/There is an invasive falsehood.md",
     "Atlas of Life/Strange Lessons",
     "Atlas of Life/Career/Self Reflection/Values.md",
     "Atlas of Life/Career/Self Reflection/Elevator Pitch.md",
@@ -186,13 +190,9 @@
     "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 1.md",
     "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Lucas Intro.md",
     "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
-    "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
-    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 2.md",
     "University Tasks/Running List",
     "University Tasks/Experimental Physics/Compton Scattering/images",
     "University Tasks/Experimental Physics/Compton Scattering",
-    "Atlas of Life/Graduate School Applications",
-    "University Tasks/Engineering FYP/supplementary images",
-    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye"
+    "Atlas of Life/Graduate School Applications"
   ]
 }
