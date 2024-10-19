@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< Updated upstream
         "id": "ae6e98ce1edd7698",
         "type": "tabs",
         "children": [
@@ -15,6 +16,17 @@
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
+=======
+        "id": "8f77fecd0c52dd8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef4de074878eb080",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -132,9 +144,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {},
               "icon": "lucide-list",
               "title": "Outline"
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -154,6 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "e8215fe313a17c91",
   "lastOpenFiles": [
     "Atlas of Life/Career/Viasat Phone Interview Prep.md",
@@ -170,6 +187,10 @@
     "Art/Projects/Alien Comic/Story Concept.md",
     "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
     "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye/Plan.md",
+=======
+  "active": "ef4de074878eb080",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "Atlas of Life/Daily Reminder.md",
     "Engineering/Orbital mechanics/Orbits.md",
     "Engineering/Orbital mechanics/Untitled",
