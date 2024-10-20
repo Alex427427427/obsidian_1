@@ -1,32 +1,22 @@
 {
   "main": {
-    "id": "6ec7b6ad2fdb4de6",
+    "id": "e640d45dedb8017b",
     "type": "split",
     "children": [
       {
-<<<<<<< Updated upstream
-        "id": "ae6e98ce1edd7698",
+        "id": "a5ddfde8b0863df4",
         "type": "tabs",
         "children": [
           {
-            "id": "e8215fe313a17c91",
+            "id": "9de67fa606489fd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-=======
-        "id": "8f77fecd0c52dd8f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef4de074878eb080",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
->>>>>>> Stashed changes
+              "type": "markdown",
+              "state": {
+                "file": "University Tasks/Experimental Physics/Optical Tweezer/1.3 Measuring the Strength of an Optical Tweezer Trap.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -35,72 +25,67 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d26ed933d0586562",
+    "id": "ddd31d2d43153b96",
     "type": "split",
     "children": [
       {
-        "id": "2506047321b14282",
+        "id": "70681c217142f5f9",
         "type": "tabs",
         "children": [
           {
-            "id": "830d73b709bf76a1",
+            "id": "e5bcc182f0ab1d9e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
-            "id": "50a2980f1427ef47",
+            "id": "7b2b2674bc5cd1b7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "fourier transform",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
-            "id": "bfff5915b90988de",
+            "id": "f374a535b7b4a7c3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 449.5
+    "width": 337.5
   },
   "right": {
-    "id": "6dd347a01e17e3e9",
+    "id": "035afcb343d9af72",
     "type": "split",
     "children": [
       {
-        "id": "d999283820a89bfb",
+        "id": "87d07d286e566737",
         "type": "tabs",
         "children": [
           {
-            "id": "86561f456f30e674",
+            "id": "cfbd6bf1720c28cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "University Tasks/Experimental Physics/Optical Tweezer/1.3 Measuring the Strength of an Optical Tweezer Trap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,49 +93,40 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
-            "id": "5b03c3e18ece7910",
+            "id": "09dbc0157bceb327",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "University Tasks/Experimental Physics/Optical Tweezer/1.3 Measuring the Strength of an Optical Tweezer Trap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
-            "id": "87f45762d45d7296",
+            "id": "2a11eaecf4afe7a1",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
-            "id": "4180d65fdd7d2338",
+            "id": "dd16a6eb8903959e",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-              "state": {},
-              "icon": "lucide-list",
-              "title": "Outline"
-=======
-              "state": {}
->>>>>>> Stashed changes
+              "state": {
+                "file": "University Tasks/Experimental Physics/Optical Tweezer/1.3 Measuring the Strength of an Optical Tweezer Trap.md"
+              }
             }
           }
         ]
@@ -170,58 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "e8215fe313a17c91",
+  "active": "9de67fa606489fd3",
   "lastOpenFiles": [
-    "Atlas of Life/Career/Viasat Phone Interview Prep.md",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020195840.png",
     "University Tasks/Experimental Physics/Optical Tweezer/1.3 Measuring the Strength of an Optical Tweezer Trap.md",
-    "Atlas of Life/Career/Self Reflection/Elevator Pitch.md",
-    "Atlas of Life/Career/Self Reflection/Values.md",
-    "University Tasks/Experimental Physics/Compton Scattering/3.8 Compton Scattering.md",
-    "University Tasks/Engineering FYP/Log.md",
-    "University Tasks/Engineering FYP/2024-10-1 urgent tasks.md",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020203033.png",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020202946.png",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020202846.png",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020202750.png",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020202643.png",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020202334.png",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020202007.png",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020201729.png",
+    "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020174934.png",
     "University Tasks/Experimental Physics/One Photon Two Slits Interference/3.2 Two Slit Single Photon Interference Experimental Logs.md",
-    "University Tasks/Experimental Physics/Optical Tweezer/images",
-    "University Tasks/Experimental Physics/Optical Tweezer",
-    "Art/Projects/Alien Comic/Material Bank/V tuber clearly with experience in science.md",
-    "Art/Projects/Alien Comic/Story Concept.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
-    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye/Plan.md",
-=======
-  "active": "ef4de074878eb080",
-  "lastOpenFiles": [
->>>>>>> Stashed changes
-    "Atlas of Life/Daily Reminder.md",
-    "Engineering/Orbital mechanics/Orbits.md",
-    "Engineering/Orbital mechanics/Untitled",
-    "Engineering/Orbital mechanics",
-    "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
-    "Atlas of Life/Strange Lessons/There is an invasive falsehood.md",
-    "Atlas of Life/Strange Lessons",
-    "Atlas of Life/Career/Self Reflection",
-    "Atlas of Life/Career",
-    "Art/Projects/Alien Comic/Material Bank/Susan exhaustion.md",
-    "Art/Projects/Alien Comic/Plot/Opening ideeas/Secret of the World.md",
-    "Art/Projects/Alien Comic/Plot/Opening ideeas",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922230043.png",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922232034.png",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922232021.png",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922231910.png",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922231856.png",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922231839.png",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922231819.png",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922231752.png",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922230651.png",
-    "University Tasks/Experimental Physics/Compton Scattering/images/Pasted image 20240922230622.png",
     "University Tasks/Experimental Physics/Fourier Optics Experiment/3.3 Image Formation and Spatial Filtering Experimental Logs.md",
-    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye/Script.md",
-    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Plan 2.0.md",
-    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Script 2.0.md",
-    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye/Script 2.0.md",
-    "Atlas of Life/Life Goals/Master Interest List.md",
-    "Atlas of Life/Life Goals/Try to Contribute to Theoretical Physics.md",
-    "Atlas of Life/Life Goals/Publish Graphic Novels.md",
-    "University Tasks/Running List",
-    "University Tasks/Experimental Physics/Compton Scattering/images"
+    "University Tasks/Experimental Physics/Compton Scattering/3.8 Compton Scattering.md",
+    "Atlas of Life/birthdays/Dimitri.md",
+    "Atlas of Life/Friends/Friends I Should Put Effort In.md",
+    "Atlas of Life/memories/2024-10-18 Joseppi chat.md",
+    "Atlas of Life/memories/2024-10-20 Anthony Chat.md",
+    "Atlas of Life/memories",
+    "University Tasks/Experimental Physics/Optical Tweezer/images"
   ]
 }
