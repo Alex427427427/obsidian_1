@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1b76c0152de9f56a",
+        "id": "da034bf9106fe31a",
         "type": "tabs",
         "children": [
           {
-            "id": "c215f21ce95a04e7",
+            "id": "235f576a8c5a23ae",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -158,8 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5bcc182f0ab1d9e",
+  "active": "235f576a8c5a23ae",
   "lastOpenFiles": [
+    "Atlas of Life/Career/Questions for the interviewer.md",
+    "Atlas of Life/Career/Viasat Phone Interview Prep.md",
     "University Tasks/Experimental Physics/Optical Tweezer/1.3 Measuring the Strength of an Optical Tweezer Trap.md",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234207.png",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234008.png",
