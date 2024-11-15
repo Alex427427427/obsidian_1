@@ -1,13 +1,14 @@
 Category: [[Art]]
 ___
 ## Books
-Frankenstein
+
 ## Comics
 Stagtown
 ## Manga
 **Jojo**
 **Berserk**
 Inside-Mari Author's (Shuzo Oshimi) works
+**20th Century Boys**
 ## Anime Shows
 **Monster**
 **Pluto**

@@ -1,6 +1,6 @@
 Category: [[Art]] [[Alien Comic]]
 ___
-Prerequisites: [[Conspiracy]]
+Prerequisites: [[Art/Themes and Subject Matters/Conspiracy]]
 ___
 ## Concern
 Conspiracies begin with a genuine concern. For Patricia, it is resource depletion. Centuries of over-consumption and mismanagement by the command economy have destroyed the natural reservoirs of rare earth elements. The electronics that Eurasian life depends on will one day cease to function. What awaits is the largest scale human suffering in history. But she claims that the government doesn't care, and cannot be made to change their ways; a revolution is not possible either (she saw her friends in the Enlightenment Society hunted down and either killed or intimidated). 

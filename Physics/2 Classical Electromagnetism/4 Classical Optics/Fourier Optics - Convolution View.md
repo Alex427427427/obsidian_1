@@ -11,7 +11,7 @@ ___
 ## Angular Plane Wave Decomposition
 An incident plane wave, after passing through an aperture $A(x)$, will only have certain angular components retained - those plane waves that, *all* having a total wave vector $k$, whose spatial frequency along $x$ compose the aperture function itself. 
 
-It suffices to see how these plane waves propagate over $z$ along the optical axis, then sum over their patterns. 
+It suffices to first see how these plane waves propagate over $z$ along the optical axis, then sum over their patterns. 
 ## Terminology and Symbology
 - $\vec k$ refers to the wave vector **in the transverse plane to the optical axis**. i.e. $(k_x, k_y)$.
 - $\vec r$ refers to the spatial coordinate **in the transverse plane to the optical axis**. i.e. $(x, y)$
