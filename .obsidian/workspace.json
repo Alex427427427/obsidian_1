@@ -11,10 +11,14 @@
             "id": "ad799cdf669c4128",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Art/Lessons from 20th Century Boys/Problems.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Problems"
             }
           }
         ]
@@ -160,6 +164,7 @@
   },
   "active": "ad799cdf669c4128",
   "lastOpenFiles": [
+    "Art/Lessons from 20th Century Boys/Problems.md",
     "Art/Lessons from 20th Century Boys/21st Century boys 2/Summary.md",
     "Art/Lessons from 20th Century Boys/21st Century boys 1/Summary.md",
     "Art/Lessons from 20th Century Boys/21st Century boys 2",
@@ -195,7 +200,6 @@
     "Art/Lessons from 20th Century Boys/Volume 11/Summary.md",
     "Art/Lessons from 20th Century Boys/Volume 10/Summary.md",
     "Art/Lessons from 20th Century Boys/Volume 8/Summary.md",
-    "Art/Lessons from 20th Century Boys/Volume 7/Summary.md",
     "Art/Lessons from 20th Century Boys/Kenji and Kanna.png",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234207.png",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234008.png",
