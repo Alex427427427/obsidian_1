@@ -1,7 +1,5 @@
 Category: [[Art]] [[Alien Comic]]
 ___
-Marco Korolev learned a secret about the world in the year 87. 
+In the year 87, Marco Korolev realised a secret about the world. 
 
-When Marco learned the truth, he laughed. 
-
-When Lucas learned the truth, he shuddered. 
+Years later, when Lucas learned the same secret, he shuddered. 
