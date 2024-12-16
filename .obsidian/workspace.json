@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2bd5741fcb87aeac",
+        "id": "f6dfe914f7987573",
         "type": "tabs",
         "children": [
           {
-            "id": "60417d606b8dd69f",
+            "id": "5dd2a0e07077a972",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Art/Lessons from Mr Robot/Main Elements.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Main Elements"
             }
           }
         ]
@@ -158,12 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5bcc182f0ab1d9e",
+  "active": "5dd2a0e07077a972",
   "lastOpenFiles": [
+    "Art/Lessons from Mr Robot/Main Elements.md",
+    "Art/Lessons from Mr Robot",
+    "Art/Story Writing Theory/Writing Techniques/Final Conversation between protag and antag.md",
+    "Atlas of Life/Graduate School Applications/Schools and Application Deadlines.md",
     "Art/Themes and Subject Matters/Forced suicide and false narrative.md",
     "Art/Themes and Subject Matters/Most stirring form of torture.md",
     "Art/Themes and Subject Matters/Awe inspiring authority.md",
-    "Art/Story Writing Theory/Writing Techniques/Untitled.md",
     "Art/Projects/Alien Comic/Plot/Outline 4.0.md",
     "Art/Themes and Subject Matters/Conspiracy Members Depiction.md",
     "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
@@ -184,8 +191,6 @@
     "Art/Projects/Alien Comic/Material Bank/UFO Sighting Episode.md",
     "Art/Projects/Alien Comic/Material Bank/Teacher Episode.md",
     "Art/Projects/Alien Comic/Material Bank/Susan exhaustion.md",
-    "Art/Projects/Alien Comic/Material Bank/Susan breakdown.md",
-    "Art/Projects/Alien Comic/Material Bank/Marco's Purpose.md",
     "Art/Projects/Alien Comic/New attempt",
     "Art/Lessons from 20th Century Boys/21st Century boys 2",
     "Art/Lessons from 20th Century Boys/21st Century boys 1",
@@ -195,7 +200,6 @@
     "Art/Lessons from 20th Century Boys/Volume 19",
     "Art/Lessons from 20th Century Boys/Volume 18",
     "Art/Lessons from 20th Century Boys/Volume 17",
-    "Art/Lessons from 20th Century Boys/Volume 16",
     "Art/Lessons from 20th Century Boys/Kenji and Kanna.png",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234207.png",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234008.png",
