@@ -9,6 +9,6 @@ or
 or
 **"A missing furniture? A UFO sighting? A strange neighbour? The Department of Abnormal Phenomena has you covered."**
 ## Themes 
-[[Information]] and [[Humanity's Triumph]]. See those documents. 
+[[Art/Themes and Subject Matters/Information]] and [[Humanity's Triumph]]. See those documents. 
 
 ![[cover_vertical.png]]

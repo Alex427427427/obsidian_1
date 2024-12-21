@@ -3,27 +3,48 @@ ___
 Related:
 ___
 ## Kelvin
+watch tv
+
+## Martin
+meal and chat
 
 ## Jason
-
-## Parmis
+chat, movie, gym
 
 ## Dimitri
+maths?
 
 ## Taaj
+engineering, coding
 
 ## Adam
+econ, world events
 
-## Ixya
+## Taha
+Philosophy, futurism
 
-## Louise
+## Josepi
 
-## Taha?
 
-## Liam?
+## Daniel
 
-## Josepi?
+## Parmis
+parties
 
-## Daniel?
+## Dylan
 
+
+## Nick
+Yearly greetings, catch up on life
+
+## Ixya?
+not much...
+
+## Louise?
+Don't meet that much. 
+Yearly greetings
+
+## Liam, Ayden
+Housemates
+Lunar Rover
 
