@@ -1,3 +1,4 @@
+Category: [[Information]] [[Information Theory]]
 ### In Nexus
 It is independent from truth. 
 It sometimes gives power. 

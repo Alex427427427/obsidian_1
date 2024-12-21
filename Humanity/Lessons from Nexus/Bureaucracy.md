@@ -1,3 +1,7 @@
+Category: [[Information]]
+
+---
+
 Rule by Writing Desk (Bureau)
 
 Came about by the advent of documentation as a new information technology. 

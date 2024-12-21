@@ -1,3 +1,5 @@
+Category: [[Information]]
+
 Democracy is a distributed information network. 
 Its defining trait is that, and not dictatorship by the majority as is commonly thought. In addition, robust **error correcting mechanisms**. 
 Populists believe democracy should be dictatorship by the majority, thus arguing the institutions that provide checks and balances are anti-democratic. The truth is not so. 
