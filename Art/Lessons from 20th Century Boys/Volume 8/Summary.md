@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 The three realise the robot is largely a farce, made of balloon, fake legs with tank treads beneath,... Kenji begins climbing towards the cockpit. 
 
 Inshuun is at the parliament, gets report that "Friend is climbing on the robot to save the world". 

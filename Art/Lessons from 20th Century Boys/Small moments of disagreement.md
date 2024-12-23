@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 In Chapter 127, Kyoko tries to flee the base to a concert. Yoshitsune catches her and scolds her for thinking young kids like her couldn't get hurt. How many children like her died on 2000NYE? Yukiji breaks the fight and says it's enough. 
 
 They then sit down and try to decipher Friend's id. 

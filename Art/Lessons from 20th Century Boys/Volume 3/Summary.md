@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 After revelations, Kenji returns home. Reads Donkey's letter. Donkey was invsetigating the conspiracy, thought Kenji was the leader at first. But saw Kenji's peaceful hard working life...
 They swore under the flag, that they will save the world. Now Kenji is the only one that can, because he knows what the conspiracy will do next. 
 

@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Who is Friend
 
 What does Friend want to do (world conquest?)

@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Kanna remembers Kenji's final words, that he was scared, despite Kanna telling him he's strong. 3
 Kanna is in dspair. Can;t go on. Casette broken. 
 She gets in some strangers car. 

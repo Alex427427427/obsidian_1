@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Dragged on too long. 
 
 Too many unexplained threads - psychic powers, holy mother, daughter and eternal life

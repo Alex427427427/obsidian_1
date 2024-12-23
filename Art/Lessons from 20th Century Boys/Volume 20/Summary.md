@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Volume 20: Contest for Mankind. 
 Chapter 215
 

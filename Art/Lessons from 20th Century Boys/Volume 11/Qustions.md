@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 What's Kiriko's deal
 
 What's Yamane's deal

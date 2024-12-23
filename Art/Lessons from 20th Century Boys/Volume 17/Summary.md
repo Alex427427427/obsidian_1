@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Earth Defense Force trains. 
 
 God brings Otcho and kids to sewers and abandoned subway, tells kids to crawl to the priest. They see newspaper of 3 billion dead. Holy mother descends. 

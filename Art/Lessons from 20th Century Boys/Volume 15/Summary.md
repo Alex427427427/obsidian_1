@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Father Luciano succeeds Father Perrine's study. Perrine studied prophecies. Perrine last words for Luciano - when 2016 let them drink till sunrise. 
 
 Luciano hunted down a 1st century book of prophecies that said the world was ending in 2015. 

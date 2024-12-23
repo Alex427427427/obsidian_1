@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Otcho and Mangaka escape. 
 
 See a flooded section and they must dive. Mangaka scared but Otcho tells him he must go on because Kenji did even in the worst circumstances. Otcho says he wants to avenge Kenji. 

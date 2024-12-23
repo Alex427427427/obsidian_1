@@ -1,7 +1,13 @@
-Category: [[Art]] [[Themes]]
+Category: [[Art]] [[Themes]] [[Information Theory]]
 ___
 Related: 
 ___
+# As a Science
+See [[Information Theory]]
+# As a Lens to Understand History and the World
+See [[Nexus]]
+# As an Artistic Theme
+First, take wisdom from [[Nexus]]
 ## The Fundamental Question
 How should information be managed? 
 1. Generation - how should it be collected/created? What information should be collected/created? Who gets to create information?

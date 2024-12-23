@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Yukiji introduced via flashback. Her most important trait. 
 In present day the gang reacts to Yukiji. 
 Yukiji's bothers introduced (Im not a narc!)

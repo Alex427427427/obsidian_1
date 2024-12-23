@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Sanae remembers loving senpai. 
 MEets Otcho again. 
 Tells him about KAnna. 

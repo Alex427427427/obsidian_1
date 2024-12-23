@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Volume 21: The aliens arrive
 
 DJ gets interrupted by someone. DJ was Kenji's friend. 

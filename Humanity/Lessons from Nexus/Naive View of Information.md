@@ -1,4 +1,5 @@
-Category: [[Information]]
+Category: [[Information]] [[Nexus]]
+___
 
 More information leads to truth and power. 
 False information inherently prohibits the growth of power. 

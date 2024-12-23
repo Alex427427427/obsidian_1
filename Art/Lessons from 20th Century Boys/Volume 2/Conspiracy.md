@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 What we know now:
 
 - disease

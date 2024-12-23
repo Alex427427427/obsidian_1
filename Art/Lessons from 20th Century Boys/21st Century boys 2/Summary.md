@@ -1,3 +1,6 @@
+Category: [[Art]] [[20th Century Boys]]
+___
+
 Kenji happens upon bullying of the masked friend. ASks about bomb. Friend speaks to him as if he is not a child and knows about the outside world. 
 Runs off. 
 

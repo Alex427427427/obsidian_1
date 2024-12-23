@@ -1,3 +1,6 @@
+Category: [[Art]] [[20th Century Boys]]
+___
+
 hints that it was a friend. 
 Usage of [[Funky Reactions]] when Friend cried. 
 

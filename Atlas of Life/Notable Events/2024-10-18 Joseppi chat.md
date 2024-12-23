@@ -1,3 +1,5 @@
+Tags: [[Atlas of Life]] [[Memories]]
+___
 Friday makerspace beer and sausage
 overcast, quiet dark corner
 

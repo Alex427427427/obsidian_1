@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Kanna succeeds in making the Chinese and Thai mafia enter ceasefire and help. 
 
 Yukiji brings Kanna to ramen shop. 

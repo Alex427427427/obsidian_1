@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Gang comes to terms with th fact that Friend is dead. They will keep living on. 
 
 ---

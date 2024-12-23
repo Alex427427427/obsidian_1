@@ -1,4 +1,4 @@
-Category: [[Information]]
+Category: [[Information]] [[Nexus]]
 ___
 
 Have naive view of information. ([[Naive View of Information]])

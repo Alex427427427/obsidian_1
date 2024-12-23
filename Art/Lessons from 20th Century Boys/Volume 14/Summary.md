@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Manjoume sees crowd. All according to plan. When holy mother descends the world will be theirs. He cries to a dead Friend among flowers. Asking what to do. Decides to enter virtual attraction.
 
 ---

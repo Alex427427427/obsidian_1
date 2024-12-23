@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Yoshitsune stops Kyoko in the simulation. 
 Later, they go to rooftop. Using shoes as clues, they know it's Sadakiyo that was speaking to Friend under the cloth. 
 

@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Friend tells Manjoume he plans a human Elimination Project. 
 This would be the last trophy. With it, "it"'s complete. 
  Manjoume pleads with Kanna and Otcho to kill Friend. 

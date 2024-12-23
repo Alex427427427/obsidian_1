@@ -1,3 +1,5 @@
+Tags: [[Atlas of Life]] [[Life Goals]]
+___
 ### Drawing
 Draw one hour per day
 ### Sleep 

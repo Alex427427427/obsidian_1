@@ -1,3 +1,5 @@
+Tags: [[Atlas of Life]] [[Memories]]
+___
 eng hard life
 
 you can't just live for the weekend either. 

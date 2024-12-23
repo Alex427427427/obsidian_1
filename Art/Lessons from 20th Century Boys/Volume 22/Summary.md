@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Volume 22 - the beginning of justice
 
 2 day time skip. People tried to scale walls. REbellions. 

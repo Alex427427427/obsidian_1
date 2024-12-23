@@ -1,3 +1,6 @@
+Category: [[Art]] [[20th Century Boys]]
+___
+
 Aftermath of saucer crash. 
 Sada cries in Kenji arm, after hearing he was always part of the group. 
 Kenji and Maruo walks towards Friend, who weakly calls out Kenji, let's play. 

@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 Kenji gathers all friends. "Let's take this symbol back". 
 All come except Keroyon. Now they have 7. Kenji called two more - Yanbo and Mabo! They are now successful businessmen. 
 

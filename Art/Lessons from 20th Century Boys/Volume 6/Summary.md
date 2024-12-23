@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 A smiling police visits Kanna at restaurant asking for witness of Li (chinese mafia who was trying to get out of the business, looking for a priest)'s murder. 
 
 Kanna shoos him away, goes to the witness at a brothel(?) and finds her. She brings her to the police until she sees the smiling police. Apparently he was the killer. 

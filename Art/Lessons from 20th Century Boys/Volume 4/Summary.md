@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 (Outside my descriptions here, there are frequency blashbacks to Otcho's training with the monk.)
 
 We follow Shogun, 2000 Bangkok. 

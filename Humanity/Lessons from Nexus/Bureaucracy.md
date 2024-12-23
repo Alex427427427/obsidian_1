@@ -1,6 +1,5 @@
-Category: [[Information]]
-
----
+Category: [[Information]] [[Nexus]]
+___
 
 Rule by Writing Desk (Bureau)
 
@@ -9,4 +8,6 @@ Primary purpose to store and retrieve documentation, and make decisions with the
 Bureaucracy is an information processing technology.
 
 Good institutions have good self error-correcting mechanisms. But the more rigorous the self correcting mechanism, the less efficient the institution becomes. 
+
+**Civilisation is built from the marriage of bureaucracy and mythology.**
 

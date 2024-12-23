@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 2014 NYE celebrations. 
 Gang celebrates their own. Yoshitsune gives brief leadership speech. 
 

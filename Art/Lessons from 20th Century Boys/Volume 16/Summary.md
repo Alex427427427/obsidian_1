@@ -1,3 +1,5 @@
+Category: [[Art]] [[20th Century Boys]]
+___
 169 epilogue? 170 prologue? Over the rainbow.
 
 Kenji rides motorbike thru desert, singing I was dead. It was the third yeaer of Friend. 
