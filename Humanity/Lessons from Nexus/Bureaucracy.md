@@ -1,4 +1,4 @@
-Category: [[Information]] [[Nexus]]
+Category: [[Information]] [[Nexus]] [[Humanity]]
 ___
 
 Rule by Writing Desk (Bureau)

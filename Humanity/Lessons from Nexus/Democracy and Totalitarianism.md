@@ -1,4 +1,4 @@
-Category: [[Information]] [[Nexus]]
+Category: [[Information]] [[Nexus]] 
 ___
 
 Democracy is a distributed information network. 

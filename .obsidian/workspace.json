@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c811e8793efe984a",
+        "id": "cc0aca7ac00795a8",
         "type": "tabs",
         "children": [
           {
-            "id": "c5fb19ce41544bb4",
+            "id": "600abe67a015c8cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Humanity/Lessons from Nexus/The Nexus of Power.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Nexus of Power"
+              "title": "New tab"
             }
           }
         ]
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 390.5
   },
   "right": {
     "id": "035afcb343d9af72",
@@ -162,34 +158,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5fb19ce41544bb4",
+  "active": "e5bcc182f0ab1d9e",
   "lastOpenFiles": [
+    "Humanity/Lessons from Nexus/The Shifting Trends of War.md",
+    "Humanity/Lessons from Nexus/Final Word, Human Choice.md",
+    "Humanity/Lessons from Nexus/The Silicon Curtain and Global Divide.md",
     "Humanity/Lessons from Nexus/The Nexus of Power.md",
-    "Humanity/Lessons from Nexus/Democratic break down.md",
+    "Humanity/Lessons from Nexus/The False Law of the Jungle.md",
+    "Humanity/Lessons from Nexus/Bureaucracy's Alignment Problem.md",
+    "Humanity/Lessons from Nexus/Certainty and Global Conflict.md",
+    "Humanity/Lessons from Nexus/Bureaucracy.md",
+    "Humanity/Lessons from Nexus/Alignment Problem.md",
+    "Humanity/Lessons from Nexus/Algorithms.md",
+    "Humanity/Lessons from Nexus/Cooperation.md",
+    "Humanity/Lessons from Nexus/Mind-Body Split.md",
     "Humanity/Lessons from Nexus/Democracy and Totalitarianism.md",
+    "Humanity/Lessons from Nexus/Populism.md",
+    "Humanity/Lessons from Nexus/How to wield information for good.md",
+    "Humanity/Lessons from Nexus/Fallibility.md",
     "Humanity/Lessons from Nexus/Conservative Party Suicide.md",
-    "Humanity/Lessons from Nexus/Unfathomability.md",
-    "Humanity/Economics/Unemployment.md",
-    "Humanity/Economics/Interest Rates.md",
-    "Tags/Economics.md",
-    "Atlas of Life/Daily Reminder.md",
-    "Atlas of Life/Strange Lessons/There is an invasive falsehood.md",
-    "Atlas of Life/Strange Lessons/Sadness for the struggle of life.md",
-    "Atlas of Life/Notable Events/2024 Summary.md",
-    "Atlas of Life/Notable Events/2024-12-20.md",
-    "Atlas of Life/Notable Events/2024-10-20 Anthony Chat.md",
-    "Atlas of Life/Notable Events/2024-10-18 Joseppi chat.md",
-    "Tags/Memories.md",
-    "Atlas of Life/Life Problems/I don't know how to approach my career.md",
-    "Atlas of Life/Life Hopes/Experience a Long Term Relationship.md",
-    "Atlas of Life/Life Goals/Try to Contribute to Theoretical Physics.md",
-    "Atlas of Life/Life Goals/Publish Graphic Novels.md",
-    "Atlas of Life/Life Goals/Obtain Financial Security.md",
-    "Atlas of Life/Life Goals/Nice to Haves Bucket List.md",
-    "Atlas of Life/Life Goals/Master Interest List.md",
-    "Atlas of Life/Life Goals/2025 Resolutions.md",
-    "Atlas of Life/Life Goals/Maintain Body and Mind.md",
+    "Humanity/Lessons from Nexus/Civilisation.md",
+    "Tags/Humanity.md",
+    "Humanity/Lessons from Nexus/The International Arena.md",
     "Atlas of Life/Friends/Friends I Should Put Effort In.md",
+    "Atlas of Life/Life Goals/2025 Resolutions.md",
+    "Art/Lessons from V for Vendetta/Main V Lessons.md",
+    "Atlas of Life/Notable Events/2024 Summary.md",
+    "Art/Lessons from V for Vendetta",
+    "Atlas of Life/2024 Daily Reminder.md",
+    "Atlas of Life/Strange Lessons/2024 There is an invasive falsehood.md",
     "Art/Lessons from 20th Century Boys/Kenji and Kanna.png",
     "Humanity/Ethics",
     "Atlas of Life/Notable Events",
@@ -200,7 +197,6 @@
     "Humanity",
     "Humanity/Lessons from Nexus",
     "Art/Lessons from Mr Robot",
-    "Art/Projects/Alien Comic/New attempt",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234207.png",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234008.png",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020233732.png",

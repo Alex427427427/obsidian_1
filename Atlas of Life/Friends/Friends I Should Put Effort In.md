@@ -4,47 +4,48 @@ Related:
 ___
 ## Kelvin
 watch tv
-
 ## Martin
 meal and chat
-
 ## Jason
 chat, movie, gym
-
+## Patrick
+gym, chat, media
 ## Dimitri
-maths?
-
+maths, chat, media, games
+## Jasmine
+hang out
 ## Taaj
 engineering, coding
-
 ## Adam
 econ, world events
-
 ## Taha
 Philosophy, futurism
-
 ## Josepi
-
 
 ## Daniel
 
 ## Parmis
-parties
+
+### Tyson
 
 ## Dylan
 
-
 ## Nick
 Yearly greetings, catch up on life
+### Jason Abi Chebli
 
-## Ixya?
-not much...
-
-## Louise?
-Don't meet that much. 
-Yearly greetings
+### Jono
+## Ixya
 
 ## Liam, Ayden
 Housemates
 Lunar Rover
+## Louise?
+Don't meet that much. 
+Yearly greetings
 
+### Will Middlewick
+
+### Liv?
+
+### Liz and Yuyan

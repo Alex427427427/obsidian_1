@@ -5,7 +5,7 @@ There is the me that is intensely driven to obtain achievement, status and some 
 
 This is the me that makes me miserable. The me that is never satisfied. The me that feels desperation looking at every direction around me, because my path was not optimised for success in one field. The me that feels angry at everyone for lying to me, or for not having the answers to a younger me that needed them. 
 
-This false "me" is particularly invasive, because it grabs hold of the things that are supposed to be the deepest part of us - our prime cause. Our aspirations, our dreams, the thing that makes us want to get out of bed and do anything. Yet counter intuitively, this me makes me feel unmotivated, and that life has no meaning. This me is hyper goal focused, hyper critical of the value of things, and always asks "what's the point of this? (if not advancing something else?)"
+This false "me" is particularly invasive, because it grabs hold of the things that are supposed to be the deepest part of us - our prime cause. Our aspirations, our dreams, the thing that makes us want to get out of bed and do anything. Yet counter intuitively, this me makes me feel unmotivated, and that life has no meaning. This me is hyper goal focused, hyper critical of the value of things, and always asks "what's the point of this? (if not advancing some ultimate goal?)"
 
 When I feel those negative emotions of jealousy, regret, anger, annoyance, it is caused by the invasion of this falsehood. 
 ## Me

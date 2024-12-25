@@ -8,6 +8,13 @@ Sejanus of the Praetorian guards, originally established by Augustus (first Roma
 Eventually information slipped through the crack of Tiberius' information cage - a letter from his sister informing him of what has happened to Rome. Tiberius snuck back, gained the support of a fire watch guard who orchestrated a coup against Sejanus. The fire watch was set as the new Praetorian guard. Years later, the fire watch killed Tiberius.
 
 ### Nexus
+Those who control the nexus have the power to control the world. 
+
+Power used to be tied to land. So emperors could not hold unchallenged power for long. Land is impossible to literally concentrate, so must be distributed to delegates. 
+
+Then power was tied to machines, factories, and industry. The hubs of production. But still those hubs relied on land where raw materials originate. 
+
+Today it is information. Data colonies can send data to central hubs, where engineers that design algorithms control the fate of the world. 
+
 **The nexus of power lies at where information channels converge.** 
 Since Tiberius allowed the information channels to merge in the person of Sejanus, the latter became the true center of power, while Tiberius was reduced to a puppet. 
-

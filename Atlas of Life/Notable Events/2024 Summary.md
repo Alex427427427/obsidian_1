@@ -23,3 +23,4 @@ Started to see the payoff of gym.
 Binged micro + macro econ lectures by MIT on Youtube. Very eye-opening. 
 Reading Nexus, very valuable book. 
 
+Read V for Vendetta. My jaw dropped. 
