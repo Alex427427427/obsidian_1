@@ -12,4 +12,4 @@ ISPs:
 - allocate us an IP address
 - Holds agreements with other service providers so that we can enjoy access to those services via our ISP. 
 
-
+Sometimes, ISPs translate your home IP into the IP of their closest server. This can be within a few blocks of your home. 

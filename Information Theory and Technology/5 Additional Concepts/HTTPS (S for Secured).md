@@ -5,3 +5,4 @@ ___
 Denotes the protocol that uses HTTP alongside either TLS or SSL. 
 
 Uses [[Encryption]] due to the fact that TLS or SSL uses encryption. 
+

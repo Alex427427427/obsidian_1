@@ -25,7 +25,9 @@ What solves the above question.
 
 Uses the **Port** ([[Ports]]) portion of the outgoing messages (and hence incoming messages) to encode which computer AND which port is mapped to it. 
 
-**THE PORT IS CLOSED WHEN A PACKET IS RECEIVED**. This is for security reasons. It is random which port maps to whip device/port combination at any given time. 
+**THE PORT IS CLOSED WHEN A PACKET IS RECEIVED**. This is for security reasons. 
+
+It is also random which port maps to whip device/port combination at any given **session** (so the mapping is constant over a session. But is immediately wiped after the session.). 
 
 Stored in a table. 
 
