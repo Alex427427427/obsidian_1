@@ -5,7 +5,7 @@ When you order internet service from your [[Internet Service Providers (ISPs)]],
 
 While the data segment is often encrypted ([[Encryption]]), the source and destination IP addresses are not. ([[3 IP Addresses]]). So it's completely visible which household is trying to visit which site. In the case that the ISP translates the source IP into the IP of their own closest server to you, this can still be within a few blocks. 
 ### VPN
-A service. 
+A service. [[Proxy]] with encryption and larger scope (all traffic instead of traffic for specific services)
 
 When you connect to the internet with a VPN active, packets leaving you are already encrypted (with the VPN servers) (and don't have to wait for the destination server to share some public key with you).
 

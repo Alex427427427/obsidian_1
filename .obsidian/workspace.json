@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1d2a1e94516f189f",
+        "id": "79bd978e53e38242",
         "type": "tabs",
         "children": [
           {
-            "id": "53c57e042d52989e",
+            "id": "85939546b464a67d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Information Theory and Technology/1 Network Devices Basics/Wide Area Network (WAN).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wide Area Network (WAN)"
             }
           }
         ]
@@ -158,36 +162,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53c57e042d52989e",
+  "active": "85939546b464a67d",
   "lastOpenFiles": [
+    "Information Theory and Technology/1 Network Devices Basics/Local Area Network (LAN).md",
+    "Information Theory and Technology/1 Network Devices Basics/12 Subnets and Masks.md",
+    "Information Theory and Technology/1 Network Devices Basics/11 Routing vs Switching and more Devices.md",
+    "Information Theory and Technology/1 Network Devices Basics/10 Internet.md",
+    "Information Theory and Technology/1 Network Devices Basics/9 Routers.md",
+    "Information Theory and Technology/1 Network Devices Basics/8 Switches.md",
+    "Information Theory and Technology/1 Network Devices Basics/7 Bridges.md",
+    "Information Theory and Technology/1 Network Devices Basics/6 Hubs.md",
+    "Information Theory and Technology/1 Network Devices Basics/5 Repeaters.md",
+    "Information Theory and Technology/1 Network Devices Basics/4 Networks.md",
+    "Information Theory and Technology/1 Network Devices Basics/3 IP Addresses.md",
+    "Information Theory and Technology/1 Network Devices Basics/1 Hosts.md",
+    "Information Theory and Technology/1 Network Devices Basics/2 Clients and Servers.md",
+    "Information Theory and Technology/5 Additional Concepts/Cookies (Internet).md",
+    "Information Theory and Technology/5 Additional Concepts/TOR.md",
+    "Information Theory and Technology/5 Additional Concepts/Untitled",
+    "Information Theory and Technology/5 Additional Concepts/VPN (Virtual Private Network).md",
+    "Information Theory and Technology/5 Additional Concepts/Proxy.md",
     "Information Theory and Technology/4 Additional Infrastructure/Mobile Carrier.md",
     "Information Theory and Technology/4 Additional Infrastructure/eSIM.md",
     "Information Theory and Technology/4 Additional Infrastructure/SIM Cards.md",
     "Information Theory and Technology/4 Additional Infrastructure/Public WiFi Networks.md",
     "Information Theory and Technology/4 Additional Infrastructure/Cell Towers and Cellular Network.md",
     "Information Theory and Technology/5 Additional Concepts/Voice over IP (VOIP).md",
-    "Information Theory and Technology/5 Additional Concepts/VPN (Virtual Private Network).md",
     "Information Theory and Technology/3 Detailed Operation/Domain Name Service (DNS).md",
     "Information Theory and Technology/4 Additional Infrastructure/Internet Service Providers (ISPs).md",
     "Information Theory and Technology/7 Attacks/Evil Twin Attack.md",
-    "Information Theory and Technology/7 Attacks/End Point Attacks.md",
-    "Information Theory and Technology/4 Additional Infrastructure/Access Point.md",
-    "Information Theory and Technology/4 Additional Infrastructure/Street Cabinets.md",
-    "Information Theory and Technology/4 Additional Infrastructure/Satellite Links.md",
-    "Information Theory and Technology/4 Additional Infrastructure/WiFi (Wireless Fidelity).md",
     "Information Theory and Technology/0 Information Theory",
     "Information Theory and Technology/4 Additional Infrastructure",
-    "Information Theory and Technology/7 Attacks/Man in the Middle (MITM) Attack.md",
-    "Information Theory and Technology/7 Attacks/Brute Force Credential Stuffing.md",
-    "Information Theory and Technology/7 Attacks/SQL Injection.md",
-    "Information Theory and Technology/5 Additional Concepts/Virtual Local Area Networks (VLANs).md",
-    "Information Theory and Technology/5 Additional Concepts/URL (Uniform Resource Allocator).md",
-    "Information Theory and Technology/5 Additional Concepts/Authentication.md",
-    "Information Theory and Technology/5 Additional Concepts/SSID (Service Set Identifier).md",
-    "Information Theory and Technology/7 Attacks/Phishing.md",
-    "Information Theory and Technology/7 Attacks/Ransomware.md",
-    "Information Theory and Technology/7 Attacks/(Distributed) Denial of Service (DOS or DDOS) Attack.md",
-    "Tags/Hacking.md",
     "Information Theory and Technology/7 Attacks",
     "Information Theory and Technology/0 Information Theory/Encryption and Cryptography",
     "Information Theory and Technology/6 IT Software",
@@ -195,7 +200,6 @@
     "Information Theory and Technology/3 Detailed Operation",
     "Information Theory and Technology/2 OSI",
     "Information Theory and Technology/Network devices/Untitled",
-    "Information Theory and Technology/1 Network Devices Basics",
     "Art/Lessons from 20th Century Boys/Kenji and Kanna.png",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234207.png",
     "University Tasks/Experimental Physics/Optical Tweezer/images/Pasted image 20241020234008.png",
