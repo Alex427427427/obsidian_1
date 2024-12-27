@@ -1,8 +1,8 @@
-Category: [[Information Theory]]
+Category: [[Information Theory]] 
 ___
 Prerequisite:
 ___
-Related: 
+Related: [[What Information Is]] [[Information]]
 ___
 For much of history, information was a vague concept. It was with Claude Shannon in the 1940s that a modern notion of information that was precise and quantifiable was born. 
 ## What is Information
