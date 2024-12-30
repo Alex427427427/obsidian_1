@@ -1,6 +1,6 @@
 Category: [[Information Technology]] [[Cybersecurity]] [[Hacking]]
 ___
-Injecting malicious SQL queries into a web app's database. 
+Injecting malicious SQL ([[SQL (Structured Query Language)]]) queries into a web app's database. 
 
 ### Example
 How this is possible:
