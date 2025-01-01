@@ -1,7 +1,7 @@
 Category: [[Art]]
 ___
 ## Books
-Nexus
+
 ## Comics
 Stagtown
 ## Manga
