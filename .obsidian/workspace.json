@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Master Watch and Read List.md",
+                "file": "Information Theory and Technology/7 Attacks/(Distributed) Denial of Service (DOS or DDOS) Attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Watch and Read List"
+              "title": "(Distributed) Denial of Service (DOS or DDOS) Attack"
             }
           }
         ]
@@ -164,6 +164,15 @@
   },
   "active": "944c2b316ad42cd3",
   "lastOpenFiles": [
+    "Information Theory and Technology/7 Attacks/Brute Force Credential Stuffing.md",
+    "Information Theory and Technology/7 Attacks/(Distributed) Denial of Service (DOS or DDOS) Attack.md",
+    "Information Theory and Technology/7 Attacks/End Point Attacks.md",
+    "Information Theory and Technology/7 Attacks/Ransomware.md",
+    "Information Theory and Technology/7 Attacks/Man in the Middle (MITM) Attack.md",
+    "Information Theory and Technology/7 Attacks/Evil Twin Attack.md",
+    "Information Theory and Technology/7 Attacks/SQL Injection.md",
+    "Information Theory and Technology/5 Additional Concepts/Proxy.md",
+    "Art/Master Watch and Read List.md",
     "Computer and Software/Software Systems/Data Analysis/Power BI.md",
     "Computer and Software/Software Systems/Databases/RDBMS (Relational Database Management System).md",
     "Computer and Software/Software Systems/Data Analysis",
@@ -174,7 +183,6 @@
     "Computer and Software/Software Systems/Databases/Non Relational Database.md",
     "Computer and Software/Software Systems/Web Apps and Frameworks.md",
     "Tags/Information Technology.md",
-    "Information Theory and Technology/7 Attacks/SQL Injection.md",
     "Computer and Software/Hardware Architecture/Architectre.md",
     "Computer and Software/Software Systems/Databases",
     "Computer and Software/Software Systems/Untitled.md",
@@ -186,14 +194,6 @@
     "Information Theory and Technology/1 Network Devices Basics/11 Routing vs Switching and more Devices.md",
     "Information Theory and Technology/1 Network Devices Basics/10 Internet.md",
     "Information Theory and Technology/1 Network Devices Basics/9 Routers.md",
-    "Information Theory and Technology/1 Network Devices Basics/8 Switches.md",
-    "Information Theory and Technology/1 Network Devices Basics/7 Bridges.md",
-    "Information Theory and Technology/1 Network Devices Basics/6 Hubs.md",
-    "Information Theory and Technology/1 Network Devices Basics/5 Repeaters.md",
-    "Information Theory and Technology/1 Network Devices Basics/4 Networks.md",
-    "Information Theory and Technology/1 Network Devices Basics/3 IP Addresses.md",
-    "Information Theory and Technology/1 Network Devices Basics/1 Hosts.md",
-    "Information Theory and Technology/1 Network Devices Basics/2 Clients and Servers.md",
     "Information Theory and Technology/5 Additional Concepts/Untitled",
     "Information Theory and Technology/0 Information Theory",
     "Information Theory and Technology/4 Additional Infrastructure",
