@@ -7,7 +7,7 @@ Long term deprivation of fundamental human need - intimacy
 
 Intense longing exacerbated by comparison and imagination
 
-Low self worth - love is a thing that others do
+Low self worth - love is a thing that others do (I don't deserve it)
 
 Low energy to put in the work to escape loneliness
 

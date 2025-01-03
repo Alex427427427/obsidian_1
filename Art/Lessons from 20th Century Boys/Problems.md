@@ -10,7 +10,7 @@ Mystery clues are shown too much on the fly.
 
 Some characters were useless - Yukiji, Kanna (later)
 
-Climaxes were overexaggerated, but at the same time underplayed and over too soon. (maybe this is ok?)
+Climaxes were overexaggerated, but at the same time underplayed and over too soon. 
 
 Not really shown how the conspiracy grew. 
 

@@ -13,5 +13,5 @@ An attacker could input this into the username field:
 Which makes the query:
 SELECT * FROM users WHERE username = '' OR '1'='1' AND password = 'password123'
 
-Since 1 is always = 1, the query bypasses authentication. 
+Since 1 is always = 1, the query bypasses authentication ([[Authentication]]). 
 
