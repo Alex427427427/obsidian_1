@@ -12,3 +12,4 @@ Rules:
 2. For each candidate, you assess the value they can provide. They also assess the value you can provide. 
 3. If both of you believe the values you can provide each other are satisfactory, you agree to engage in value exchange - a committed relationship. Choose and be chosen. 
 
+Step 2 contains an implicit and important element: **courtship**. [[7 Courtship]]

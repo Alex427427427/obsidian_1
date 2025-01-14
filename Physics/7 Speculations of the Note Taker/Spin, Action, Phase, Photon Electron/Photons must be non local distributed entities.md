@@ -1,4 +1,4 @@
-Tags: [[Speculation]] [[Photon is non local]] [[Spin and Action Speculation]] [[Photon is a unit Angular Momentum]]
+Tags: [[Speculation]] [[Photon is Already Longitudinally non local]] [[Spin and Action Speculation]] [[Photon is a unit Angular Momentum]]
 ___
 Photon is distributed as it propagates. Self interference occurs over vast distances.
 

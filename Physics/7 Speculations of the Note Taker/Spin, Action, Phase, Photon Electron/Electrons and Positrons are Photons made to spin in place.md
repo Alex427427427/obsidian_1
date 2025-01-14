@@ -1,4 +1,4 @@
-Tags: [[Speculation]] [[Spin and Action Speculation]] [[Electrons and Positrons are Photons with Opposite phase evolution]] [[Photon is a unit Angular Momentum]] [[Photon is non local]]
+Tags: [[Speculation]] [[Spin and Action Speculation]] [[Electrons and Positrons are Photons with Opposite phase evolution]] [[Photon is a unit Angular Momentum]] [[Photon is Already Longitudinally non local]]
 ___
 There are so many tantalising clues that point to electrons and positrons being photons made to spin in place somehow. It's just out of reach. It's so frustrating! 
 

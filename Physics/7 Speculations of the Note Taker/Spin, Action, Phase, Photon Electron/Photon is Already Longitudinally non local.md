@@ -2,5 +2,4 @@ Tags: [[Speculation]] [[Non-Local Realism]] [[Photon is a unit Angular Momentum]
 ___
 From the photon's perspective, it really permeates all space at once along its direction. At one location. There is no time.... See twistor theory... we're about to finally discover in many different forms, that photons make up all things, and all space is composed of these strands that in fact lie on top of one another. 
 
-
-
+This non locality is along the longitudinal direction, not the transverse direction which vexes all of us in the measurement problem. 

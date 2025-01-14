@@ -1,8 +1,13 @@
 Category: [[Art]] [[Ocean Comic]]
 ___
-### Prof Missing, Narrator and Substitute Lecturer Embark on Search
+### 0 Flash Forward
+Red text: Seven continents ([[Red Voice]])
 
-### Arrive at Landon House, Search Till Night Fall, Ocean Outside
+Narrator and Fara trapped in a submarine-like vessel, observing a vampire squid outside. The narrator wonders if they are heading towards the graveyard at the bottom of all oceans. 
+### 1 Prof Missing, Narrator and Substitute Lecturer Embark on Search
+The Narrator is a PhD student of marine biology. His professor Landon went missing. 
+He visits substitute lecture to find out what happened. 
+### 2 Arrive at Landon House, Search Till Night Fall, Ocean Outside
 
 ### Recover from shock, Test Their Surroundings, Fish Monster in House
 
