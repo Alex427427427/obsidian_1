@@ -9,9 +9,9 @@ ___
 朦朦胧胧地，我读完了高中，大学本科，研究生，直到现在以海洋生物学的课题读博士。
 
 
-I always found the ocean interesting. The ocean laid bare the truth of this world. Before its vast expanse, everything about life was irrelevant or inconsequential. What lurked within its expanse, was to a significant degree unknowable. 
+I always found the ocean interesting, because it laid bare the truth of this world. Before its vast expanse, everything about life was irrelevant or inconsequential. What lurked within its expanse, was to a significant degree unknowable. 
 
-Inconsequence and unknowability - those were the truths of this world. Me... I’d never set lofty goals for myself, nor developed passions, nor pondered my happiness. I’ve simply followed the path laid out for me. 
+Inconsequence and unknowability - those were the truths of this world. Me... I never knew where I wanted to go nor felt like it mattered. I’d never set lofty goals for myself, nor developed passions, nor pondered my happiness. I’ve simply followed the path laid out for me. 
 
-As if in a haze, I made my way through high school, then college, then graduate school. Now, here I am, pursuing a PhD in marine biology. 
+As if in a haze, I made my way through high school, then college, then graduate school. Now, here I am, pursuing a PhD in oceanography. 
 
