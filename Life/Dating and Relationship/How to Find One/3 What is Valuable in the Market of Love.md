@@ -8,7 +8,7 @@ I want you to consider the totality of behaviour in the dating pool. Think about
 
 **Notice how the search of good virtues is the least on someone's mind.** Instead, people **rapidly evaluate your vibe and make judgements on what kinds of experiences and feelings you can provide them.** That is the basis of attraction. Sure, some peopled explicitly search for good virtues but that is only **in service** to their understanding of what a good experience is. This is why being a "good person" is not correlated with dating success. 
 
-When people window shop a partner in the market of love, they are shopping for the potential to have **good experiences / memories / feelings**, be it companionship, sex, fun activities, emotional support, a feeling of total acceptance, a lifelong journey. **People do not shop for good traits. That comes later during [[7 Courtship]]**.
+When people window shop a partner in the market of love, they are shopping for the potential to have **good experiences / memories / feelings**, be it companionship, sex, fun activities, emotional support, a feeling of total acceptance, a lifelong journey. **People do not shop for good traits. That comes later during [[8 Courtship]]**.
 
 So how you make them **feel** is paramount. 
 

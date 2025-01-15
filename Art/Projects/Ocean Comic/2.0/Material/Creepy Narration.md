@@ -35,20 +35,22 @@ Marina Basin feels even more distant, its horrors softened by time.
 Is it still down there, I wonder? 
 Or did it collapse in on itself and vanish, pulled into the void along with Marina herself?
 
-Landon passed away quietly a while ago. 
-
-His deep gaze and strained smiles - now faint echoes lost to the afternoon rays shining on an empty hospital bed. 
-
-We visited him till the end. 
-
 Sometimes, I question what was real. Was that hidden ocean just a nightmare? 
 
 No, it couldn't have been, because Marina's organs were absent when we woke up. 
 
 Maybe the surface world is the real illusion. 
 A thin membrane, fragile and translucent, stretched over an endless deep blue. 
+It's as if I can still feel the beating of the heart, but for the first time, I want to listen. 
 What better pursuit to devote my life to, than to peel back the membrane? 
+Fear is a signal that there is a frontier waiting to be crossed. 
 I’ve always been standing on the edge. 
+
+Landon passed away quietly a while ago. 
+
+His deep gaze and strained smiles - now faint echoes lost to the afternoon rays shining on an empty hospital bed. 
+
+We visited him till the end. 
 
 I wonder if Landon reunited with the one ocean that loved him the most. 
 The one waiting for him at the heart of it all. 

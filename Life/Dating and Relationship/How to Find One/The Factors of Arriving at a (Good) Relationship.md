@@ -20,7 +20,7 @@ Increase or maintain your value in the market of love.
 
 Assess potential partner's value, while conveying your own via existing authentically. 
 
-Perform courtship. [[7 Courtship]].
+Perform courtship. [[8 Courtship]].
 
 Choose and be chosen. 
 
