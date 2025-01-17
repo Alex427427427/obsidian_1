@@ -28,7 +28,7 @@ Avoidant. Doesn't like assuming what other people need. Reluctantly agrees to se
 
 Blames Fara for bringing them into this situation. 
 
-Has latent fear of the deep ocean. Him being drawn to oceanography is a manifestation of morbid curiosity by his deepest fears. 
+Has latent fear of the deep ocean. Him being drawn to oceanography is a manifestation of morbid curiosity of his deepest fears. 
 
 Breaks down when at a critical moment he must enter the ocean, he realises this intense fear and examines his entire life, feeling insignificant and hopeless. 
 

@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ade192945abbf9e1",
+        "id": "112a4eb913c81298",
         "type": "tabs",
         "children": [
           {
-            "id": "d0c41ac1b4e17d80",
+            "id": "58eee399ef19bd45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art/Projects/Ocean Comic/2.0/Plot/Ocean Comic Plot Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ocean Comic Plot Summary"
+            }
+          },
+          {
+            "id": "ccfe8eb99da18067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art/Projects/Ocean Comic/2.0/Plot/blah.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "blah"
+            }
+          },
+          {
+            "id": "9606ce4b160f9f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +49,8 @@
               "title": "Setup"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,15 +191,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0c41ac1b4e17d80",
+  "active": "ccfe8eb99da18067",
   "lastOpenFiles": [
-    "Art/Projects/Ocean Comic/2.0/setup/The Answers.md",
-    "Art/Projects/Ocean Comic/2.0/Plot/Script.md",
-    "Art/Projects/Ocean Comic/2.0/Plot/Narrator Emotional Journey.md",
-    "Art/Projects/Ocean Comic/2.0/setup/Setup.md",
-    "Art/Projects/Ocean Comic/2.0/setup/Themes of Ocean comic.md",
-    "Art/Projects/Ocean Comic/2.0/Material/Red Voice.md",
     "Art/Projects/Ocean Comic/2.0/Plot/Ocean Comic Plot Summary.md",
+    "Art/Projects/Ocean Comic/2.0/setup/Setup.md",
+    "Art/Projects/Ocean Comic/2.0/Plot/blah.md",
+    "Art/Projects/Ocean Comic/2.0/Plot/Narrator Emotional Journey.md",
+    "Art/Projects/Ocean Comic/2.0/Plot/Script.md",
+    "Art/Projects/Ocean Comic/2.0/Material/Abstract Mental Space.md",
+    "Art/Projects/Ocean Comic/2.0/Material/Marina's Dreams.md",
+    "Art/Projects/Ocean Comic/2.0/Material/Red Voice.md",
+    "Art/Projects/Ocean Comic/2.0/setup/Themes of Ocean comic.md",
+    "Art/Projects/Ocean Comic/2.0/setup/The Answers.md",
+    "Life/Dating and Relationship/How to Find One/8 Courtship.md",
+    "Life/Dating and Relationship/How to Find One/7 Existing in Spaces that Allow Repeated Interaction with Potential Partners.md",
+    "Life/Dating and Relationship/How to Find One/6 Meeting Partners.md",
+    "Life/Dating and Relationship/How to Find One/5 Grand Strategy.md",
     "Art/Projects/Ocean Comic/2.0/setup",
     "Art/Projects/Ocean Comic/2.0/Material/Creepy Narration.md",
     "Art/Projects/Ocean Comic/2.0/Material/Opening or Submerge Scene Monologue.md",
@@ -182,15 +218,8 @@
     "Life/Dating and Relationship/How to Find One/2 Relationships are Value Exchange.md",
     "Life/Dating and Relationship/How to Find One/3 What is Valuable in the Market of Love.md",
     "Life/Dating and Relationship/How to Find One/4 The Rules of the Game.md",
-    "Life/Dating and Relationship/How to Find One/5 Grand Strategy.md",
-    "Life/Dating and Relationship/How to Find One/6 Meeting Partners.md",
-    "Life/Dating and Relationship/How to Find One/7 Existing in Spaces that Allow Repeated Interaction with Potential Partners.md",
-    "Life/Dating and Relationship/How to Find One/8 Courtship.md",
     "Life/Dating and Relationship/How to Find One/Social Knowledge.md",
     "Life/Dating and Relationship/How to Find One/Less Pressure Leads to More Success.md",
-    "Physics/7 Speculations of the Note Taker/Spin, Action, Phase, Photon Electron/Photon is Already Longitudinally non local.md",
-    "Art/Projects/Ocean Comic/2.0/Material/Creepy - Pool Water Appearing Like Deep Ocean.md",
-    "Physics/6 Open Problems and Anomalies/To Build a Theory/Contents of a Theory.md",
     "Physics/1 Classical Mechanics/5 Statistical Mechanics and Thermodynamics",
     "Engineering/Elements of a House/Images/Pasted image 20250112145423.png",
     "Engineering/Elements of a House/5 Common Appliances",

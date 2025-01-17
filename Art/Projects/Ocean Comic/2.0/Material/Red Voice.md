@@ -21,6 +21,11 @@ This is not your dream
 I’m the one who lies in this basin of flesh and blood
 I lie
 In the heart of the ocean
+### 4 When they read stories of people that died
+You are not the first 
+To hear its question
+Nor the first 
+To drown in its answer
 ### 5 When water emerges into the hatch
 The heart of the ocean beats
 So that water can seep out of the earth’s pores
@@ -60,14 +65,13 @@ The arteries tighten
 The body does not let go 
 Of what it has swallowed.
 ### 9 After the Abyssal Carpet Swallows the Creature
-Whether abundant ocean...
-or desolate land... 
-No feeling is the end.
-Because, on longer time scales...
-Desert... 
-Becomes ocean...
-Becomes desert...
-Becomes ocean again. 
+Whether abundant ocean
+or desolate land
+no feeling is the end.
+
+On longer time scales
+even desert can become 
+ocean again. 
 ### 10 When the bunker door opens
 Welcome
 And thank you
@@ -87,11 +91,6 @@ A memory older than memory itself
 Surges through your veins 
 It was never yours to hold 
 But it has always known your name.
-### Other 5
-You are not the first 
-To hear its question
-Nor the first 
-To drown in its answer
 ### Other 6 - When the Ocean Seems Infinite
 You measure depth in kilometers 
 But you do not measure time in eons 
