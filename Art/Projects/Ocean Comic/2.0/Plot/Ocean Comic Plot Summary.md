@@ -32,6 +32,4 @@ Eventually, Narrator remembers the name of the ocean - Marina Basin. The red voi
 ### In Bunker, Landon Stand Off. Narrator and Substitute Convince Him to Let Marina Go. 
 Narrator and Fara enter the bunker and see Landon kneeling beside a metal dish, with organs connected with tubes. 
 Landon acknowledges their arrival. Tells them not to disturb and wake Marina - implied to be the organs. Landon explains how Marina's dream transports the house to this ocean every night. He recounts how he fought valiantly to stave off the fish that want to grab Marina away. The house is about to enter the ocean floor's superorganism, and Landon intends to be with it, so he can obtain eternal life with Marina forever. 
-
-
 ### Aftermath

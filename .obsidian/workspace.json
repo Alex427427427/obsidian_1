@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58eee399ef19bd45",
+            "id": "ccfe8eb99da18067",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "ccfe8eb99da18067",
+            "id": "5b606b731e40aebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Projects/Ocean Comic/2.0/Plot/blah.md",
+                "file": "Art/Projects/Ocean Comic/2.0/Plot/Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blah"
+              "title": "Script"
             }
           },
           {
@@ -191,13 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccfe8eb99da18067",
+  "active": "5b606b731e40aebf",
   "lastOpenFiles": [
     "Art/Projects/Ocean Comic/2.0/Plot/Ocean Comic Plot Summary.md",
+    "Art/Projects/Ocean Comic/2.0/Plot/Script.md",
     "Art/Projects/Ocean Comic/2.0/setup/Setup.md",
     "Art/Projects/Ocean Comic/2.0/Plot/blah.md",
     "Art/Projects/Ocean Comic/2.0/Plot/Narrator Emotional Journey.md",
-    "Art/Projects/Ocean Comic/2.0/Plot/Script.md",
     "Art/Projects/Ocean Comic/2.0/Material/Abstract Mental Space.md",
     "Art/Projects/Ocean Comic/2.0/Material/Marina's Dreams.md",
     "Art/Projects/Ocean Comic/2.0/Material/Red Voice.md",
