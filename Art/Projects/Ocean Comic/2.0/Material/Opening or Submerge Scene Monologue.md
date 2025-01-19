@@ -15,3 +15,4 @@ Inconsequence and unknowability - those were the truths of this world. Me... I n
 
 As if in a haze, I made my way through high school, then college, then graduate school. Now, here I am, pursuing a PhD in oceanography. 
 
+Why oceanography? 

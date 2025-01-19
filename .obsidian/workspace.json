@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ccfe8eb99da18067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art/Projects/Ocean Comic/2.0/Plot/Ocean Comic Plot Summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ocean Comic Plot Summary"
-            }
-          },
-          {
-            "id": "5b606b731e40aebf",
+            "id": "f24c641180b0fefd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Script"
             }
-          },
-          {
-            "id": "9606ce4b160f9f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Art/Projects/Ocean Comic/2.0/setup/Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setup"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,14 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b606b731e40aebf",
+  "active": "f24c641180b0fefd",
   "lastOpenFiles": [
-    "Art/Projects/Ocean Comic/2.0/Plot/Ocean Comic Plot Summary.md",
+    "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field/Flowing Space.md",
+    "Physics/7 Speculations of the Note Taker/Gravity, Spacetime, Unified Field/Untitled.md",
     "Art/Projects/Ocean Comic/2.0/Plot/Script.md",
-    "Art/Projects/Ocean Comic/2.0/setup/Setup.md",
-    "Art/Projects/Ocean Comic/2.0/Plot/blah.md",
-    "Art/Projects/Ocean Comic/2.0/Plot/Narrator Emotional Journey.md",
+    "Engineering/Materials/Ceramic.md",
+    "Engineering/Space Engineering/Satellite Reaction Wheels.md",
+    "Art/Projects/Ocean Comic/2.0/Material/Opening or Submerge Scene Monologue.md",
     "Art/Projects/Ocean Comic/2.0/Material/Abstract Mental Space.md",
+    "Art/Projects/Ocean Comic/2.0/setup/Setup.md",
+    "Art/Projects/Ocean Comic/2.0/setup/Narrator Emotional Journey.md",
+    "Art/Projects/Ocean Comic/2.0/Plot/Ocean Comic Plot Summary.md",
+    "Art/Projects/Ocean Comic/2.0/Plot/blah.md",
     "Art/Projects/Ocean Comic/2.0/Material/Marina's Dreams.md",
     "Art/Projects/Ocean Comic/2.0/Material/Red Voice.md",
     "Art/Projects/Ocean Comic/2.0/setup/Themes of Ocean comic.md",
@@ -209,17 +185,12 @@
     "Life/Dating and Relationship/How to Find One/5 Grand Strategy.md",
     "Art/Projects/Ocean Comic/2.0/setup",
     "Art/Projects/Ocean Comic/2.0/Material/Creepy Narration.md",
-    "Art/Projects/Ocean Comic/2.0/Material/Opening or Submerge Scene Monologue.md",
     "Art/Projects/Ocean Comic/1.0/Characters/The Substitute Lecturer Fara.md",
     "Art/Projects/Ocean Comic/1.0/Characters/The Narrator, PhD student Yang.md",
     "Art/Projects/Ocean Comic/1.0/Characters/The Missing Professor Landon.md",
     "Life/Dating and Relationship/How to Find One/0 The Game Theory of Dating.md",
     "Life/Dating and Relationship/How to Find One/1 You Don't Deserve Love, but You Need It.md",
     "Life/Dating and Relationship/How to Find One/2 Relationships are Value Exchange.md",
-    "Life/Dating and Relationship/How to Find One/3 What is Valuable in the Market of Love.md",
-    "Life/Dating and Relationship/How to Find One/4 The Rules of the Game.md",
-    "Life/Dating and Relationship/How to Find One/Social Knowledge.md",
-    "Life/Dating and Relationship/How to Find One/Less Pressure Leads to More Success.md",
     "Physics/1 Classical Mechanics/5 Statistical Mechanics and Thermodynamics",
     "Engineering/Elements of a House/Images/Pasted image 20250112145423.png",
     "Engineering/Elements of a House/5 Common Appliances",
