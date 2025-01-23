@@ -10,21 +10,10 @@ The narrator uneasily observes it with dread. Professor Fara describes marine sn
 
 Title drop. 
 ##### Opening: The narrator studies oceanography with apathy. Professor Landon goes missing after handing the narrator a USB containing information regarding uncharted waters underneath the world's oceans. Substitute lecturer Fara urges the narrator to search for Landon. They exchange clues and depart for Landon's house. 
-Narrator: "The ocean moves because it has to. Temperature, salinity and gravity create a dance of pressures that push currents through the depths and across the surface. Earth's rotation deflects these paths via the Coriolis effect. Wind sculpts surface currents into ever-changing patterns. The heavenly bodies pull the earth along an aggregate direction, now here, now there, forming the oceans of the world into an every-so-slightly oval shield of water which the earth revolves within, creating tides. 
-
-Satisfying in simplicity, beautiful in chaos and unpredictability, this about wraps it up for the physics of currents. As far as I was interested, this was the end of the story. 
-
-So why did I chose to study oceanography? 
-
-I never knew where I wanted to go nor felt like it mattered. Never set lofty goals for myself, nor developed passions, nor pondered my happiness. I’ve simply moved when I had to, along the path of least resistance. 
-
-As if in a haze, I made my way through high school, then college. Now here I am, pursuing a PhD. 
-
-
-
-
-
-
+[[Start (until the search)]]
+1. Something was wrong with Landon
+2. The Landon I knew
+3. 
 ##### They arrive at Landon's strange submarine-like house and find him in a catatonic state telling them to leave. When Fara tends to Landon, the narrator finds clues of an abandoned classified project. The only inaccessible place is a locked bunker with password prompt "name of the ocean". They search until night fall. 
 
 ##### When the two attempt to leave, they find the outside to be an endless ocean. Landon has run off into the house. They recover from shock, test their situation and prove they are underwater. 

@@ -4,10 +4,7 @@ A voice that reaches the Narrator's mind. Actually Marina's voice, mostly mumbli
 
 ### 1 At the start
 Seven continents surfaced, when zero should have been enough. And organisms that ought to swim, have, over the eons, walked onto land. 
-### 2 When narrator remembers his studies and professor
-There is much more water on earth than previously thought. 
-The known oceans of the world make up one fourth.
-The rest lies below them. 
+
 ### 3 When Narrator sees Professor's Note for him
 There is a place where bones do not fossilize. 
 Where flesh does not decay. 
@@ -43,6 +40,11 @@ Why do you walk here
 Why do you breathe here 
 Why do you hope 
 When I only devour
+
+### 2 After Fara Encouragement and when narrator remembers his studies and professor
+There is more water on earth than previously thought. 
+The known oceans of the world make up one fourth.
+The rest lies below them. 
 ### 7 When narrator enters the ocean for the final time
 Night after night
 I invite the house here
