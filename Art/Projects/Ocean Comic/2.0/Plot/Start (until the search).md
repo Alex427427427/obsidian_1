@@ -1,25 +1,5 @@
 Category: [[Art]] [[Ocean Comic]]
 ___
-### Something was wrong with Professor Landon.
-Narration: "Something was wrong with Professor Landon.
-
-"First, he started having memory problems. He didn't remember my name, nor my project that he was supervising. 
-
-"This was troubling because my PhD depended on his guidance.
-
-"Next, he started avoiding the rain. Not in the normal sense, but like a obsessive compulsive game of life and death." 
-
-Narrator, Professor Fara and other colleagues ask Landon to go to lunch. Landon initially agrees, but when they come upon the outside and it rains, Landon sees it and declines the offer. 
-
-The Narrator walked to the carpark in the rain, turned around, and saw Landon looking at him from his window. 
-
-Narration: "If it rained in the evenings, he would rather stay in his office than to walk to the carpark, even if he had an umbrella." 
-
-Narration: "His office began to have a strange odor. I couldn't really make out what it was. Had he stopped showering?
-
-"Once, he collapsed during lunch break. 
-
-"When we tried to give him water, he yelled and fought to get away from us."
 ### Missing Professor
 An empty podium.
 Narration: "It had been months since Professor Landon last showed up to his classes."
@@ -46,8 +26,44 @@ Grotesque oceanic organisms.
 Narration: "They were of bizarre organisms, possibly oceanic, never-before-seen." 
 
 An omnipresent voice of red colour appears on black panel: *When night falls, it is like a black ocean, descending upon mankind*
-### Study
+### Something was wrong with Professor Landon.
+Narration: "In the weeks before his disappearance, Landon was often distant and distracted. 
 
+The narrator remembers a conversation with Landon. 
+Narration: "It was as if he needed to be somewhere else."
+
+It was raining outside.
+Narration: "It had been a rainy season."
+
+"First, he started having memory problems. He didn't remember my name, nor my project that he was supervising. 
+
+"This was troubling because my PhD depended on his guidance.
+
+Narrator, Professor Fara and other colleagues ask Landon to go to lunch. Landon initially agrees, but when they come upon the outside and it rains, Landon sees it and declines the offer. 
+
+The Narrator walked to the carpark in the rain, turned around, and saw Landon looking at him from his window. 
+
+Narration: "If it rained in the evenings, he would rather stay in his office than to walk to the carpark, even if he had an umbrella." 
+
+Narration: "His office began to have a strange odor. I couldn't really make out what it was. Had he stopped showering?
+
+"Once, he collapsed during lunch break. 
+
+"When we tried to give him water, he yelled and fought to get away from us."
+### The Professor Landon I knew
+Narrator: "The Landon I knew remembered everything I said or did. The Landon I knew was always calm and collected. The Landon I knew... loved the ocean." 
+
+Landon, in a lecture: "The ocean moves because it has to. Temperature, salinity and gravity create a dance of pressures that push currents through the depths and across the surface. Earth's rotation deflects these currents via the Coriolis effect. The ocean floor drags on them. Wind sculpts surface currents into ever-changing patterns. The heavenly bodies pull the earth along an aggregate direction, now here, now there, forming the oceans of the world into an every-so-slightly oval shield of water which the earth revolves within, creating tides. 
+
+"Satisfying in its simplicity, baffling in its chaos and unpredictability, this about wraps it up for the physics of currents. As far as an undergraduate is concerned, this is the end of the story. 
+
+"So why study oceanography?"
+
+The narrator listens, mesmerised. 
+Narration: "I never knew where I wanted to go nor felt like it mattered. Never set lofty goals for myself, nor developed passions, nor pondered my happiness. I’ve simply moved when I had to, along the path of least resistance. 
+
+"As if in a haze, I made my way through high school and college. And there I was, about to start a PhD because of some old man's passionate speech.
+### Study
 Present day, the narrator stares at his half finished sentence on his thesis. The title of the document says: ON THE SHAPING OF DEEP CURRENTS BY OCEANIC LANDSCAPES. 
 
 Narrator: Was that all? That was all I got done today...
@@ -63,39 +79,11 @@ Narration: "Everything is just..."
 He sees the USB hiding within, and freezes in terror. His gaze of the scene dissolves into a frame of the ominous ocean floor, oppressively dark and suspiciously vacant. 
 
 He zips up the pencil case, leaves the library and walks through a campus in the evening. 
-### Fara's Call to Action
+### Fara
 At the car park, Fara stands in the distance eerily. The narrator notices her. 
-
-Fara: "I see you standing in my lectures. Are you worried about Landon?"
-
-Narrator: "Everyone is. Not my problem."
-
-Fara: "You know where his house is, don't you?"
-
-Narrator, frowning: "What are you talking about?"
-
-Fara, walking close: "Don't play dumb. You're the only one he trusted enough to invite over."
-
-Narrator, uneasy: "Why do you care so much?"
-
-
-
-### The Professor Landon I knew
-Narrator: "The Landon I knew remembered everything I said or did. The Landon I knew was always calm and collected. The Landon I knew... loved the ocean." 
-
-Landon, in a lecture: "The ocean moves because it has to. Temperature, salinity and gravity create a dance of pressures that push currents through the depths and across the surface. Earth's rotation deflects these currents via the Coriolis effect. The ocean floor drags on them. Wind sculpts surface currents into ever-changing patterns. The heavenly bodies pull the earth along an aggregate direction, now here, now there, forming the oceans of the world into an every-so-slightly oval shield of water which the earth revolves within, creating tides. 
-
-"Satisfying in its simplicity, baffling in its chaos and unpredictability, this about wraps it up for the physics of currents. As far as an undergraduate is concerned, this is the end of the story. 
-
-"So why study oceanography?"
-
-The narrator listens, mesmerised. 
-Narration: "I never knew where I wanted to go nor felt like it mattered. Never set lofty goals for myself, nor developed passions, nor pondered my happiness. I’ve simply moved when I had to, along the path of least resistance. 
-
-"As if in a haze, I made my way through high school and college. And here I was, about to study a PhD because of some old man's passionate speech."
-
+### Night Pondering
+Narrator recounts Landon's life. 
 ### Fara's Initiative
-
 Narration: "Fara tried to organise a visit to his house among his colleagues, but no one agreed."
 
 Colleague A: "He's probably recovering from some illness. Best not disturb."
@@ -108,12 +96,16 @@ Fara looks very disappointed.
 
 Fara, angry: "What kind of sick culture is this!" 
 
-Narration: "Fara came from the Eurasian Federation."
+Narration: "Fara came from the Eurasian Federation." 
 
-Narration: "I tried explaining to her that in contemporary Oceania, it's considered more appropriate to act disinterested in other people's affairs and mind their own business. If Landon could be reached, there would already be administrative procedures in motion. The best we could do was wait." 
+Narration: "I tried explaining to her that in contemporary Oceania, it's considered more appropriate to act disinterested in other people's affairs and mind someone's own business. If Landon could be reached, there would already be administrative procedures in motion. The best we could do was wait." 
 
 Fara: "It's been months. Why haven't we heard anything from admin?"
 
 Narrator: "I - I don't know."
 
 Fara: "Aren't you worried about him? I see you standing in my lectures."
+
+
+
+
