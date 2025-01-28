@@ -11,9 +11,6 @@ The narrator uneasily observes it with dread. Professor Fara describes marine sn
 Title drop. 
 ##### Opening: The narrator studies oceanography with apathy. Professor Landon goes missing after handing the narrator a USB containing information regarding uncharted waters underneath the world's oceans. Substitute lecturer Fara urges the narrator to search for Landon. They exchange clues and depart for Landon's house. 
 [[Start (until the search)]]
-1. Something was wrong with Landon
-2. The Landon I knew
-3. 
 ##### They arrive at Landon's strange submarine-like house and find him in a catatonic state telling them to leave. When Fara tends to Landon, the narrator finds clues of an abandoned classified project. The only inaccessible place is a locked bunker with password prompt "name of the ocean". They search until night fall. 
 
 ##### When the two attempt to leave, they find the outside to be an endless ocean. Landon has run off into the house. They recover from shock, test their situation and prove they are underwater. 

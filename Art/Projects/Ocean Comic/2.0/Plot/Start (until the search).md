@@ -50,12 +50,14 @@ Narration: "His office began to have a strange odor. I couldn't really make out 
 "Once, he collapsed during lunch break. 
 
 "When we tried to give him water, he yelled and fought to get away from us."
+
+The narrator looks at him pitifully. 
 ### The Professor Landon I knew
-Narrator: "The Landon I knew remembered everything I said or did. The Landon I knew was always calm and collected. The Landon I knew... loved the ocean." 
+Narrator: "The Landon I knew remembered everything I said or did. The Landon I knew never . The Landon I knew... loved the ocean." 
 
 Landon, in a lecture: "The ocean moves because it has to. Temperature, salinity and gravity create a dance of pressures that push currents through the depths and across the surface. Earth's rotation deflects these currents via the Coriolis effect. The ocean floor drags on them. Wind sculpts surface currents into ever-changing patterns. The heavenly bodies pull the earth along an aggregate direction, now here, now there, forming the oceans of the world into an every-so-slightly oval shield of water which the earth revolves within, creating tides. 
 
-"Satisfying in its simplicity, baffling in its chaos and unpredictability, this about wraps it up for the physics of currents. As far as an undergraduate is concerned, this is the end of the story. 
+"Satisfying in its simplicity, baffling in its chaos and unpredictability, this account just about wraps it up for the physics of currents. As far as an undergraduate is concerned, this is the end of the story. 
 
 "So why study oceanography?"
 
@@ -81,9 +83,7 @@ He sees the USB hiding within, and freezes in terror. His gaze of the scene diss
 He zips up the pencil case, leaves the library and walks through a campus in the evening. 
 ### Fara
 At the car park, Fara stands in the distance eerily. The narrator notices her. 
-### Night Pondering
-Narrator recounts Landon's life. 
-### Fara's Initiative
+
 Narration: "Fara tried to organise a visit to his house among his colleagues, but no one agreed."
 
 Colleague A: "He's probably recovering from some illness. Best not disturb."
@@ -100,12 +100,27 @@ Narration: "Fara came from the Eurasian Federation."
 
 Narration: "I tried explaining to her that in contemporary Oceania, it's considered more appropriate to act disinterested in other people's affairs and mind someone's own business. If Landon could be reached, there would already be administrative procedures in motion. The best we could do was wait." 
 
-Fara: "It's been months. Why haven't we heard anything from admin?"
+Fara: "It's been months. Why haven't we heard anything?"
 
 Narrator: "I - I don't know."
 
-Fara: "Aren't you worried about him? I see you standing in my lectures."
+Fara: "Aren't you worried about him? I see you standing in my lectures." 
 
+Narration: "I didn't have a good answer."
+### Night Pondering
+Narrator lies in bed. 
 
+Narration: "What happened to Landon?"
+Narration: "I think he lived by himself. Maybe he just couldn't get up one day and no one was there."
+Narration: "I didn't want to know. I didn't want to think about it. I couldn't stop thinking about it." 
+
+Narration: "Why did I choose to study oceanography?"
+Narration: "I think it's because of something Landon said near the end of that speech."
+Narration: "What was it?" 
+
+Narration: "... I couldn't remember." 
+
+It begins raining outside. The narrator stares at it, and suddenly, sees the oppressive deep ocean again. 
+### 
 
 
