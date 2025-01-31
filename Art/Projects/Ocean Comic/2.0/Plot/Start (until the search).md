@@ -84,9 +84,9 @@ He zips up the pencil case, leaves the library and walks through a campus in the
 ### Fara
 At the car park, Fara stands in the distance eerily. The narrator notices her. 
 
-Narration: "Fara tried to organise a visit to his house among his colleagues, but no one agreed."
+Narration: "Fara tried to organise a visit to his house among his colleagues - anyone that might've known Landon's address." 
 
-Colleague A: "He's probably recovering from some illness. Best not disturb."
+Colleague A: "He's probably recovering from some illness. Best not disturb." 
 
 Colleague B: "I don't mean to be harsh, but I'm paid to do my research and teach my classes. Not to babysit someone else." 
 
@@ -94,7 +94,7 @@ Colleague C: "It's none of my business. And it's none of yours, either."
 
 Fara looks very disappointed. 
 
-Fara, angry: "What kind of sick culture is this!" 
+Fara, angry and walking out: "What kind of sick culture is this!" 
 
 Narration: "Fara came from the Eurasian Federation." 
 
@@ -106,12 +106,18 @@ Narrator: "I - I don't know."
 
 Fara: "Aren't you worried about him? I see you standing in my lectures." 
 
-Narration: "I didn't have a good answer."
+Narration: "I didn't have a good answer. After a long pause, I asked why she cared so much about him."
+
+Fara: "He was my PhD supervisor. 
+
+"Even though it was remote, he still took care of me, and by the end, gave me a position and brought me here."
+
+Fara, with the narrator looking at her with understanding: "I owe my current life to him."
 ### Night Pondering
 Narrator lies in bed. 
 
 Narration: "What happened to Landon?"
-Narration: "I think he lived by himself. Maybe he just couldn't get up one day and no one was there."
+Narration: "He lived by himself. Maybe he just couldn't get up one day and no one was there." 
 Narration: "I didn't want to know. I didn't want to think about it. I couldn't stop thinking about it." 
 
 Narration: "Why did I choose to study oceanography?"
@@ -120,7 +126,17 @@ Narration: "What was it?"
 
 Narration: "... I couldn't remember." 
 
-It begins raining outside. The narrator stares at it, and suddenly, sees the oppressive deep ocean again. 
-### 
+It begins raining outside. The narrator stares at it, and suddenly, sees the oppressive deep ocean again. The narrator turns in bed, anxious. 
+
+The narrator thinks about Fara trying to get anyone to go check on him. 
+
+Narration: "The truth was... I had an idea of where he went. Back when the admins searched his office, they found a letter addressed to me."
+
+Narrator read it at home:
+There is a place where bones do not fossilize. 
+Where flesh does not decay. 
+Where the sediment entombs memories older than memories.
+### Search
+
 
 
