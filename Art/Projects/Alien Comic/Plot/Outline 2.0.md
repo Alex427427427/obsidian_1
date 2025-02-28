@@ -8,6 +8,7 @@ The hook of the story - the promise set by the premise to the reader - you must 
 Episodic mysteries of alien / Illuminati conspiracies. 
 - alien abduction - story made up by a cheating couple to hide their nightly visits to the forest and their eventual murder of one of their spouse. An old man is being framed. Lucas from the DAP deduces the truth. 
 - UFO sighting - may be Oceanian spy aircraft, but turns out to be the Factory Array's drones surveying the land to see beautiful scenery. While waiting in car, DAP member contemplates war with Lucas. 
+- House furniture rearranging - a lonely dementia 
 - Alien sighting - near the Eurasian Academy of Sciences. Introduce Susan and her study of disease. Unsolved. Something is being kept secret here, for Lucas runs into the secret police. 
 - Teacher missing from Lucas' highschool reunion - excursion trauma thought to be Eurasian military cover up action; teacher turns out to be Oceanian spy, but the students embrace them regardless. Miss Liam on the other hand, died protecting the students back then. 
 - Power outages at Lumina Junction. Lucas deduces that something underground is consuming a lot of power. He visits the Subterra Station underneath, and finds abandoned cryogenic vaults. Finally, he sees the Illuminati.

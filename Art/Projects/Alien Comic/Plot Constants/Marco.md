@@ -2,6 +2,8 @@ Category: [[Art]] [[Alien Comic]]
 ___
 Engineer at the Factory Array that loves to stargaze. Lucas' friend, Susan's husband, Patricia's ally, member of the Illuminati. 
 ## History
+##### Grandfather's Secret
+His grandfather, first and last Eurasian cosmonaut, once went to space via the now defunct space program. In space, he saw a black spec that was close to earth - it is in fact one of the geosynchronous space stations Satellite 6. Thus he told Marco of the secret treasure of immeasurable value. 
 ##### Recruitment into the Illuminati
 He was first recruited into the Illuminati due to his ideals. Then he befriends Patricia, who by this time is already setting the conspiracy in motion. 
 ##### Learning the Truth about the World

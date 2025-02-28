@@ -7,7 +7,7 @@ World leaders were starting to draft a Constitution of the Earth Federation. But
 ## First Contact and End of the War
 Around this time, a new communication channel was opened up - that allowed instant communication by listening to quantum state collapses. The engineers on Satellite 6 discovered the channel to be non-empty, and already fully efficiently populated by messages travelling between unknown reaches of space. They were listening to a lively conversation between alien civilisations. 
 
-They requested help to the aliens. The aliens, cold and mysterious, sent back an audio weapon - a song that would incapacitate humans that could listen - this should take care of most people involved with conflict. Once humans send back a declaration that humanity was capable of peace, so that the aliens can reply with a song that reversed the effects of the first. 
+They requested help to the aliens. The aliens, cold and mysterious, sent back an audio weapon - a song that would incapacitate humans that could listen - this should take care of most people involved with conflict. Once humans send back a declaration that humanity was capable of peace, the aliens can reply with a song that reversed the effects of the first. 
 
 The proof would have been the Constitution of the Earth Federation, if there was anyone left to do it. 
 ## New Modern Age

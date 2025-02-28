@@ -126,7 +126,7 @@ Narration: "What was it?"
 
 Narration: "... I couldn't remember." 
 
-It begins raining outside. The narrator stares at it, and suddenly, sees the oppressive deep ocean again. The narrator turns in bed, anxious. 
+It begins raining outside. The narrator stares at it, and suddenly, sees the oppressive deep ocean again. The narrator turns in bed. 
 
 The narrator thinks about Fara trying to get anyone to go check on him. 
 

@@ -12,7 +12,7 @@ The four people that claim to be abducted, are now suspects. Elena is too broken
 
 **Lucas**: “Well, I’m here now.”
 
-**Anya**: (with a light smile) “While you’re here, why don’t you take a look at these new rings I made?” (She gestures to a tray of beautifully crafted quartz rings) “Got a girl on your mind? These would make a great gift. Quartz—coated so they don’t chip as easily.”
+**Anya**: (with a light smile) “While you’re here, why don’t you take a look at these new rings I made?” (She gestures to a tray of beautifully crafted quartz rings) “Got a girl on your mind? These would make a great gift. North Eurasian blue quartz—coated so they don’t chip as easily.”
 
 **Lucas**: (glancing at the rings, not engaging) “Thanks, but I’m not interested in quartz. Do you make aluminum rings?”
 
@@ -31,6 +31,8 @@ The four people that claim to be abducted, are now suspects. Elena is too broken
 **Anya**: (smirking) “Sure. And if you ever change your mind about those rings... I could help you find something a little more personal.”
 
 **Lucas**: (straightening up) “I’ll keep that in mind. Thanks.”
+
+Anya takes Lucas into the forest, where she was abducted, and found quartz. 
 ___
 **Viktor**: "How's Elena?"
 

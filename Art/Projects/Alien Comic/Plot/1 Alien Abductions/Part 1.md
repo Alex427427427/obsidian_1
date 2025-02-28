@@ -97,9 +97,9 @@ The crowd gasps, Lucas is from the Eurasian government.
 
 **David**: "That's right. We the Alien Research Society of Eurasia, never fails to respond to alien troubles. That's why we are widely known and respected."
 
-**Lucas**: "Of course. I'm sure your club acronym leaves an impression wherever you go."
+**Lucas**: "Of course. I'm sure you leave behind an impression wherever you go."
 
-**Lucas**: "But I must say, your interviews were cringe worthy. You disrespectfully ignored Elena's missing father - which is the most pressing issue at hand. And you failed to make certain key observations."
+**Lucas**: "But I must say, your interviews were cringe worthy. You disrespectfully ignored Elena's missing father - which is the most pressing issue at hand. And you failed to make certain key observations." 
 
 **ARSE B**: "Like what?"
 
