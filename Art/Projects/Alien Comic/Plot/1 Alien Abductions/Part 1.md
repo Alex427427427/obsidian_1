@@ -1,89 +1,93 @@
 Category: [[Art]] [[Alien Comic]]
 ___
-A man wearing glasses and a trench coat, carrying a suitcase, walks through the city lights. People hurry about. The man walks onto the train. It is early morning, and many commuters stare at him. He takes the train through Eurasia.  
+Narration: {Two years before the end.}
+
+A man wearing glasses and a trench coat, carrying a suitcase, walks through the city lights. People hurry about. The man walks onto the train. Others are clearly wearing summer clothes. It is early morning, and many commuters stare at him. He takes the train through Eurasia.  
+
+After the train stops, Lucas walks out of an empty train, into the strong cold winds of what seems to be a town near the mountains. 
 
 Narration: {Lucas suspected there were aliens in Eurasia. In the summer of Ninety-Two, in the remote northern town of Vyshkanov, the search began.}
 
 Title drop - "There are no Aliens in Eurasia" "Chapter 1 - Alien Abductions" 
 ___
-Day. Community center of Vyshkanov. A small crowd gathers. There is a long table, with "Alien Research Society of Eurasia" banner hung above. The representatives are at a table covered with odd gadgets, strange alien memorabilia, and a UFO-shaped coffee mug. They’re overly enthusiastic, almost comically so, as they interview the claimants.
+Day. Community center of Vyshkanov. A small crowd gathers. There is a long table, with "Alien Research Society of Eurasia" banner hung above. The representatives are at a table covered with odd gadgets, strange alien memorabilia, and a UFO-shaped coffee mug. They each have an armband. 
 
-**Elena**: (Nervously) “I—I woke up in the forest. My father was next to me. It was dark but… I thought I saw a shadow. Maybe a person.” 
+**ARSE** (offscreen): "Interesting. Most interesting."
 
-**ARSE B**: (Interrupting, holding up a toy alien figure) “Damn! Did it look like this? Or maybe like this?” 
+**ARSE A**, a middle aged, calm man: "So... Elena, you woke up in the forest. And then?"
 
-**Viktor**: (Frowning) “This isn’t a joke. Her father is still missing.”
+**Elena**: "...my father, he was next to me... then... It was dark, but... I thought I saw a shadow. Maybe another person."
 
-**ARSE A**: (Waving a hand dismissively) “Hey! Wait your turn. (Back to Elena) Was there a smell of… extraterrestrial essence?”
+**ARSE B**, a younger, overly enthusiastic, childish man, holding up alien figurines: "Damn! Did it look like this? Or this?" 
 
-**Elena**: (Voice trembling) “I can’t explain it. It felt real. But my father—he just saw the shadow and ran."
+**Viktor**, a young man next to Elena: "This isn't a joke. Her father is still missing."
 
-**ARSE A**: (Smiling brightly) “Alright, alright, I think we’ve got enough. We’ll call you if we need anything else.”
+**ARSE C**, a woman similar age to B, with a death glare: "Hey, wait your turn. Brat."
 
-**Elena**: (Standing up, upset) “Wait—”
+**ARSE A**: "Uhhh anyway, what happened next, Elena?"
 
-**ARSE B**: (Cheerfully) “Don’t worry, I'm sure there’s a perfectly alien explanation!”
+**Elena**: "My father ran off. I tried to run after him, but... before I knew it, I was back outside the forest." 
 
-Elena exits, visibly shaken. Viktor gives her a concerned look as she leaves the room.
+**ARSE B**: "Miss Elena, don't worry! I'm sure we'll find a perfectly alien explanation and find your father."
 
+**ARSE C**: "Next!"
 
-**ARSE A**: (Excitedly) “So, Anya, while you were being abducted, did you see any unusual lights or perhaps, a UFO?”
+Cut to a middle aged woman dressed in traditional Russian attire, sitting at the chair where Elena used to be. She is smiling.
 
-**Anya**: (Maintaining a stern expression) “No UFOs. Just a light when I woke up - and some quartz nearby.”
+**Anya**: "I don't remember being abducted... Only that I woke up in that dark forest."
 
-**ARSE B**: (Giggling) “Quartz! How fascinating! Was it glowing? Did it communicate with you? Maybe it was a signal from the aliens!”
+**ARSE A**: "Anya, you seem happy about something. Can you tell us why?"
 
-**Anya**: (Annoyed) “No, just quartz. Regular, valuable quartz. I thought it might be of interest to—”
+**Anya**: "Why? I saw something beautiful in that forest."
 
-**ARSE B**: (Stepping in, dryly) “Ahhh, valuable indeed! Dismissed.” 
+**ARSE B**: "What was it? What did you see??"
+**ARSE C**: "Lights? UFO? Come on, spit it out."
 
+**Anya**: "... I'll tell you when I remember what it was."
 
+**ARSE A**: "Miss Anya, please don't waste our time."
+**ARSE C**: "NEXT!"
 
-**ARSE B**: (Leaning in eagerly) “Now, who was that rude man from before?"
+Cut to a young man sitting at the chair. It's Viktor. his expression is stern. 
 
-**Viktor**: "I'm Viktor."
+**ARSE**: "Oh, you're that rude man from before. What's your name?"
 
-**ARSE A**: "Tell us about your experience, Viktor. Did you see any aliens or extraterrestrial technology?”
+**Viktor**: "Viktor."
 
-**Viktor**: (Nervously) “Nothing, actually. Just woke up in the forest.” 
+**ARSE**: "Viktor, did you also wake up in the forest that night?"
 
-**Yelena**: (Interrupting) “Did you notice anything suspicious in the forest or around town?”
+**Viktor**: "I did."
 
-**Viktor**: (Shaking his head) “When I was running out of the forest, I might've seen something unusual, but I forgot. Something or someone that shouldn't be there at that hour.”
+**ARSE**: "So what do you-"
+**Viktor**: "I think that if you're gonna clown around instead of helping, you should get the hell outta this town."
 
-**ARSE B**: "Amazing. That provides absolutely no information."
+**ARSE**: "What the... Hey, where're you going?"
 
-**ARSE A**: "Hey, it could've been an alien."
+Cut to a fat middle aged man wearing a tin foil sitting at the chair.
 
+**David**: "Now, for the real show! I've done my own investigation. I've got theories!"
 
+**ARSE C**: "Yes David, we know you have theories. But do you have proof? Or are you just gonna make shit up?"
 
-**David**: (Leaning forward eagerly, rubbing his hands together) “Now, for the real show! I've done my investigations. I’ve got theories!”
+**David**: "Just hear me out! I wouldn't have called you guys here if there was nothing. Do you know the history of Vyshkanov? This used to be a space town. Home to the abandoned Eurasian Space Program. You know what that means? Government secrets!"
 
-**ARSE A**: (Interrupting, as she starts to shuffle through her alien-themed papers) “Yes, David, we know you have theories. But do you have proof? Or are you just gonna make shit up?” 
+**ARSE A**: "David, let's take a step back. Do you remember your abduction?"
 
-**David**: (Playfully) “Just hear me out! I wouldn't have called you guys here if there was nothing. This town was built solely for the abandoned space program, right? You know what that means? Government secrets! There have been some strange objects hovering over that forest lately. What do you think they could be?"
+**David**: "I'll get there, just let me finish! Take a look at this. I took this photo a few days ago. What do you think these are?"
 
-**ARSE B**: "UFOs?"
+**ARSE B**: "UFOs?!"
 
-**David**: "Exactly! You see, the government says they abandoned the space program, but that's a lie. They are hiding aliens in these forests. The aliens and the Eurasian government are plotting to take over the world together! Like the Illuminati!" 
+**David**: "Exactly! You see, the government says they abandoned the space program, but that's just a lie... They hide aliens in that forest... abduct us and perform unspeakable experiments... and when they're ready, they'll take over the world, because they're run by the Illuminati! That's right! They could be anywhere! In fact, if you ask me... The most suspicious person... Is that man over there!"
 
-**ARSE A**: "Slow down, slow down. Do you remember your own abduction? Or have any footage of these UFOs?"
+David points to Lucas in the crowd. Lucas looks side to side, before pointing at himself.
 
-**ARSE B**: "Yeah, you seem a bit too excited about being abducted. Who's to say you didn't abduct these people and orchestrate this whole thing?"
-
-**David**: "Wait wait wait, what is this friendly fire? I have evidence to back it up. Look, I even recorded the UFOs."
-
-He shows the ARSE reps the video of the flying objects above the forest. 
-
-**ARSE A**: "Wow, this could be huge."
-
-**David**: "Of course! In fact, if you ask me, the real suspicious person... (Pointing dramatically at Lucas, who is standing in the corner, blending into the background) Is that man over there! I've never seen him around here. Look at his glasses, his trench coat, his suitcase! And that typical East-Eurasian hair reeking of conformity. That’s a secret agent if I’ve ever seen it!” 
+**David**: "Yes, you! I've never seen you around here. Everybody see for yourselves! Those glasses, this strange coat, this suitcase! And that typical East-Eurasian hair reeking of conformity. This is a secret agent if I've ever seen one!"
 
 By this point, David has gotten within inches from Lucas' face. 
 
 **Lucas**: "Well, if I wanted to keep my identity secret, I probably wouldn't choose such a suggestive attire. Though it does keep the snow out."
 
-**ARSE A**: "Suspicious visitor, identify yourself!" 
+**ARSE B**: "Suspicious visitor, identify yourself!" 
 
 **Lucas**: (taking out his watch) "Lucas Yang. Department of Abnormal Phenomena."
 
