@@ -79,7 +79,7 @@ Cut to a fat middle aged man wearing a tin foil sitting at the chair.
 
 **David**: "Exactly! You see, the government says they abandoned the space program, but that's just a lie... They hide aliens in that forest... abduct us and perform unspeakable experiments... and when they're ready, they'll take over the world, because they're run by the Illuminati! That's right! They could be anywhere! In fact, if you ask me... The most suspicious person... Is that man over there!"
 
-David points to Lucas in the crowd. Lucas looks side to side, before pointing at himself.
+David points to Lucas in the crowd. Lucas looks side to side at others, before pointing at himself to confirm if he is who David is talking about.
 
 **David**: "Yes, you! I've never seen you around here. Everybody see for yourselves! Those glasses, this strange coat, this suitcase! And that typical East-Eurasian hair reeking of conformity. This is a secret agent if I've ever seen one!"
 
