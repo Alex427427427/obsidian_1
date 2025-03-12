@@ -10,6 +10,11 @@ Narration: {Lucas suspected there were aliens in Eurasia. In the summer of Ninet
 
 Title drop - "There are no Aliens in Eurasia" "Chapter 1 - Alien Abductions" 
 ___
+Night, forest. A woman (Elena later) is on the ground. 
+**woman**: "He ran. He ran. He just ran away. He ran. He ran. He got up and ran. I can't take this anymore... no one can take this... Someone... help me... help me get away... from this wretched place."
+
+Somewhere else in the forest, an unintelligible figure cuts off a body's hands lying on the ground. 
+___
 Day. Community center of Vyshkanov. A small crowd gathers. There is a long table, with "Alien Research Society of Eurasia" banner hung above. The representatives are at a table covered with odd gadgets, strange alien memorabilia, and a UFO-shaped coffee mug. They each have an armband. 
 
 **ARSE** (offscreen): "Interesting. Most interesting."
@@ -85,30 +90,38 @@ David points to Lucas in the crowd. Lucas looks side to side at others, before p
 
 By this point, David has gotten within inches from Lucas' face. 
 
-**Lucas**: "Well, if I wanted to keep my identity secret, I probably wouldn't choose such a suggestive attire. Though it does keep the snow out."
+**Lucas**: "Well, if I wanted to keep my identity secret, I probably wouldn't choose such a suggestive attire, given geniuses like you exist. Though it does keep the wind out."
 
 **ARSE B**: "Suspicious visitor, identify yourself!" 
 
 **Lucas**: (taking out his watch) "Lucas Yang. Department of Abnormal Phenomena."
 
-The crowd gasps, Lucas is from the Eurasian government. 
+**crowd**: "Gasp" "..." "..." "He's from the government..."
+**Elena**, grabbing Lucas' hand: "Does that mean you can help find my father?"
+**ARSE B**: "Woah, that badge... that's like, official!"
+**ARSE C**: "Tch. Government spook. What does he want in this town?"
+**David**: "Aha! Of course the government's involved. First they cover the truth, then they send their suits to 'investigate'. I know your kind, Yang!"
 
 **Lucas**: "I was called here... By your local jeweler."
 
-**David**: "Anya?"
+**ARSE A**: "Anya?"
 
-**Lucas**: (looking at ARSE) "But it seems like someone else arrived first."
+**Lucas**: (looking at ARSE) "Yes, but looks like someone else arrived first."
 
-**David**: "That's right. We the Alien Research Society of Eurasia, never fails to respond to alien troubles. That's why we are widely known and respected."
+**ARSE B**: "That's right! We the Alien Research Society of Eurasia, never fails to respond to alien troubles. That's why we are widely known and respected."
 
 **Lucas**: "Of course. I'm sure you leave behind an impression wherever you go."
 
-**Lucas**: "But I must say, your interviews were cringe worthy. You disrespectfully ignored Elena's missing father - which is the most pressing issue at hand. And you failed to make certain key observations." 
+The crowd laughs. 
 
-**ARSE B**: "Like what?"
+**Lucas**: "You know, for an organisation in search for aliens, you lot are surprisingly predictable. That's because you arrived with an answer already in mind. It makes you miss things. Important details."
+**ARSE C**: "Just who the hell do you think-"
+**ARSE B**, to A: "Hey, it's ok."
+**ARSE A**: "Such as?"
 
-**Lucas**: "That every person interviewed so far has red circular marks on their body. Elena's forearm, the back of Viktor's neck, and Anya's palms." 
+**Lucas**: "Everyone that was abducted to the forest... has red circular burn marks in their hands!"
 
-**David**: "W-what?"
+**person near Elena**: "Oh shit, how did that get there? Did you burn yourself?"
+**Elena**: "I don't know..."
 
 **Lucas**: "Except you, David." 

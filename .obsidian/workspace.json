@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Part 4"
             }
+          },
+          {
+            "id": "3b060998d3ccaf02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Part 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,13 +178,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2d9bf543408cc04",
+  "active": "3b060998d3ccaf02",
   "lastOpenFiles": [
-    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Ep 1 Trees.md",
-    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 1.md",
-    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 2.md",
     "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 3.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 2.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 1.md",
     "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Part 4.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Plan 2.0.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Plan.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Ep 1 Trees.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Script 2.0.md",
+    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/draft1.png",
+    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/Lucas Intro.md",
     "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
     "Art/Projects/Alien Comic/Material Bank/City Lights Poem.md",
     "Art/Projects/Alien Comic/Material Bank/Coersion to Give up.md",
@@ -187,16 +207,11 @@
     "Art/Projects/Alien Comic/Material Bank/Marco's Purpose.md",
     "Art/Projects/Alien Comic/Material Bank/Northern Eurasian Snow Force.md",
     "Art/Projects/Alien Comic/Material Bank/Order of the Eurasian Star.md",
-    "Art/Projects/Alien Comic/Material Bank/Susan breakdown.md",
-    "Art/Projects/Alien Comic/Material Bank/Susan exhaustion.md",
-    "Art/Projects/Alien Comic/Material Bank/Veil around Susan as Dark Matter.md",
-    "Art/Projects/Alien Comic/Material Bank/Teacher Episode.md",
     "Art/Projects/MIB Comic",
     "Art/Projects/Paradox Comic",
     "Art/Projects/Alien Comic/Material Bank/Untitled",
     "Art/Tags",
     "Art/Ultraseven",
-    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/draft1.png",
     "Art/Projects/House Comic/Tags",
     "Art/Projects/House Comic",
     "Art/Projects/Ocean Comic/2.0/setup",

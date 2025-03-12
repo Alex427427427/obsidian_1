@@ -4,6 +4,9 @@ It is *quartz* that gives Lucas a sudden epiphany. (In part 3 Lucas gets brought
 
 Lucas brings everyone there, explains that the murder weapon is quartz, which was later given to Anya and already turned into rings. 
 
+Police Chief: "Listen, kid. You want justice? You find a time machine and stop him from wanderin’ off into the woods. Otherwise…" (gestures vaguely) "…chalk it up to bad luck."
+
+
 Lucas asks Viktor to take off his scarf. At this point Viktor jumps out and admits. Tries to say he killed Elena's father. 
 
 Lucas uses Elena's ring to prove that Elena was the one who dealt the killing blow. 

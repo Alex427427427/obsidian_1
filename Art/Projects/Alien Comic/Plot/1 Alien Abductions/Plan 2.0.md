@@ -1,14 +1,23 @@
 Category: [[Art]] [[Alien Comic]]
 ___
-## Community Centre Interviews
-ARSE reps interview 4 people that claim to be abducted. 
-Enter Lucas the investigator. 
-## Body Discovered
-Lucas meets old man. 
-Body discovered in the forest, and all who claim to be abducted are now suspects.
-## Investigations
-All suspects interviewed. 
-More people claim to be abducted due to growing movement of conspiracy. 
-## House Arrest
-Lucas' passport and badge stolen, townspeople decide to prevent Lucas from leaving until he proves he is innocent or find the killer. 
-Anya 
+### Part 2 
+- search
+- old gardener
+- body found
+- policework
+### Part 3
+- Anya ring inquiry
+- Viktor and Elena's secret meeting
+- night ARSE gardener
+- Anya beautiful thing / Korolev
+- quartz cave
+- Lucas burn
+### Part 4
+- gather
+- gardener sleepwalk, tools used to cut hands
+- real weapon quartz
+- Anya innocent due to timing of burn healing 
+- Lucas speculates why the hands must not be found, and asks Viktor to take off scarf, viktor admits to killing. 
+- Lucas reveals elena's ring clue and that she is the murderer. 
+- elena says she's happy and accept arrest
+- Lucas bids farewell to Vyshkanov, to a mysterious Anya

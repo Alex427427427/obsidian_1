@@ -1,9 +1,5 @@
 Category: [[Art]] [[Alien Comic]]
 ___
-Lucas calls the local authorities. Lucas checks the corpse. The back of the head is caved in, and the hands are missing. Upon shining a flashlight on the wound, the wound glistens. Is the blood glistening? No murder weapons are found in the area. 
-___
-The four people that claim to be abducted, are now suspects. Elena is too broken to be interviewed, so Lucas starts with Anya. What he wants to know is, why each of the four people lied about being abducted. 
-
 **Anya**: (happy to see him but also sad) “Ahhh, Mr. Yang. I’m sorry things turned out this way.”
 
 **Lucas**: “No, the apology is mine.”
