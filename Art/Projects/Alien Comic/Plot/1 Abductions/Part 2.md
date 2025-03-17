@@ -44,15 +44,15 @@ Lucas arrives at the place, but no person is found. An old man yells at him from
 
 **Mr Tree**: "I've seen your drones! I know you bastards are planning to cut this area down! Don't even think about touching these trees. They're my children!"
 
-**Lucas**: "Okay, okay! I'm not here to chop your trees. I'm investigating alien abductions."
+**ARSE B**: "Sir, we're not here to chop your trees. We're investigating alien abductions."
 
 **Mr Tree**: "Huh? You're investing in what?"
 
-**Lucas**: "Investigating! Alien abductions! A missing person!"
+**ARSE B**: "Investigating! Alien abductions! A missing person!"
 
 **Mr Tree**: "Aliens? You guys must be bored. A-CHOO!" 
 
-**Lucas**: "Hey - Watch out!"
+**Viktor**: "Watch out!"
 
 Mr Tree loses his balance, Lucas's drone catches him midair. The drone drops Mr Tree to the ground. 
 

@@ -17,7 +17,8 @@ ___
 - gardener sleepwalk, tools used to cut hands
 - real weapon quartz
 - Anya innocent due to timing of burn healing 
-- Lucas speculates why the hands must not be found, and asks Viktor to take off scarf, viktor admits to killing. 
+- Lucas speculates why the hands must not be found, and asks Viktor to take off scarf, viktor admits to killing. Lucas tells him to stop.
+### Part 5
 - Lucas reveals elena's ring clue and that she is the murderer. 
 - elena says she's happy and accept arrest
 - Lucas bids farewell to Vyshkanov, to a mysterious Anya
