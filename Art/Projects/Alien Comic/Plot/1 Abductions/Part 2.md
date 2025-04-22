@@ -114,15 +114,16 @@ ARSE A: "This town is hopeless."
 
 Chief, patting A on his shoulder: "Welcome to Vyshkanov." 
 
-**David (whispering to ARSE B):** "I told you. Secret lab."
-**ARSE B:** "Dude, his head’s bashed in. Out in the middle of nowhere. There's no secret lab."
+Lucas walks up to Elena, consoled by Anya and Viktor. 
 
-ARSE C: "Hey, badge boy, tell the police to do their job." Lucas just stands at the edge of the crowd, observing. ARSE C: "What are you doing?"
+Lucas: "I know this is hell."
 
-Lucas: "Everything's changed." 
+Lucas: "How's your hand doing?" He extends his hand towards Elena. Elena gives him her left hand, with a ring on her ring finger. 
 
-ARSE C: "..."
+Lucas: "Looks like it's gotten worse."
 
-Lucas: "We both came for alien abductions, but now have a murder on our hands."
+Anya: "Who could've done all this to us?"
 
-Lucas: "And everyone that was "abducted" into the forest that night... are now first in line as suspects." 
+Lucas: "From now on, no one go near this forest. Stay in the community center if you're scared."
+
+Elena: "Mr Yang... when I panicked earlier... it was because I remembered... the night when I got abducted here, I saw a shadow. I remember what it looked like. It was the old gardener. The one we met earlier!"
