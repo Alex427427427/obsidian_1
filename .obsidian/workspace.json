@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "beee407158be4453",
+        "id": "c256d4bb427d85e1",
         "type": "tabs",
         "children": [
           {
-            "id": "fc7f026b4f799b93",
+            "id": "48f2ed2c265b8dd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art/Projects/Alien Comic/Plot/1 Abductions/Part 3.md",
+                "file": "Art/Projects/Alien Comic/Plot/1 Abductions/Part 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part 3"
-            }
-          },
-          {
-            "id": "d357ae908f88dc7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Convolution View.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fourier Optics - Convolution View"
+              "title": "Part 4"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 276.5110321044922
   },
   "right": {
     "id": "035afcb343d9af72",
@@ -178,52 +163,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d357ae908f88dc7f",
+  "active": "48f2ed2c265b8dd4",
   "lastOpenFiles": [
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Wavelet Derivation.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Fourier Optics - Convolution View.md",
-    "University Tasks/Winter Research Monash.md",
-    "University Tasks/Assignment 4, by Alexander Li.md",
-    "Pasted image 20250517234412.png",
-    "University Tasks/Pasted image 20250517234012.png",
-    "University Tasks/Pasted image 20250517233959.png",
-    "University Tasks/Pasted image 20250517233852.png",
-    "University Tasks/Pasted image 20250517233824.png",
-    "University Tasks/Pasted image 20250517233805.png",
-    "University Tasks/Pasted image 20250517233506.png",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Coherence.md",
-    "Physics/2 Classical Electromagnetism/4 Classical Optics/Gaussian Beam.md",
-    "University Tasks/Engineering FYP/paper.md",
-    "Art/Projects/Roman Architect/roman architect story.md",
-    "Art/Projects/Roman Architect/Main conflict breakdown.md",
-    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
-    "Art/Projects/Alien Comic/Plot/1 Abductions/Part 3.md",
-    "Art/Projects/Alien Comic/Plot/x Architect Story/architect story.md",
-    "Art/Projects/Alien Comic/Plot/x Architect Story",
-    "Art/Projects/MIB Comic/Ceaselessly We Advance Towards the Land of Light.md",
-    "Art/Projects/Roman Architect",
-    "Art/Projects/MIB Comic/Sequel to There are no Aliens in Eurasia.md",
-    "Art/Projects/Paradox Comic/PAradox.md",
-    "Art/Projects/Alien Comic/Plot/1 Abductions/Part 2.md",
-    "Art/Projects/Alien Comic/Plot/Outline 3.0.md",
-    "Art/Projects/Alien Comic/Plot/Outline 4.0.md",
-    "Art/Projects/Alien Comic/Plot/1 Abductions/Part 1.md",
-    "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
-    "Art/Projects/Alien Comic/Plot/1 Abductions/Plan 2.0.md",
-    "Art/Ultraseven/Episode Categorisation.md",
-    "Art/Projects/Alien Comic/Plot/1 Abductions/Ep 1 Trees.md",
+    "Life/Job Applications/Airbus.md",
+    "Life/Job Applications/KUKA or SWISSLOG - Robotics.md",
+    "Life/Job Applications/ABB Robotics - Industrial Robot Supplier and Manufacturer.md",
+    "Life/Job Applications/GOMspace - space payloads.md",
+    "Life/Job Applications/PAL Robotics internship.md",
+    "Life/Graduate School Applications/PHD Places.md",
+    "Life/Graduate School Applications/Schools and Application Deadlines.md",
+    "Life/Graduate School Applications/ETH Zurich.md",
+    "Life/Job Applications/STMicroelectronics - semiconductor.md",
+    "Life/Job Applications/Infineon - semiconductor.md",
+    "Life/Job Applications",
     "Art/Projects/Alien Comic/Plot/1 Abductions/Part 4.md",
-    "Art/Projects/Alien Comic/Material Bank/Secret of the World.md",
-    "Art/Projects/MIB Comic",
-    "Art/Projects/Paradox Comic",
-    "Art/Projects/Alien Comic/Material Bank/Untitled",
-    "Art/Tags",
-    "Art/Ultraseven",
-    "Art/Projects/Alien Comic/Plot/1 Alien Abductions/draft1.png",
-    "Art/Projects/House Comic/Tags",
-    "Art/Projects/House Comic",
-    "Art/Projects/Ocean Comic/2.0/setup",
-    "Engineering/Elements of a House/Images/Pasted image 20250112145423.png",
-    "Tags/Pasted image 20250112142715.png"
+    "Art/Projects/Alien Comic/Plot/1 Abductions/Part 5.md",
+    "Art/Projects/Alien Comic/Plot/1 Abductions/Part 3.md",
+    "Humanity/Nations/Netherlands (Holland).md",
+    "Humanity/Nations/Denmark (Kingdom of Denmark).md",
+    "Art/Projects/Alien Comic/Plot/1 Abductions/Part 1.md",
+    "Art/Projects/Alien Comic/Plot/1 Abductions/Part 2.md",
+    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye/Plan.md",
+    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye/Script 2.0.md",
+    "Art/Projects/Alien Comic/Plot/2 The All Seeing Eye/Script.md",
+    "Humanity/Nations/Spain (Kingdom of Spain).md",
+    "Humanity/Linguistics/Indo-European.md",
+    "Humanity/Nations/Ancient People in Europe.md",
+    "Humanity/Nations/Images/Netherland people.png",
+    "Humanity/Nations/Images/Netherland flag.png",
+    "Humanity/Nations/Images/netherland street.png",
+    "Humanity/Nations/Images/denmark map.png",
+    "Humanity/Nations/Images/spain view.png",
+    "Humanity/Nations/Images/denmarkstreet.png",
+    "Humanity/Nations/Images/Danish people.png",
+    "Humanity/Nations/Images/spanish people.png",
+    "Humanity/Nations/Images/denmarkmap.png",
+    "Humanity/Nations/Images/Denmarkflag.png",
+    "Humanity/Linguistics/Language Families.md",
+    "Life/2024 Daily Reminder.md",
+    "University Tasks/Running List/Study up to date for Optics.md",
+    "Humanity/Linguistics/Images",
+    "Humanity/Linguistics/Tags",
+    "Humanity/Linguistics",
+    "Humanity/Politics/Tags",
+    "Humanity/Politics",
+    "Humanity/Ages",
+    "Humanity/Religion/Tags",
+    "Humanity/Religion",
+    "Humanity/Nations/Images",
+    "Untitled.canvas"
   ]
 }

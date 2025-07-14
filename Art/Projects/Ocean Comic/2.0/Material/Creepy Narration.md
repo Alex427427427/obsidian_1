@@ -7,6 +7,8 @@ The horizon is a lie.
 A line drawn to keep you from asking  
 What lies beyond it.
 
+The heart of the ocean beats at 45 pulses per minute.
+
 His words ran off the page,  
 Like water,  
 Like they were never meant to stay in this world.

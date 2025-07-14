@@ -64,7 +64,7 @@ Power outages at Lumina Junction leads Lucas to find a hidden base, where he for
 ##### The Flowerhead Disease 花头病
 Susan continues to investigate the strange disease that is spreading through Eurasia, sometimes requesting help from Lucas. In the end, she realises she has contracted it herself. 
 ##### Alien Hunts 
-Eurasians disappear in a rural town. They are executed by alien trials. The Eurasian army arrives to rescue the people and level the town. 
+Eurasians disappear in a rural town. They are executed by alien trials. ARSE member A gets caught in these trials and dies. The Eurasian army arrives to rescue the people and level the town. 
 ##### A Star that Blinks 会眨眼的星星
 A star disappears and reappears at a specific time every day. ARSE representatives compete in this investigation, but finally realises how stupid they are. Lucas deduces that it is caused by the daily transit of the ruins of Satellite 6. This was Marco's treasure. 
 ##### City Darkness 城市黑暗处

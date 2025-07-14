@@ -8,11 +8,11 @@ Marina appears as a luminous, younger version of herself, walking towards Landon
 
 Landon is overcome with emotion. He is on the last straw to be pushed over to letting Marina go. Marina soothes Landon's pain and forgives him for all he's done. 
 
-As they speak, Marina descends into the water. The water then seeps into the ground, leaving behind dry land. 
+As they speak, Marina descends into the water. Landon fishes in the water with his hands, and fishes up Marina's organs. The water then seeps into the ground, leaving behind dry land. 
 
 Landon asks how he can live by himself. He ends up standing in a desert, with despairing thirst. Narrator and Fara observe him. Marina has become organs, cradled by Landon. 
 
-Marina's disembodied voice: "Whether abundant ocean, or desolate land, no feeling is the end. On longer time scales, even desert can become ocean again."
+Marina's disembodied voice: "Whether abundant ocean, or desolate land, no feeling is the end. Given enough time, even desert can become ocean again."
 
 In the distance, water seems to be coming. When it does, a colossal column of water floods over the desolate land, engulfing Landon. 
 

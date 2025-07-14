@@ -1,2 +1,2 @@
-Category: [[Art]] [[House Comic]]
+Category: [[Art]] [[Art/Projects/House Comic/Tags/House Comic]]
 ___
