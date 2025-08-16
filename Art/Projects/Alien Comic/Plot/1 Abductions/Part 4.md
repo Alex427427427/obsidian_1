@@ -35,15 +35,30 @@ Elena, eyes watery: "Do you really believe that?"
 Viktor: "I have to. If i don't... I'm afraid I'll forget who I am. Who you are." 
 They embrace. Elena's ring gleams in the sunlight. 
 
-Lucas: "Didn't mean to intrude."
-They are startled. 
-Lucas: "I get it. You two are holding onto each other like the wind's about to tear the world apart. I know that feeling, though I haven't felt it in a long time. You think that if you stay very still, maybe nothing can find you." 
-Lucas: "But before I go, humour me... What kind of man was your father? What kind of people was he involved with?" 
-Narration: Elena's father was a silent man. Drank often. Unkind to everyone - Viktor, uncle Kolya... He was hard to love and take care of. Got into conspiracy theories after David came to town. Started mumbling about the Illuminati. 
-Lucas: "The Illuminati huh? What do you know about them?"
-Narration: A secret society of rich and powerful elites that control the world's governments. Some say they are reptiles. Some say they have contact with aliens. 
-Lucas: "Good to know. You should stay in the community center with everyone else."
-Lucas checking the watch: "And if you remember more... tell me before I'm too far in to hear it." 
+**Lucas:** _(with a half-smile)_ _"Don’t worry. I’m exceptionally good at pretending things didn’t happen."_
+
+**Lucas steps closer, his tone shifting—gently probing.**  
+**Lucas:** _"I just had a few questions. About your father. What kind of man was he? What kind of people did he... get involved with?"_
+
+**Narration (as Elena hesitates):**  
+_Her father was a silent man. Drank often. Hard to love. Harder to care for. Harsh with Viktor, with Anya, with Kolya. After David moved to town, he got obsessed with conspiracies. Started muttering about the Illuminati._
+
+**Lucas:** _"Is this ‘Illuminati’ the _they_ you’re afraid of?"_  
+**Narration:**  
+_Elena isn’t sure. All she knows is what her father said—that they’re powerful elites controlling governments, orchestrating something catastrophic. Maybe madness. Maybe truth. Maybe both._
+
+**A long pause. The forest hums. A wind stirs.**  
+**Lucas straightens, brushing off his coat.**  
+**Lucas:** _"Thank you. That’s... helpful."_  
+**Elena:** _"Where are you going?"_  
+**Lucas:** _(tilting his head toward the trees)_ _"Into the forest. Some things can’t be understood from the outside."_  
+**Viktor:** _"Are you sure that’s a good idea?"_  
+**Lucas:** _(with a faint, unreadable smile)_ _"Rarely. But necessary all the same."_
+
+**He steps past them and disappears into the trees. The forest swallows him.**
+
+
+
 
 Lucas carefully steps through the undergrowth. He sees Anya ahead. 
 They walk together: "You know, I used to think the forest was just trees and dirt. But that's wrong. It's a time capsule." 

@@ -2,7 +2,7 @@ Category: [[Classical Mechanics]] [[Lagrangian Mechanics]]
 ___
 Prerequisites: [[2 Euler Lagrange Equation]] [[3 Change of Coordinates for Lagrangian]]
 ___
-Related: 
+Related: A simpler exxplanation in [[1 Symmetry, Conservation, Hamiltonian, Liouville, Statistical Laws]]
 ___
 ## Constant of Motion
 Defined as $F$ for which: 
