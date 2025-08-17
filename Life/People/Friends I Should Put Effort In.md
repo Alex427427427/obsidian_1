@@ -2,6 +2,8 @@ Category: [[Life]] [[Friends]]
 ___
 Related:
 ___
+## Tom, Adrian, Heshan
+
 ## Kelvin
 watch tv
 ## Martin
@@ -12,8 +14,6 @@ chat, movie, gym
 gym, chat, media
 ## Dimitri
 maths, chat, media, games
-## Jasmine
-hang out
 ## Taaj
 engineering, coding
 ## Adam
@@ -46,6 +46,3 @@ Yearly greetings
 
 ### Will Middlewick
 
-### Liv?
-
-### Liz and Yuyan
