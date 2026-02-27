@@ -9,7 +9,7 @@ The hook of the story - the promise set by the premise to the reader - you must 
 ##### Inciting Incident
 *{A slip up in the Conspiracy's otherwise perfect plan (Marco's death).}*
 ##### The First threshold
-*{Seeker pulls on the first thread that reveals how deep and big the Conspiracy is, and alludes to what it is all about (Marco's clue "Look for the ghosts between the city lights").}*
+*{Seeker pulls on the first thread that reveals how deep and big the Conspiracy is, and alludes to what it is all about (Marco's clue "look for the Star of Eurasia").}*
 ## Part 2 - The Disease and the Aliens
 ##### Main Investigation Stage
 *{Seeker gains information (look for aliens, finds Illuminati), encounters resistance from the Conspiracy (avoidance -> distraction -> intimidation).}*

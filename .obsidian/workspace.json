@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da905d85176a1ac0",
+        "id": "0dbc2b04e6656c0c",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb8d04c35e53f8e",
+            "id": "d5fa147da8950563",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/Goals/2026.md",
+                "file": "Art/Projects/Alien Comic/Plot Constants/New Plot Constant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026"
+              "title": "New Plot Constant"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 416.5
   },
   "right": {
     "id": "035afcb343d9af72",
@@ -164,35 +164,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcb8d04c35e53f8e",
+  "active": "d5fa147da8950563",
   "lastOpenFiles": [
-    "Life/Tom's guiding star.md",
-    "Life/2024 Daily Reminder.md",
-    "Life/Problems/I don't know how to approach my career.md",
-    "Life/Journal/2025-1-3 Parmis Tutoring and Family Dinner.md",
-    "Life/Journal/2025-1-5 What makes a good life.md",
-    "Life/Goals/2026.md",
-    "Life/Goals/Maintain Body and Mind.md",
-    "Life/Goals/Try to Contribute to Theoretical Physics.md",
-    "Life/Goals/Master Interest List.md",
-    "Life/Goals/Obtain Financial Security.md",
-    "Life/Goals/Nice to Haves Bucket List.md",
-    "Life/Goals/Publish Graphic Novels.md",
-    "Humanity/Politics/Absolutism.md",
-    "Humanity/Nations/Holy Roman Empire.md",
-    "Humanity/Religion/Catholicism.md",
-    "Humanity/Nations/Roman Empire of Antiquity.md",
-    "Humanity/Nations/Denmark (Kingdom of Denmark).md",
-    "Humanity/Nations/Sweden.md",
-    "Art/Projects/Ocean Comic/2.0/Material/Marina recounting Landon's childhood.md",
-    "Humanity/History/1618 - 1648 Thirty Years' War.md",
-    "Humanity/History/16th Century - Protestant Reformation.md",
-    "Humanity/Nations/Ancient People in Europe.md",
-    "Humanity/Nations/Spain (Kingdom of Spain).md",
-    "Humanity/Nations/Netherlands (Holland).md",
-    "Humanity/Linguistics/Scandinavian Languages.md",
+    "Art/Projects/Alien Comic/Plot/Outline 2.0.md",
+    "Art/Projects/Alien Comic/Plot Constants/New Plot Constant.md",
+    "Art/Projects/Alien Comic/Plot/Outline 1.0.md",
+    "Art/Projects/Alien Comic/Plot/Extended Synopsis 2.0.md",
+    "Art/Projects/Alien Comic/Plot/Extended Synopsis 1.0.md",
+    "Art/Projects/Alien Comic/Plot/Chapter 1 - Abductions.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Story Concept.md",
+    "Art/Projects/Alien Comic/Plot/Alien Comic Plot.md",
+    "Art/Projects/Alien Comic/Story Concept.md",
+    "Art/Projects/Alien Comic/Questionaire.md",
+    "Art/Projects/Alien Comic/Alien Comic Titles.md",
+    "Art/Projects/Alien Comic/Setting/Bureau of Information and Statistics.md",
+    "Art/Projects/Alien Comic/Setting/The Flowerhead Syndrome.md",
+    "Art/Projects/Alien Comic/Setting/The World Science Foundation.md",
+    "Art/Projects/Alien Comic/Setting/Patricia's Conspiracy.md",
+    "Art/Projects/Alien Comic/Setting/The Enlightenment Society.md",
+    "Art/Projects/Alien Comic/Setting/History of Eurasia Timeline.md",
+    "Art/Projects/Alien Comic/Setting/Eurasian Federation Government.md",
+    "Art/Projects/Alien Comic/Setting/Doomsday Song.md",
+    "Art/Projects/Alien Comic/Plot Constants/Eurasian Nucleus.md",
+    "Art/Projects/Alien Comic/Plot Constants/Illuminati.md",
+    "Art/Projects/Alien Comic/Plot Constants/Marco.md",
+    "Art/Projects/Alien Comic/Plot Constants/Patricia.md",
+    "Art/Projects/Alien Comic/Plot Constants/World History.md",
+    "Art/Projects/Alien Comic/Plot/2 Sightings/Plan.md",
+    "Art/Projects/Alien Comic/Material Bank/Patricia's disappointed in Lucas.md",
     "Humanity/Nations/Images/Pasted image 20251011103807.png",
-    "Humanity/History/Tags/History.md",
     "Humanity/History/Images/30yearwar.png",
     "Humanity/History/Images",
     "Humanity/History/Tags",
