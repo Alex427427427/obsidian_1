@@ -23,3 +23,11 @@ If the Atlantian elites knew they would lose to Eurasia, they would never have s
 We play music upon this aether of space. Rippling away at the speed of causality. A sphere of invisible light that grows thinner but wider, engulfing the entire world and the universe beyond in a matter of milliseconds, until even the faintest flicker carries upon it the weight of human knowledge. 
 
 
+### Main Conflict
+Disease. Need to harp on this 
+
+Eurasian government wants to use it as a weapon. the other world governments heard and have sent spies here. 
+
+Illuminati needs to warn the world's people. 
+
+Unknown origin. 
