@@ -52,3 +52,38 @@ We are the Order. We are the Star.
 但待时至，星火重燃，  
 时日未至，秘密仍沉睡。
 然星火未熄，黎明终将破晓。
+
+the thousand rivers and mountains, all a game of go
+a single stone falls, determining human realm.
+
+swords can't cut down cosmic plans
+only the starlight is left to shine upon peaceful forever
+
+gold and pearl are not treasures
+and thrones are just a dream
+one divine promise determines the fate of the world
+the truth hides in the city's darkness. 
+
+
+
+precession of history
+evolution of human deeds
+the city lights have a tale to tell
+that an end is a start as well.
+历史在旋转进动
+
+
+
+we seek truth among the multitudes of warmth and coldness in life
+冷暖人生寻真相，
+like ghostly shadows that swim through a million worlds.
+迷影浮游万世间。
+
+
+却发现，
+真相藏在城市黑暗处。
+
+yet the stars had never stopped shining,
+and dawn will finally break. 
+然而恒星从未停止闪烁，
+黎明终将破晓。

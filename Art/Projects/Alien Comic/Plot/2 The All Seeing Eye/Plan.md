@@ -2,6 +2,8 @@ Category: [[Art]] [[Alien Comic]]
 ___
 Marco dies, not before leaving behind a puzzle for Lucas. 
 
+"Lucas, you must find the star. I tried looking but ran out of time. There's no cure - "
+
 ## Part 1 - Marco Death
 Lucas looks at Marco's corpse. 
 Lucas remembers friendship. 
